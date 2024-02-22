@@ -1,0 +1,71 @@
+Found 18 times in 5 repos.
+
+==================================
+https://github.com/dair-iitd/DeGPR
+==================================
+
+Found 12 times
+torchvision.io.VideoReader(video_path, stream)
+torchvision.io.VideoReader(path, "video")
+VideoReader(full_path, device="cuda")
+VideoReader(full_path, device="cuda")
+VideoReader(full_path, device="cuda")
+VideoReader(full_path, "video")
+VideoReader(full_path, "audio")
+VideoReader(full_path, "video")
+VideoReader(full_path, "video")
+VideoReader(full_path, stream)
+VideoReader(video_path)
+VideoReader(full_path, "video")
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/gallery/plot_video_api.py#L51
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/gallery/plot_video_api.py#L267
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L33
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L57
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L83
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L68
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L101
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L124
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L132
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L159
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L187
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L214
+
+===========================================================
+https://github.com/alexandrosstergiou/Leaping-Into-Memories
+===========================================================
+
+Found 1 times
+torchvision.io.VideoReader(video_filepath, 'video')
+https://github.com/alexandrosstergiou/Leaping-Into-Memories/blob/21d7c297320b7685722d057544e15913954268a4/utils/utils.py#L110
+
+================================================
+https://github.com/YorkUCVIL/Photoconsistent-NVS
+================================================
+
+Found 1 times
+torchvision.io.VideoReader(video_path)
+https://github.com/YorkUCVIL/Photoconsistent-NVS/blob/81e07c189b84a5ebdfcf7ade5bf23148562a71df/src/datasets/Realestate_dataset_video.py#L43
+
+=====================================
+https://github.com/Sarinda251/CDFSL-V
+=====================================
+
+Found 2 times
+torchvision.io.VideoReader(path, "video")
+torchvision.io.VideoReader(path, "video")
+https://github.com/Sarinda251/CDFSL-V/blob/f2103b68d177427e83ed33e741275b879d22b618/VideoDataset.py#L37
+https://github.com/Sarinda251/CDFSL-V/blob/f2103b68d177427e83ed33e741275b879d22b618/trainCurr.py#L70
+
+==============================
+https://github.com/saic-fi/LFA
+==============================
+
+Found 2 times
+torchvision.io.VideoReader(
+        str(file_path), stream="video", num_threads=2
+    )
+torchvision.io.VideoReader(
+        str(video_file), stream="video", num_threads=2
+    )
+https://github.com/saic-fi/LFA/blob/9eecfd195137ab9c4e1f89e67eb4a5e1ab2b8d07/dataset/video_decoder.py#L33
+https://github.com/saic-fi/LFA/blob/9eecfd195137ab9c4e1f89e67eb4a5e1ab2b8d07/dataset/video_utils.py#L33

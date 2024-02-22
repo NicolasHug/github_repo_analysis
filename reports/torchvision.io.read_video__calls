@@ -1,0 +1,209 @@
+Found 50 times in 16 repos.
+
+=================================
+https://github.com/sihyun-yu/PVDM
+=================================
+
+Found 2 times
+read_video(self.video_list[idx])
+read_video(video_path, start_pts, end_pts)
+https://github.com/sihyun-yu/PVDM/blob/389f4ca82dd5c87d5ba88852b601559cec24fcf0/tools/dataloader.py#L141
+https://github.com/sihyun-yu/PVDM/blob/389f4ca82dd5c87d5ba88852b601559cec24fcf0/tools/video_utils.py#L319
+
+=================================
+https://github.com/OpenTalker/DPE
+=================================
+
+Found 3 times
+torchvision.io.read_video(vid_path, pts_unit='sec')
+torchvision.io.read_video(vid_path, pts_unit='sec')
+torchvision.io.read_video(vid_path, pts_unit='sec')
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo.py#L47
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo_paste.py#L55
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo_single.py#L47
+
+==================================
+https://github.com/dair-iitd/DeGPR
+==================================
+
+Found 18 times
+read_video(str(video_path))
+io.read_video(f_name)
+io.read_video(f_name, pts[start], pts[start + offset - 1])
+io.read_video(f_name, pts[4] + 1, pts[7])
+io.read_video(f_name, pts[start], pts[start + offset - 1])
+io.read_video(f_name, pts[4] + 1, pts[7])
+io.read_video(f_name, pts_unit="sec")
+io.read_video(f_name, pts[start], pts[start + offset - 1], pts_unit="sec")
+io.read_video(
+                    f_name, int(pts[4] * (1.0 / stream.time_base) + 1) * stream.time_base, pts[7], pts_unit="sec"
+                )
+io.read_video(f.name)
+io.read_video(f.name, pts_unit="sec")
+io.read_video(f_name, pts_unit="sec")
+io.read_video(out_f_name, pts_unit="sec")
+io.read_video("foo.mp4")
+io.read_video("foo.mp4")
+io.read_video(full_path, start_offset, end_offset, pts_unit="pts")
+io.read_video(full_path, start_offset, end_offset, pts_unit="sec")
+read_video(video_path, start_pts, end_pts)
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/gallery/plot_optical_flow.py#L75
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L76
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L116
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L124
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L136
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L141
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L176
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L200
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L207
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L219
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L244
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L260
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L274
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1220
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1224
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1236
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1249
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/torchvision/datasets/video_utils.py#L327
+
+====================================
+https://github.com/XYPB/CondFoleyGen
+====================================
+
+Found 5 times
+torchvision.io.read_video(vid_path, pts_unit='sec')
+torchvision.io.read_video(origin_path, pts_unit='sec')
+torchvision.io.read_video(path, pts_unit='sec', end_pts=max_clip_len_sec)
+torchvision.io.read_video(path, pts_unit='sec', end_pts=max_clip_len_sec)
+torchvision.io.read_video(args.vid_path, pts_unit='sec')
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/predict_best_sync.py#L45
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/predict_best_sync.py#L158
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/dataset/dataset_utils.py#L54
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/dataset/dataset_utils.py#L59
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/scripts/example.py#L124
+
+==============================
+https://github.com/hengRUC/VSP
+==============================
+
+Found 6 times
+read_video(video_file, pts_unit='sec')
+read_video(video_file, pts_unit='sec')
+read_video(video_file, pts_unit='sec')
+read_video(video_file, pts_unit='sec')
+read_video(video_file, pts_unit='sec')
+read_video(video_file, pts_unit='sec')
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/datasets/finegym.py#L62
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/datasets/kinetics400.py#L69
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/datasets/penn_action.py#L81
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/datasets/pouring.py#L60
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/visualize/visualize_alignment.py#L186
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/visualize/visualize_alignment.py#L192
+
+===================================
+https://github.com/microsoft/VideoX
+===================================
+
+Found 1 times
+torchvision.io.read_video(video_path, start_pts=pts[0], end_pts=pts[-1], pts_unit='sec')
+https://github.com/microsoft/VideoX/blob/71ef17ad97a021e123ba41b78376e21ef4094f75/MS-2D-TAN/lib/datasets/dataset.py#L97
+
+=======================================
+https://github.com/BrandonHanx/FAME-ViL
+=======================================
+
+Found 1 times
+read_video(video_path, start_pts, end_pts)
+https://github.com/BrandonHanx/FAME-ViL/blob/7a259a0813dafe2c23abb422766ef1c29b3bfc7c/mmf/datasets/builders/charades/_utils.py#L158
+
+=========================================
+https://github.com/cvlab-columbia/zero123
+=========================================
+
+Found 1 times
+read_video(ip)
+https://github.com/cvlab-columbia/zero123/blob/f426883b1a7353d91ddc34a551dd91b6223e4ce8/zero123/ldm/modules/evaluate/torch_frechet_video_distance.py#L115
+
+====================================
+https://github.com/sczhou/ProPainter
+====================================
+
+Found 2 times
+torchvision.io.read_video(filename=frame_root, pts_unit='sec')
+torchvision.io.read_video(filename=frame_root, pts_unit='sec')
+https://github.com/sczhou/ProPainter/blob/a39d634423fa0158a3119515a231a4df6390c972/inference_propainter.py#L52
+https://github.com/sczhou/ProPainter/blob/a39d634423fa0158a3119515a231a4df6390c972/web-demos/hugging_face/inpainter/base_inpainter.py#L46
+
+==========================================
+https://github.com/eslambakr/HRS_benchmark
+==========================================
+
+Found 2 times
+torchvision.io.read_video(path)
+torchvision.io.read_video(path)
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/t2i_models/Paella/ongoing_research/text-to-video/test_reconstructions.py#L17
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/t2i_models/Paella/ongoing_research/text-to-video/utils.py#L112
+
+===========================================================
+https://github.com/alexandrosstergiou/Leaping-Into-Memories
+===========================================================
+
+Found 2 times
+read_video(str(vi), output_format="TCHW")
+read_video(str(video_path), output_format="TCHW")
+https://github.com/alexandrosstergiou/Leaping-Into-Memories/blob/21d7c297320b7685722d057544e15913954268a4/leaps.py#L183
+https://github.com/alexandrosstergiou/Leaping-Into-Memories/blob/21d7c297320b7685722d057544e15913954268a4/leaps.py#L198
+
+=========================================
+https://github.com/rohitgandikota/erasing
+=========================================
+
+Found 1 times
+read_video(ip)
+https://github.com/rohitgandikota/erasing/blob/a2189e9ae677aca22a00c361bde25d3d320d8a61/ldm/modules/evaluate/torch_frechet_video_distance.py#L115
+
+===============================
+https://github.com/bo-miao/SgMg
+===============================
+
+Found 1 times
+read_video(os.path.join(self.videos_dir, f'{video_id}.mp4'), pts_unit='sec')
+https://github.com/bo-miao/SgMg/blob/6776894326d0b4a3af6566c726124460125e5e59/datasets/a2d.py#L76
+
+========================================
+https://github.com/MischaD/fobadiffusion
+========================================
+
+Found 1 times
+read_video(ip)
+https://github.com/MischaD/fobadiffusion/blob/cf2f777a4ff23b96d035ee0aa2808a7b0850a36d/finetune-stable-diffusion/ldm/modules/evaluate/torch_frechet_video_distance.py#L115
+
+===========================================
+https://github.com/wudongming97/OnlineRefer
+===========================================
+
+Found 1 times
+read_video(os.path.join(self.videos_dir, f'{video_id}.mp4'), pts_unit='sec')
+https://github.com/wudongming97/OnlineRefer/blob/5f13c5e35dd8231d29c52ad7b2d298471e9edbc8/datasets/a2d.py#L76
+
+=========================================
+https://github.com/facebookresearch/vlamp
+=========================================
+
+Found 3 times
+read_video(
+            str(video_file), start_pts=start, end_pts=end, pts_unit="sec"
+        )
+read_video(
+            str(video_file),
+            pts_unit="sec",
+        )
+read_video(
+                str(video_file),
+                start_pts=time,
+                end_pts=time + 0.0001,
+                pts_unit="sec",
+            )
+https://github.com/facebookresearch/vlamp/blob/c321facaccb315eb74888e500f4aa7f67e5b1123/src/vlamp/dataset_readers/common.py#L300
+https://github.com/facebookresearch/vlamp/blob/c321facaccb315eb74888e500f4aa7f67e5b1123/src/vlamp/dataset_readers/common.py#L309
+https://github.com/facebookresearch/vlamp/blob/c321facaccb315eb74888e500f4aa7f67e5b1123/src/vlamp/dataset_readers/common.py#L327

@@ -1,0 +1,165 @@
+Found 22 times in 11 repos.
+
+========================================
+https://github.com/mit-han-lab/sparsevit
+========================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/mit-han-lab/sparsevit/blob/aae6a5af59518a3cde21b2c4bafb80c9059243d1/demo/video_gpuaccel_demo.py#L77
+https://github.com/mit-han-lab/sparsevit/blob/aae6a5af59518a3cde21b2c4bafb80c9059243d1/demo/video_gpuaccel_demo.py#L81
+
+===========================================
+https://github.com/rawalkhirodkar/egohumans
+===========================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmdetection/demo/video_gpuaccel_demo.py#L77
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmdetection/demo/video_gpuaccel_demo.py#L81
+
+==========================================
+https://github.com/eslambakr/HRS_benchmark
+==========================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/mmdetection-master/demo/video_gpuaccel_demo.py#L77
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/mmdetection-master/demo/video_gpuaccel_demo.py#L81
+
+====================================
+https://github.com/TinyTigerPan/BCKD
+====================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/TinyTigerPan/BCKD/blob/121c9aa272c9195c0f05cd12727bfe57636a5005/demo/video_gpuaccel_demo.py#L77
+https://github.com/TinyTigerPan/BCKD/blob/121c9aa272c9195c0f05cd12727bfe57636a5005/demo/video_gpuaccel_demo.py#L81
+
+==============================================
+https://github.com/Lipurple/Grounded-Diffusion
+==============================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/Lipurple/Grounded-Diffusion/blob/5680115dcf5196d3736e2b1d157e9f5c7c6869ce/mmdetection/demo/video_gpuaccel_demo.py#L77
+https://github.com/Lipurple/Grounded-Diffusion/blob/5680115dcf5196d3736e2b1d157e9f5c7c6869ce/mmdetection/demo/video_gpuaccel_demo.py#L81
+
+=================================
+https://github.com/LL3RD/ACFormer
+=================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/LL3RD/ACFormer/blob/57aeb5e3aa7922843d823c74df351984b081b133/thirdparty/mmdetection/demo/video_gpuaccel_demo.py#L77
+https://github.com/LL3RD/ACFormer/blob/57aeb5e3aa7922843d823c74df351984b081b133/thirdparty/mmdetection/demo/video_gpuaccel_demo.py#L81
+
+===============================
+https://github.com/zhangzjn/EMO
+===============================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmdetection/demo/video_gpuaccel_demo.py#L77
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmdetection/demo/video_gpuaccel_demo.py#L81
+
+=====================================
+https://github.com/shaunyuan22/CFINet
+=====================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/shaunyuan22/CFINet/blob/2167eebdc420046165e78a7555e40b044355cb58/demo/video_gpuaccel_demo.py#L77
+https://github.com/shaunyuan22/CFINet/blob/2167eebdc420046165e78a7555e40b044355cb58/demo/video_gpuaccel_demo.py#L81
+
+==================================
+https://github.com/Sense-X/Co-DETR
+==================================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/Sense-X/Co-DETR/blob/bf3d49d7c02929788dfe2f251b6b01cbe196b736/demo/video_gpuaccel_demo.py#L77
+https://github.com/Sense-X/Co-DETR/blob/bf3d49d7c02929788dfe2f251b6b01cbe196b736/demo/video_gpuaccel_demo.py#L81
+
+=========================================
+https://github.com/jellyheadandrew/CHORUS
+=========================================
+
+Found 2 times
+VideoCapture(args.video_path)
+VideoCapture(
+        args.video_path,
+        resize=resize_wh,
+        resize_keepratio=True,
+        pix_fmt='rgb24')
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/mmpose/demo/top_down_video_demo_full_frame_without_det_gpuaccel.py#L173
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/mmpose/demo/top_down_video_demo_full_frame_without_det_gpuaccel.py#L177
+
+==============================
+https://github.com/EricZsy/ROG
+==============================
+
+Found 2 times
+VideoCapture(args.video)
+VideoCapture(
+        args.video,
+        resize=resize_wh,
+        resize_keepratio=True,
+        resize_keepratioalign='topleft',
+        pix_fmt='rgb24')
+https://github.com/EricZsy/ROG/blob/1dad3cf68376bd41f0e08292108a5e4a47c15903/demo/video_gpuaccel_demo.py#L77
+https://github.com/EricZsy/ROG/blob/1dad3cf68376bd41f0e08292108a5e4a47c15903/demo/video_gpuaccel_demo.py#L81

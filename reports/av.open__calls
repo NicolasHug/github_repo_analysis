@@ -1,0 +1,523 @@
+Found 108 times in 51 repos.
+
+=============================
+https://github.com/zju3dv/pvo
+=============================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+============================================
+https://github.com/xingyi-li/3d-cinemagraphy
+============================================
+
+Found 2 times
+av.open(self.file, format=self.format)
+av.open(self.file, format=self.format)
+https://github.com/xingyi-li/3d-cinemagraphy/blob/8fbbe56ba57492e54476374e01053ac567ca1f4f/lib/utils/data_utils.py#L39
+https://github.com/xingyi-li/3d-cinemagraphy/blob/8fbbe56ba57492e54476374e01053ac567ca1f4f/lib/utils/data_utils.py#L88
+
+========================================
+https://github.com/Vision-CAIR/MammalNet
+========================================
+
+Found 4 times
+av.open(path_to_vid)
+av.open(path_to_vid)
+av.open(path_to_vid)
+av.open(path_to_vid)
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/build/lib/slowfast/datasets/video_container.py#L23
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/slowfast/datasets/video_container.py#L23
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/build/lib/slowfast/datasets/video_container.py#L23
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/slowfast/datasets/video_container.py#L23
+
+============================================
+https://github.com/adaptivetokensampling/ATS
+============================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/adaptivetokensampling/ATS/blob/21633b99eb62a17ef6793e804e455b16d19bc6cf/libs/datasets/video_container.py#L22
+
+====================================
+https://github.com/pengzhiliang/G2SD
+====================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+======================================================
+https://github.com/adobe-research/affordance-insertion
+======================================================
+
+Found 1 times
+av.open(clip_path)
+https://github.com/adobe-research/affordance-insertion/blob/ec7e931201281d02bb2d95812eb4c1523366b574/ldm/data/data_from_videos.py#L116
+
+==========================================
+https://github.com/mf-zhang/Structural-MPI
+==========================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+==================================================
+https://github.com/nianticlabs/nerf-object-removal
+==================================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+==================================
+https://github.com/dair-iitd/DeGPR
+==================================
+
+Found 19 times
+av.open(f_name)
+av.open(f_name)
+av.open(f_name)
+av.open(f_name)
+av.open(f_name)
+av.open(out_f_name)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(full_path)
+av.open(filename, mode="w")
+av.open(filename, metadata_errors="ignore")
+av.open(filename, metadata_errors="ignore")
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L102
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L164
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L186
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L205
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L279
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_io.py#L280
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L34
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L60
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_gpu_decoder.py#L85
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L152
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L187
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1233
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_video_reader.py#L1246
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L58
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L90
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/test/test_videoapi.py#L198
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/torchvision/io/video.py#L91
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/torchvision/io/video.py#L287
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/torchvision/io/video.py#L388
+
+===============================
+https://github.com/stoneMo/AVGN
+===============================
+
+Found 3 times
+av.open(path)
+av.open(path)
+av.open(inpt, format=format)
+https://github.com/stoneMo/AVGN/blob/5ab8cab2a414ca87c2b7787f66ad1474679ad6f2/audio_io.py#L13
+https://github.com/stoneMo/AVGN/blob/5ab8cab2a414ca87c2b7787f66ad1474679ad6f2/audio_io.py#L25
+https://github.com/stoneMo/AVGN/blob/5ab8cab2a414ca87c2b7787f66ad1474679ad6f2/audio_io.py#L84
+
+======================================
+https://github.com/OpenNLPLab/FNAC_AVL
+======================================
+
+Found 3 times
+av.open(path)
+av.open(path)
+av.open(inpt, format=format)
+https://github.com/OpenNLPLab/FNAC_AVL/blob/0a0ca78aa4b263fde37af85c82f4f6812853c6de/audio_io.py#L13
+https://github.com/OpenNLPLab/FNAC_AVL/blob/0a0ca78aa4b263fde37af85c82f4f6812853c6de/audio_io.py#L25
+https://github.com/OpenNLPLab/FNAC_AVL/blob/0a0ca78aa4b263fde37af85c82f4f6812853c6de/audio_io.py#L86
+
+===============================
+https://github.com/mlvlab/MELTR
+===============================
+
+Found 1 times
+av.open(f)
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/violet/tools/extract_video-frame.py#L26
+
+=====================================
+https://github.com/clovaai/PointWSSIS
+=====================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+===================================
+https://github.com/csvt32745/FTP-VM
+===================================
+
+Found 1 times
+av.open(path, mode='w')
+https://github.com/csvt32745/FTP-VM/blob/9fa2c7bd9dda173fb0660fc44d64f4b6620186a5/inference_io.py#L33
+
+==============================
+https://github.com/naver/relis
+==============================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+=================================
+https://github.com/baaivision/EVA
+=================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+============================
+https://github.com/intel/TVP
+============================
+
+Found 1 times
+av.open(in_mem_bytes_io, metadata_errors="ignore")
+https://github.com/intel/TVP/blob/5c7e27f9ef344824984d01dbf1e7cba82ae66dc5/src/datasets/dataset_base.py#L130
+
+==========================================
+https://github.com/md-mohaiminul/TranS4mer
+==========================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/md-mohaiminul/TranS4mer/blob/98de379770e0d4034280abb9923928c103377286/trans4mer/model/TimeSformer/timesformer/datasets/video_container.py#L23
+
+==================================
+https://github.com/MCG-NJU/STMixer
+==================================
+
+Found 1 times
+av.open(video_path)
+https://github.com/MCG-NJU/STMixer/blob/2c3cd1de2623fc47ad93cfda3a8fcb9713736a55/alphaction/utils/video_decode.py#L5
+
+=====================================
+https://github.com/farewellthree/STAN
+=====================================
+
+Found 1 times
+av.open(file_obj)
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/mmaction/datasets/transforms/loading.py#L797
+
+================================================
+https://github.com/facebookresearch/ProcedureVRL
+================================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/facebookresearch/ProcedureVRL/blob/fcbf833bf469d42f0d657be5ff7ec092d68e65aa/lib/datasets/video_container.py#L24
+
+=====================================
+https://github.com/ChenHsing/SVFormer
+=====================================
+
+Found 2 times
+av.open(path_to_vid)
+av.open(path_to_vid)
+https://github.com/ChenHsing/SVFormer/blob/51d6698f69a1ef5f079dd9c4624836a3d42d98c2/build/lib/timesformer/datasets/video_container.py#L23
+https://github.com/ChenHsing/SVFormer/blob/51d6698f69a1ef5f079dd9c4624836a3d42d98c2/timesformer/datasets/video_container.py#L23
+
+=========================================
+https://github.com/facebookresearch/EgoT2
+=========================================
+
+Found 7 times
+av.open(video_path)
+av.open(video_path)
+av.open(video_path)
+av.open(self.path_to_video)
+av.open(video_path)
+av.open(in_path, mode="r")
+av.open(out_path, mode="w")
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/long_term_anticipation_auxtask.py#L308
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/long_term_anticipation_auxtask.py#L630
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/long_term_anticipation_lta_auxtask.py#L293
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/short_term_anticipation.py#L233
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/pnr/StateChangeDetectionAndKeyframeLocalisation.py#L356
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/utils/pnr/trim.py#L377
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/utils/pnr/trim.py#L378
+
+============================================
+https://github.com/BeSpontaneous/FFN-pytorch
+============================================
+
+Found 4 times
+av.open(path_to_vid)
+av.open(path_to_vid)
+av.open(path_to_vid)
+av.open(path_to_vid)
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/build/lib/slowfast/datasets/video_container.py#L23
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/slowfast/datasets/video_container.py#L23
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/datasets/video_container.py#L28
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/datasets/video_container.py#L28
+
+==========================================
+https://github.com/facebookresearch/HierVL
+==========================================
+
+Found 1 times
+av.open(video_path)
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L398
+
+=======================================
+https://github.com/TalalWasim/Vita-CLIP
+=======================================
+
+Found 1 times
+av.open(path)
+https://github.com/TalalWasim/Vita-CLIP/blob/c85829935b4ff73f7e92f0b956f59a5a944a6569/video_dataset/dataset.py#L56
+
+================================
+https://github.com/basilevh/tcow
+================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/basilevh/tcow/blob/28b80c192f7c7d714a3f632dbadb29aa01e549c4/third_party/TimeSformer/timesformer/datasets/video_container.py#L23
+
+===================================
+https://github.com/showlab/afformer
+===================================
+
+Found 1 times
+av.open(filename, metadata_errors="ignore")
+https://github.com/showlab/afformer/blob/c4dc71788af77afa15ea96a30391c4a7e726889f/data/video_io.py#L103
+
+===================================
+https://github.com/Wayne-Mai/EgoLoc
+===================================
+
+Found 1 times
+av.open(filename, 'r')
+https://github.com/Wayne-Mai/EgoLoc/blob/15de77277b5a2d37d98817b2cd1331c3a3424a6e/2d_retrieval/extract_frames_from_clips_vq3d.py#L18
+
+===================================
+https://github.com/wqtwjt1996/SUM-L
+===================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/wqtwjt1996/SUM-L/blob/9d57c619545e0bc5d16f30fbf332839971b6752c/slowfast/datasets/video_container.py#L23
+
+==========================================
+https://github.com/andrewsonga/Total-Recon
+==========================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+==============================
+https://github.com/yhZhai/SOAR
+==============================
+
+Found 1 times
+av.open(file_obj)
+https://github.com/yhZhai/SOAR/blob/2640a88ea0d57d70a8b86e1df62e2c53e3630719/mmaction/datasets/pipelines/loading.py#L763
+
+===============================
+https://github.com/MCG-NJU/EVAD
+===============================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/MCG-NJU/EVAD/blob/0efdb7e1156d4b0b419cd240555f8bbca45e4bf6/slowfast/datasets/video_container.py#L23
+
+=======================================
+https://github.com/sqiangcao99/E2E-LOAD
+=======================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/sqiangcao99/E2E-LOAD/blob/beddae33d57b30393ccb2145be377ce3953183bf/src/datasets/video_container.py#L23
+
+==================================
+https://github.com/AndongDeng/BEAR
+==================================
+
+Found 1 times
+av.open(file_obj)
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/benchmark/BEAR-Standard/mmaction/datasets/pipelines/loading.py#L779
+
+========================================
+https://github.com/mxin262/ESTextSpotter
+========================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/mxin262/ESTextSpotter/blob/21717310bfb9b32108e5124206dcaf66d90a5e34/detectron2-0.2.1/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L34
+https://github.com/mxin262/ESTextSpotter/blob/21717310bfb9b32108e5124206dcaf66d90a5e34/detectron2-0.2.1/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L105
+
+============================================
+https://github.com/facebookresearch/EgoVLPv2
+============================================
+
+Found 4 times
+av.open(video_path)
+av.open(video_path)
+av.open(video_path)
+av.open(video_path)
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L357
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L359
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L357
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L357
+
+===================================
+https://github.com/simon3dv/SLR-SFS
+===================================
+
+Found 2 times
+av.open(self.file, format=self.format)
+av.open(self.file, format=self.format)
+https://github.com/simon3dv/SLR-SFS/blob/fa8d61046dfa19d80c5605be4a64e71f499b58f7/utils/utils.py#L136
+https://github.com/simon3dv/SLR-SFS/blob/fa8d61046dfa19d80c5605be4a64e71f499b58f7/utils/utils.py#L185
+
+====================================
+https://github.com/SamsungLabs/DINAR
+====================================
+
+Found 2 times
+av.open(self.filepath)
+av.open(self.filepath, mode='w')
+https://github.com/SamsungLabs/DINAR/blob/736895897b13e670cd3800e2eede15b50a1c0c66/utils/visualization/av_utils.py#L31
+https://github.com/SamsungLabs/DINAR/blob/736895897b13e670cd3800e2eede15b50a1c0c66/utils/visualization/av_utils.py#L87
+
+=========================================
+https://github.com/rainy-xu/TALL4Deepfake
+=========================================
+
+Found 1 times
+av.open(os.path.join(self.root_path, record.path))
+https://github.com/rainy-xu/TALL4Deepfake/blob/3fcec51f154697da0e672ae1890c138b2f5eec9b/video_dataset.py#L984
+
+======================================
+https://github.com/lihaoxin05/StillMix
+======================================
+
+Found 2 times
+av.open(file_obj)
+av.open(file_obj)
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/Video-Swin-Transformer/mmaction/datasets/pipelines/loading.py#L779
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/datasets/pipelines/loading.py#L764
+
+=============================================
+https://github.com/OpenGVLab/unmasked_teacher
+=============================================
+
+Found 2 times
+av.open(video_path)
+av.open(video_path)
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/multi_modality/dataset/video_utils.py#L90
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/action_detection/alphaction/utils/video_decode.py#L4
+
+=================================
+https://github.com/mshukor/eP-ALM
+=================================
+
+Found 2 times
+av.open(path_to_vid)
+av.open(video_path)
+https://github.com/mshukor/eP-ALM/blob/9ecfeb9acf9a128ab9b6b72e0a68bf8918d47833/TimeSformer/timesformer/datasets/video_container.py#L23
+https://github.com/mshukor/eP-ALM/blob/9ecfeb9acf9a128ab9b6b72e0a68bf8918d47833/dataset/video_utils.py#L85
+
+========================================
+https://github.com/OpenGVLab/UniFormerV2
+========================================
+
+Found 1 times
+av.open(path_to_vid)
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/datasets/video_container.py#L25
+
+=================================
+https://github.com/Separius/SCALE
+=================================
+
+Found 2 times
+av.open(path_to_vid)
+av.open(path_to_vid)
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/datasets/video_container.py#L26
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/datasets/video_container_orig.py#L23
+
+=========================================
+https://github.com/jellyheadandrew/CHORUS
+=========================================
+
+Found 2 times
+av.open(io, mode="r")
+av.open(io)
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L35
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/projects/DensePose/densepose/data/video/video_keyframe_dataset.py#L112
+
+==============================================================
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos
+==============================================================
+
+Found 1 times
+av.open(video_path)
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L441
+
+===============================
+https://github.com/stoneMo/CIGN
+===============================
+
+Found 3 times
+av.open(path)
+av.open(path)
+av.open(inpt, format=format)
+https://github.com/stoneMo/CIGN/blob/c64d8397e8c9d6a4776be2db199343693857804d/audio_io.py#L13
+https://github.com/stoneMo/CIGN/blob/c64d8397e8c9d6a4776be2db199343693857804d/audio_io.py#L25
+https://github.com/stoneMo/CIGN/blob/c64d8397e8c9d6a4776be2db199343693857804d/audio_io.py#L84
+
+==============================
+https://github.com/saic-fi/LFA
+==============================
+
+Found 1 times
+av.open(video_file)
+https://github.com/saic-fi/LFA/blob/9eecfd195137ab9c4e1f89e67eb4a5e1ab2b8d07/dataset/video_decoder.py#L90
+
+==================================
+https://github.com/acherstyx/CoCap
+==================================
+
+Found 1 times
+av.open(video_path)
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L86
+
+===================================
+https://github.com/webber2933/iCLIP
+===================================
+
+Found 1 times
+av.open(video_path)
+https://github.com/webber2933/iCLIP/blob/d89204fd85d2089c7428ee291f1d26ce9bc3ea5e/iCLIP/utils/video_decode.py#L6

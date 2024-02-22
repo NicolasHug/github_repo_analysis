@@ -1,0 +1,3133 @@
+Found 774 times in 261 repos.
+
+=============================
+https://github.com/zju3dv/pvo
+=============================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/demo/demo.py#L139
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/demo/demo.py#L148
+
+=====================================
+https://github.com/Caoang327/HexPlane
+=====================================
+
+Found 2 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(videos[index])
+https://github.com/Caoang327/HexPlane/blob/fc99b61da94fc406702d9e080ca5e37f5d7dcfad/hexplane/dataloader/neural_3D_dataset_NDC.py#L117
+https://github.com/Caoang327/HexPlane/blob/fc99b61da94fc406702d9e080ca5e37f5d7dcfad/hexplane/dataloader/neural_3D_dataset_NDC.py#L322
+
+==================================
+https://github.com/xinliu29/NCMNet
+==================================
+
+Found 2 times
+cv2.VideoCapture(camid)
+cv2.VideoCapture(basedir)
+https://github.com/xinliu29/NCMNet/blob/f7e7e806a9312da568bc5bf784c6e0d73884dd74/dump_match/superpoint.py#L505
+https://github.com/xinliu29/NCMNet/blob/f7e7e806a9312da568bc5bf784c6e0d73884dd74/dump_match/superpoint.py#L510
+
+=====================================
+https://github.com/limacv/VideoLoop3D
+=====================================
+
+Found 2 times
+cv2.VideoCapture(videos_path[0])
+cv2.VideoCapture(args.input_path)
+https://github.com/limacv/VideoLoop3D/blob/615c665a7e3ffaf079c4fb5c9cc596a3bcf4e136/dataloader.py#L145
+https://github.com/limacv/VideoLoop3D/blob/615c665a7e3ffaf079c4fb5c9cc596a3bcf4e136/scripts/script_owndata_step1_standardization.py#L39
+
+=========================================
+https://github.com/GAP-LAB-CUHK-SZ/REC-MV
+=========================================
+
+Found 1 times
+cv2.VideoCapture(video)
+https://github.com/GAP-LAB-CUHK-SZ/REC-MV/blob/5898020efc3a7b9fb50c255a59ee638e3b9676e7/preprocess/people_snapshot_process.py#L47
+
+=======================================
+https://github.com/feixue94/imp-release
+=======================================
+
+Found 3 times
+cv2.VideoCapture(int(basedir))
+cv2.VideoCapture(basedir)
+cv2.VideoCapture(basedir)
+https://github.com/feixue94/imp-release/blob/f6d18d958eabee0a3835cd80abe54aa30d359c78/tools/utils.py#L131
+https://github.com/feixue94/imp-release/blob/f6d18d958eabee0a3835cd80abe54aa30d359c78/tools/utils.py#L135
+https://github.com/feixue94/imp-release/blob/f6d18d958eabee0a3835cd80abe54aa30d359c78/tools/utils.py#L154
+
+===================================
+https://github.com/JokerYan/NeRF-DS
+===================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/JokerYan/NeRF-DS/blob/f0bd3844f47a5c77289527a404a954e459a4e116/utils/calculate_quantitative_results.py#L190
+
+====================================
+https://github.com/PJLab-ADG/LoGoNet
+====================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/PJLab-ADG/LoGoNet/blob/a231f99682d6e8943f660867448fc00a1d3339a9/detection/al3d_det/models/image_modules/swin_model/demo/webcam_demo.py#L30
+
+=============================================
+https://github.com/facebookresearch/hyperreel
+=============================================
+
+Found 4 times
+cv2.VideoCapture(self.video_paths[video_idx])
+cv2.VideoCapture(self.video_paths[idx % self.images_per_frame])
+cv2.VideoCapture(self.video_paths[video_idx])
+cv2.VideoCapture(self.video_paths[idx % self.images_per_frame])
+https://github.com/facebookresearch/hyperreel/blob/20d4befda57611f7a3ab6e4e286a14feab30085d/datasets/immersive.py#L335
+https://github.com/facebookresearch/hyperreel/blob/20d4befda57611f7a3ab6e4e286a14feab30085d/datasets/immersive.py#L591
+https://github.com/facebookresearch/hyperreel/blob/20d4befda57611f7a3ab6e4e286a14feab30085d/datasets/neural_3d.py#L229
+https://github.com/facebookresearch/hyperreel/blob/20d4befda57611f7a3ab6e4e286a14feab30085d/datasets/neural_3d.py#L428
+
+===================================
+https://github.com/TingtingLiao/CAR
+===================================
+
+Found 1 times
+cv2.VideoCapture(id)
+https://github.com/TingtingLiao/CAR/blob/d60f4a8578c1b77e31697c121ecfe98a6b689ecf/lib/pymaf/utils/streamer.py#L86
+
+=========================================
+https://github.com/dvlab-research/Ref-NPR
+=========================================
+
+Found 1 times
+cv2.VideoCapture(str(video_file))
+https://github.com/dvlab-research/Ref-NPR/blob/b738f3dd0e21ae5718c46f88d02be48e8bcfcbc1/opt/scripts/proc_record3d.py#L45
+
+=====================================
+https://github.com/jiaxinxie97/HFGI3D
+=====================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/jiaxinxie97/HFGI3D/blob/139d0c67046ee4fd3a41edd6320646c8c6b0b287/inversion/models/StyleCLIP/global_directions/utils/visualizer.py#L542
+
+================================
+https://github.com/VDIGPKU/T-SEA
+================================
+
+Found 10 times
+cv2.VideoCapture(0 if opt.demo == 'webcam' else opt.demo)
+cv2.VideoCapture(0)
+cv2.VideoCapture(0)
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+cv2.VideoCapture(0)
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/AfreeDet/CenterNet/CenterNet/src/demo.py#L25
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov4/Pytorch_YOLOv4/demo.py#L75
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov4/Pytorch_YOLOv4/tool/camera.py#L55
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/models/utils/datasets.py#L234
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/models/utils/datasets.py#L247
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/models/utils/datasets.py#L308
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/utils/datasets.py#L234
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/utils/datasets.py#L247
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/detlib/HHDet/yolov5/yolov5/models/utils/datasets.py#L308
+https://github.com/VDIGPKU/T-SEA/blob/953b3ce2f8447cf63e7ae55c7a96d9b3ebc797d7/scripts/demo.py#L52
+
+=====================================================
+https://github.com/shighghyujie/infrared_patch_attack
+=====================================================
+
+Found 3 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+https://github.com/shighghyujie/infrared_patch_attack/blob/1fb0e024d563909bf36ce9c98c8705adbd25af99/yolov3/utils/datasets.py#L234
+https://github.com/shighghyujie/infrared_patch_attack/blob/1fb0e024d563909bf36ce9c98c8705adbd25af99/yolov3/utils/datasets.py#L247
+https://github.com/shighghyujie/infrared_patch_attack/blob/1fb0e024d563909bf36ce9c98c8705adbd25af99/yolov3/utils/datasets.py#L308
+
+=================================
+https://github.com/sunyiyou/SAFAS
+=================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/sunyiyou/SAFAS/blob/72436d496d40c826dc1dc3b5e3c3bb2d6e1deb44/preposess.py#L49
+
+==================================================
+https://github.com/google-research/google-research
+==================================================
+
+Found 4 times
+cv2.VideoCapture(video_filename)
+cv2.VideoCapture(video_file_path)
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/tcc/dataset_preparation/dataset_utils.py#L153
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/uflow/misc/convert_video_to_dataset.py#L65
+
+==============================================================================================
+https://github.com/a1600012888/Analyzing-Physical-Impacts-using-Transient-Surface-Wave-Imaging
+==============================================================================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/a1600012888/Analyzing-Physical-Impacts-using-Transient-Surface-Wave-Imaging/blob/e43b9cc73d3990ac5b9b0015bcbce6adae6300a3/src/opencv_video_helper.py#L203
+
+====================================
+https://github.com/Depth2World/NLOST
+====================================
+
+Found 5 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+https://github.com/Depth2World/NLOST/blob/dc8a1babfc090b0545c94f63f77fdb47098abadb/models/utils_pytorch/fk_1_10.py#L293
+https://github.com/Depth2World/NLOST/blob/dc8a1babfc090b0545c94f63f77fdb47098abadb/models/utils_pytorch/lct_1_10.py#L199
+https://github.com/Depth2World/NLOST/blob/dc8a1babfc090b0545c94f63f77fdb47098abadb/models/utils_pytorch/phasor_1_10.py#L210
+https://github.com/Depth2World/NLOST/blob/dc8a1babfc090b0545c94f63f77fdb47098abadb/util/LFEDataset.py#L217
+https://github.com/Depth2World/NLOST/blob/dc8a1babfc090b0545c94f63f77fdb47098abadb/util/LFEDataset.py#L368
+
+======================================================
+https://github.com/compphoto/RealisticImageEnhancement
+======================================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(input_video_file)
+https://github.com/compphoto/RealisticImageEnhancement/blob/4eef719000e3c0c2fe93d4a0e7b7de230b327553/model/MiDaS/ros/midas_cpp/scripts/talker.py#L23
+https://github.com/compphoto/RealisticImageEnhancement/blob/4eef719000e3c0c2fe93d4a0e7b7de230b327553/model/MiDaS/ros/midas_cpp/scripts/talker.py#L25
+
+=================================
+https://github.com/SensorsINI/e2p
+=================================
+
+Found 22 times
+cv2.VideoCapture(method1_path)
+cv2.VideoCapture(method2_path)
+cv2.VideoCapture(method1_path)
+cv2.VideoCapture(method2_path)
+cv2.VideoCapture(method1_path)
+cv2.VideoCapture(method2_path)
+cv2.VideoCapture(method3_path)
+cv2.VideoCapture(method1_path)
+cv2.VideoCapture(method2_path)
+cv2.VideoCapture(method3_path)
+cv2.VideoCapture(method1_path)
+cv2.VideoCapture(method2_path)
+cv2.VideoCapture(method3_path)
+cv2.VideoCapture(method4_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path_12)
+cv2.VideoCapture(path_21)
+cv2.VideoCapture(path_22)
+cv2.VideoCapture(path_31)
+cv2.VideoCapture(path_32)
+cv2.VideoCapture(os.path.join(input_dir, video_name))
+cv2.VideoCapture(video_path)
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align2.py#L59
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align2.py#L60
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align2_real.py#L36
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align2_real.py#L37
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3.py#L63
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3.py#L64
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3.py#L65
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3_real.py#L38
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3_real.py#L39
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align3_real.py#L40
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align4.py#L53
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align4.py#L54
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align4.py#L55
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/align4.py#L56
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/my_video2frame.py#L26
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/align_video.py#L33
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/align_video.py#L34
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/align_video.py#L35
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/align_video.py#L36
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/align_video.py#L37
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/gt2p.py#L33
+https://github.com/SensorsINI/e2p/blob/87fd42fbb267ee10d95c7ba46a729c750378ad1c/train/utils/pvideo2iad.py#L28
+
+==========================================
+https://github.com/celebv-text/CelebV-Text
+==========================================
+
+Found 1 times
+cv2.VideoCapture(raw_vid_path)
+https://github.com/celebv-text/CelebV-Text/blob/44e4d6355c5951598536ce88354fdae23df9167f/download_and_process.py#L78
+
+========================================
+https://github.com/Vision-CAIR/MammalNet
+========================================
+
+Found 12 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/build/lib/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/build/lib/slowfast/visualization/demo_loader.py#L39
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/build/lib/slowfast/visualization/demo_loader.py#L170
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/slowfast/visualization/demo_loader.py#L39
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/slowfast/visualization/demo_loader.py#L170
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/build/lib/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/build/lib/slowfast/visualization/demo_loader.py#L39
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/build/lib/slowfast/visualization/demo_loader.py#L170
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/slowfast/visualization/demo_loader.py#L39
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/slowfast/visualization/demo_loader.py#L170
+
+=============================
+https://github.com/yhlleo/MJP
+=============================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/yhlleo/MJP/blob/7bd2915a8f5011056628684ed061a2deb834217f/eval/video_loader.py#L34
+
+==========================================
+https://github.com/IDEA-Research/MP-Former
+==========================================
+
+Found 5 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/IDEA-Research/MP-Former/blob/a71f504a467d7079cf02726a05ff23bbb933607d/demo/demo.py#L145
+https://github.com/IDEA-Research/MP-Former/blob/a71f504a467d7079cf02726a05ff23bbb933607d/demo/demo.py#L154
+https://github.com/IDEA-Research/MP-Former/blob/a71f504a467d7079cf02726a05ff23bbb933607d/demo_video/demo.py#L150
+https://github.com/IDEA-Research/MP-Former/blob/a71f504a467d7079cf02726a05ff23bbb933607d/demo_video/demo.py#L160
+https://github.com/IDEA-Research/MP-Former/blob/a71f504a467d7079cf02726a05ff23bbb933607d/demo_video/demo.py#L187
+
+===============================
+https://github.com/wenwenyu/TCM
+===============================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/wenwenyu/TCM/blob/cfa4756f4082d7d00e76161fb81dfa2c079d181c/mmocr_src/demo/webcam_demo.py#L36
+
+===================================
+https://github.com/microsoft/i-Code
+===================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/microsoft/i-Code/blob/d2c8d9ab4a199680a6392e4c028e27b291796c88/i-Code-Studio/MultimodalAgent/BotApp/tools/aml_cv_wrapper.py#L55
+
+==================================
+https://github.com/microsoft/Cream
+==================================
+
+Found 2 times
+cv2.VideoCapture(filename)
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/CDARTS/CDARTS_detection/mmcv/video/io.py#L76
+
+====================================
+https://github.com/pengzhiliang/G2SD
+====================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/demo/demo.py#L139
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/demo/demo.py#L148
+
+==================================================
+https://github.com/huawei-noah/Efficient-Computing
+==================================================
+
+Found 2 times
+cv2.VideoCapture(video_source)
+cv2.VideoCapture(path)
+https://github.com/huawei-noah/Efficient-Computing/blob/ae362e43dddeb07f32f48755c2f621434c3761ea/Detection/Gold-YOLO/deploy/ONNX/OpenCV/yolo_video.py#L125
+https://github.com/huawei-noah/Efficient-Computing/blob/ae362e43dddeb07f32f48755c2f621434c3761ea/Detection/Gold-YOLO/yolov6/data/datasets.py#L656
+
+========================================
+https://github.com/mit-han-lab/sparsevit
+========================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/mit-han-lab/sparsevit/blob/aae6a5af59518a3cde21b2c4bafb80c9059243d1/demo/webcam_demo.py#L31
+
+=================================================
+https://github.com/SLDGroup/GradientFilter-CVPR23
+=================================================
+
+Found 4 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/SLDGroup/GradientFilter-CVPR23/blob/33be753cdb10c88c24d736fae7acb699033e6886/segmentation/mmsegmentation/demo/video_demo.py#L58
+https://github.com/SLDGroup/GradientFilter-CVPR23/blob/33be753cdb10c88c24d736fae7acb699033e6886/segmentation/mmsegmentation/tools/convert_datasets/drive.py#L61
+https://github.com/SLDGroup/GradientFilter-CVPR23/blob/33be753cdb10c88c24d736fae7acb699033e6886/segmentation/mmsegmentation/tools/convert_datasets/drive.py#L85
+https://github.com/SLDGroup/GradientFilter-CVPR23/blob/33be753cdb10c88c24d736fae7acb699033e6886/segmentation/mmsegmentation/tools/convert_datasets/drive.py#L100
+
+===========================================
+https://github.com/mwalmer-umd/vit_analysis
+===========================================
+
+Found 1 times
+cv2.VideoCapture(inp)
+https://github.com/mwalmer-umd/vit_analysis/blob/c8810df6d599fb5c81c55eec37ca026ec243193d/dino/video_generation.py#L103
+
+================================
+https://github.com/valeoai/OCTET
+================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/valeoai/OCTET/blob/90477605407ab438d395b30e6bbd43ec4cadbff9/src/utils/visualizer.py#L636
+
+=================================
+https://github.com/yingji425/STCE
+=================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/yingji425/STCE/blob/3a517a2093c7de3ea582a58aaf9ace0787692897/ace_helpers.py#L72
+
+=============================
+https://github.com/IVRL/DyNCA
+=============================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/IVRL/DyNCA/blob/fef491e22262a8632b6ca1c46f528fa7d2351a12/utils/misc/preprocess_texture.py#L50
+
+=====================================
+https://github.com/guanjz20/StyleSync
+=====================================
+
+Found 2 times
+cv2.VideoCapture(args.face)
+cv2.VideoCapture(video_name)
+https://github.com/guanjz20/StyleSync/blob/d7abd98a786dd38c176173c4355f7b00fd4e227e/inference.py#L47
+https://github.com/guanjz20/StyleSync/blob/d7abd98a786dd38c176173c4355f7b00fd4e227e/inference.py#L56
+
+===============================
+https://github.com/EzioBy/glead
+===============================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/EzioBy/glead/blob/bc8e13c8cadb25ced34ccd468f91b94e9f024a13/utils/visualizer.py#L681
+
+==========================================
+https://github.com/mf-zhang/Structural-MPI
+==========================================
+
+Found 7 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/Mask2Former/demo/demo.py#L145
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/Mask2Former/demo/demo.py#L154
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/Mask2Former/demo_video/demo.py#L150
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/Mask2Former/demo_video/demo.py#L160
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/Mask2Former/demo_video/demo.py#L187
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/demo/demo.py#L139
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/demo/demo.py#L148
+
+=============================================
+https://github.com/Meta-Portrait/MetaPortrait
+=============================================
+
+Found 2 times
+cv2.VideoCapture(video)
+cv2.VideoCapture(video)
+https://github.com/Meta-Portrait/MetaPortrait/blob/4c3c9e38d000f7db50c3a7ab736161f7aecc741a/sr_model/Basicsr/scripts/data_preparation/extract_hdtf_alignment.py#L39
+https://github.com/Meta-Portrait/MetaPortrait/blob/4c3c9e38d000f7db50c3a7ab736161f7aecc741a/sr_model/Basicsr/scripts/data_preparation/extract_hdtf_images.py#L35
+
+==========================================
+https://github.com/linfengWen98/CAP-VSTNet
+==========================================
+
+Found 1 times
+cv2.VideoCapture(args.video)
+https://github.com/linfengWen98/CAP-VSTNet/blob/cd7cbcc3c4acba2f758657554dbe70aff505b99b/video_transfer.py#L73
+
+==========================================
+https://github.com/researchmm/MM-Diffusion
+==========================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/researchmm/MM-Diffusion/blob/1d2d5ad9b47f57e7d300e087af8eb93181da094d/evaluations/util.py#L161
+
+========================================
+https://github.com/nihaomiao/CVPR23_LFDM
+========================================
+
+Found 3 times
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(rgb_video_path)
+https://github.com/nihaomiao/CVPR23_LFDM/blob/bc1ff9a3279921a5d74f6e0b76ea9e505b242bc7/preprocessing/preprocess_MHAD.py#L44
+https://github.com/nihaomiao/CVPR23_LFDM/blob/bc1ff9a3279921a5d74f6e0b76ea9e505b242bc7/preprocessing/preprocess_MHAD.py#L60
+https://github.com/nihaomiao/CVPR23_LFDM/blob/bc1ff9a3279921a5d74f6e0b76ea9e505b242bc7/preprocessing/preprocess_NATOPS.py#L75
+
+======================================
+https://github.com/afruehstueck/VIVE3D
+======================================
+
+Found 2 times
+cv2.VideoCapture(path, cv2.CAP_FFMPEG)
+cv2.VideoCapture(video_source_path, cv2.CAP_FFMPEG)
+https://github.com/afruehstueck/VIVE3D/blob/c3b6abd1b1b62dacc1f31ecbbc1cd5ef7e98e3be/vive3D/util.py#L38
+https://github.com/afruehstueck/VIVE3D/blob/c3b6abd1b1b62dacc1f31ecbbc1cd5ef7e98e3be/vive3D/video_tool.py#L25
+
+=======================================
+https://github.com/OpenTalker/SadTalker
+=======================================
+
+Found 6 times
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(pic_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(input_path)
+cv2.VideoCapture(input_path)
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/face3d/extract_kp_videos.py#L60
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/face3d/extract_kp_videos_safe.py#L103
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/utils/paste_pic.py#L17
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/utils/paste_pic.py#L30
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/utils/preprocess.py#L80
+https://github.com/OpenTalker/SadTalker/blob/cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8/src/utils/videoio.py#L9
+
+=================================
+https://github.com/OpenTalker/DPE
+=================================
+
+Found 4 times
+cv2.VideoCapture(path_video)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(videoPath)
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/crop_video.py#L98
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo.py#L64
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo_paste.py#L197
+https://github.com/OpenTalker/DPE/blob/76a86c40132422929b98e26a366969f12ee66260/run_demo_single.py#L64
+
+=====================================
+https://github.com/MrTornado24/Next3D
+=====================================
+
+Found 5 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(camera_id)
+cv2.VideoCapture(path)
+cv2.VideoCapture(video_path)
+https://github.com/MrTornado24/Next3D/blob/bdab84fc12cb61bd1002a3efb2c0a707a1139d97/dataset_preprocessing/ffhq/deca/decalib/datasets/datasets.py#L35
+https://github.com/MrTornado24/Next3D/blob/bdab84fc12cb61bd1002a3efb2c0a707a1139d97/dataset_preprocessing/ffhq/deca/decalib/datasets/train_datasets.py#L398
+https://github.com/MrTornado24/Next3D/blob/bdab84fc12cb61bd1002a3efb2c0a707a1139d97/dataset_preprocessing/ffhq/faceverse/data_reader.py#L22
+https://github.com/MrTornado24/Next3D/blob/bdab84fc12cb61bd1002a3efb2c0a707a1139d97/dataset_preprocessing/ffhq/faceverse/data_reader.py#L156
+https://github.com/MrTornado24/Next3D/blob/bdab84fc12cb61bd1002a3efb2c0a707a1139d97/dnnlib/util.py#L524
+
+==================================================
+https://github.com/nianticlabs/nerf-object-removal
+==================================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/demo/demo.py#L139
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/demo/demo.py#L148
+
+==============================
+https://github.com/FeiiYin/SPI
+==============================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/FeiiYin/SPI/blob/f2bc63619a17451afc7d24f3ea5d5eca06d511ad/preprocess/video2frames.py#L8
+
+===================================
+https://github.com/Sxjdwang/TalkLip
+===================================
+
+Found 7 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(path)
+cv2.VideoCapture(vfile)
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/inf_demo.py#L168
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/inf_test.py#L159
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/train.py#L236
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/evaluation/SyncNetInstance_calc_scores.py#L161
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/evaluation/teacher_force_wer.py#L94
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/evaluation/visual_quality.py#L9
+https://github.com/Sxjdwang/TalkLip/blob/7ed53ee2f0ffb3636de49e0f24719eef1c757252/preparation/bbx_extract.py#L14
+
+================================
+https://github.com/chi0tzp/FALCO
+================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/chi0tzp/FALCO/blob/67c6a3010d292c5e6fd0774e5234fd9c88ee7291/models/genforce/utils/visualizer.py#L682
+
+==================================
+https://github.com/dair-iitd/DeGPR
+==================================
+
+Found 3 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/yolov5/utils/datasets.py#L233
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/yolov5/utils/datasets.py#L246
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/yolov5/utils/datasets.py#L307
+
+======================================
+https://github.com/Weizhi-Zhong/IP_LAP
+======================================
+
+Found 3 times
+cv2.VideoCapture(input_video_path)
+cv2.VideoCapture(input_video_path)
+cv2.VideoCapture(mp4_path)
+https://github.com/Weizhi-Zhong/IP_LAP/blob/9b9dc03f0e90b10b92c904b202443c160afe7c45/inference_single.py#L206
+https://github.com/Weizhi-Zhong/IP_LAP/blob/9b9dc03f0e90b10b92c904b202443c160afe7c45/inference_single.py#L214
+https://github.com/Weizhi-Zhong/IP_LAP/blob/9b9dc03f0e90b10b92c904b202443c160afe7c45/preprocess/preprocess_video.py#L209
+
+======================================
+https://github.com/shicaiwei123/MMANet
+======================================
+
+Found 1 times
+cv2.VideoCapture(pathIn)
+https://github.com/shicaiwei123/MMANet/blob/0d374148398e9c865b387801d05a850ac19d0f8f/classification/lib/processing_utils.py#L379
+
+====================================
+https://github.com/XYPB/CondFoleyGen
+====================================
+
+Found 4 times
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/scripts/make_lrs3_again.py#L130
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/feature_extraction/demo_utils.py#L307
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/feature_extraction/demo_utils.py#L435
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/feature_extraction/demo_utils.py#L607
+
+=========================================
+https://github.com/joannahong/AV-RelScore
+=========================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/joannahong/AV-RelScore/blob/17b9f022d069347659239265feb8cdb4735b9d67/Visual_perturb.py#L282
+
+=============================================
+https://github.com/facebookresearch/av_hubert
+=============================================
+
+Found 5 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(video_fn)
+cv2.VideoCapture(video_fn)
+https://github.com/facebookresearch/av_hubert/blob/258fb50e155134eec2c4b49c2ae8de267075fd18/avhubert/utils.py#L16
+https://github.com/facebookresearch/av_hubert/blob/258fb50e155134eec2c4b49c2ae8de267075fd18/avhubert/preparation/align_mouth.py#L47
+https://github.com/facebookresearch/av_hubert/blob/258fb50e155134eec2c4b49c2ae8de267075fd18/avhubert/preparation/align_mouth.py#L53
+https://github.com/facebookresearch/av_hubert/blob/258fb50e155134eec2c4b49c2ae8de267075fd18/avhubert/preparation/count_frames.py#L19
+https://github.com/facebookresearch/av_hubert/blob/258fb50e155134eec2c4b49c2ae8de267075fd18/avhubert/preparation/count_frames_slurm.py#L20
+
+=====================================
+https://github.com/Xeaver/EmotionCLIP
+=====================================
+
+Found 4 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(pipe)
+cv2.VideoCapture(url)
+https://github.com/Xeaver/EmotionCLIP/blob/ce193c740f79daf8467913541967a2c3be5cbb78/preprocessing/yolo_additions/datasets.py#L203
+https://github.com/Xeaver/EmotionCLIP/blob/ce193c740f79daf8467913541967a2c3be5cbb78/preprocessing/yolo_additions/datasets.py#L291
+https://github.com/Xeaver/EmotionCLIP/blob/ce193c740f79daf8467913541967a2c3be5cbb78/preprocessing/yolo_additions/datasets.py#L310
+https://github.com/Xeaver/EmotionCLIP/blob/ce193c740f79daf8467913541967a2c3be5cbb78/preprocessing/yolo_additions/datasets.py#L379
+
+===============================
+https://github.com/mlvlab/MELTR
+===============================
+
+Found 6 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_src)
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/base_dataset.py#L325
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L317
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L419
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L456
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L491
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L581
+
+==========================================================
+https://github.com/sukun1045/video-physics-sound-diffusion
+==========================================================
+
+Found 2 times
+cv2.VideoCapture(video_filename)
+cv2.VideoCapture(video_filename)
+https://github.com/sukun1045/video-physics-sound-diffusion/blob/b8654f60e8d767395f72c5652c81dd8eb8b06a54/video_to_frames.py#L19
+https://github.com/sukun1045/video-physics-sound-diffusion/blob/b8654f60e8d767395f72c5652c81dd8eb8b06a54/video-physics-sound-diffusion/tools/video_to_frames.py#L20
+
+=====================================================
+https://github.com/fanyunfeng-bit/Modal-Imbalance-PMR
+=====================================================
+
+Found 3 times
+cv2.VideoCapture(self.video_path)
+cv2.VideoCapture(self.video_path)
+cv2.VideoCapture(self.video_path)
+https://github.com/fanyunfeng-bit/Modal-Imbalance-PMR/blob/3615e48983555089b0e693380087617c3797a641/data/AVE/video_preprocessing.py#L19
+https://github.com/fanyunfeng-bit/Modal-Imbalance-PMR/blob/3615e48983555089b0e693380087617c3797a641/data/CREMAD/video_preprocessing.py#L19
+https://github.com/fanyunfeng-bit/Modal-Imbalance-PMR/blob/3615e48983555089b0e693380087617c3797a641/data/VGGSound/video_preprocessing.py#L13
+
+========================================
+https://github.com/tusen-ai/Anchor3DLane
+========================================
+
+Found 3 times
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/tusen-ai/Anchor3DLane/blob/6f3c5d01b82078724aee45c25b856ad3efc702ae/tools/convert_datasets/drive.py#L61
+https://github.com/tusen-ai/Anchor3DLane/blob/6f3c5d01b82078724aee45c25b856ad3efc702ae/tools/convert_datasets/drive.py#L85
+https://github.com/tusen-ai/Anchor3DLane/blob/6f3c5d01b82078724aee45c25b856ad3efc702ae/tools/convert_datasets/drive.py#L100
+
+================================
+https://github.com/hujiecpp/YOSO
+================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/hujiecpp/YOSO/blob/04b898d395ffd8318aa3761b0b2b6d20b3514f26/demo/demo.py#L150
+https://github.com/hujiecpp/YOSO/blob/04b898d395ffd8318aa3761b0b2b6d20b3514f26/demo/demo.py#L159
+
+======================================
+https://github.com/LilyDaytoy/OpenPVSG
+======================================
+
+Found 2 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(str(video_path))
+https://github.com/LilyDaytoy/OpenPVSG/blob/4aee63bc343274f9a1d591e8d61f3e86f50616a8/models/unitrack/data/video.py#L83
+https://github.com/LilyDaytoy/OpenPVSG/blob/4aee63bc343274f9a1d591e8d61f3e86f50616a8/tools/unzip_and_extract.py#L73
+
+=====================================
+https://github.com/baaivision/Painter
+=====================================
+
+Found 2 times
+cv2.VideoCapture(vid_path)
+https://github.com/baaivision/Painter/blob/7ac5aefe28e711f7daef495bb07aa1605ad4addc/SegGPT/SegGPT_inference/seggpt_engine.py#L109
+
+=================================
+https://github.com/hesedjds/SQUAT
+=================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/hesedjds/SQUAT/blob/bd2e21c6f0ba3e79616581ce9067f8c9919b231f/demo/webcam.py#L67
+
+====================================================================
+https://github.com/moshuilanting/fast-context-scene-graph-generation
+====================================================================
+
+Found 3 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+https://github.com/moshuilanting/fast-context-scene-graph-generation/blob/f97d470cca5b18f0db5804a87bfc71236ff1729d/VG_dataset/utils/datasets.py#L230
+https://github.com/moshuilanting/fast-context-scene-graph-generation/blob/f97d470cca5b18f0db5804a87bfc71236ff1729d/VG_dataset/utils/datasets.py#L242
+https://github.com/moshuilanting/fast-context-scene-graph-generation/blob/f97d470cca5b18f0db5804a87bfc71236ff1729d/VG_dataset/utils/datasets.py#L302
+
+=============================================
+https://github.com/ViTAE-Transformer/DeepSolo
+=============================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/ViTAE-Transformer/DeepSolo/blob/8c7452083c9273228b7e303b9792d24d387fe6d6/demo/demo.py#L108
+https://github.com/ViTAE-Transformer/DeepSolo/blob/8c7452083c9273228b7e303b9792d24d387fe6d6/demo/demo.py#L116
+
+=================================
+https://github.com/lyhdet/OV-3DET
+=================================
+
+Found 2 times
+cv2.VideoCapture(int(args.webcam))
+cv2.VideoCapture(args.video_input)
+https://github.com/lyhdet/OV-3DET/blob/2a6e30c92dc4f21f3bf35ca54a8e642ab7131a3d/Data_Maker/Pseudo_Label_Maker/demo.py#L263
+https://github.com/lyhdet/OV-3DET/blob/2a6e30c92dc4f21f3bf35ca54a8e642ab7131a3d/Data_Maker/Pseudo_Label_Maker/demo.py#L272
+
+=========================================================
+https://github.com/chufengt/Visual-Recognition-by-Request
+=========================================================
+
+Found 6 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/instance-segmentation/demo/demo.py#L108
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/instance-segmentation/demo/demo.py#L116
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/whole-to-part-semantic-segmentation/demo/video_demo.py#L58
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/whole-to-part-semantic-segmentation/tools/convert_datasets/drive.py#L61
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/whole-to-part-semantic-segmentation/tools/convert_datasets/drive.py#L85
+https://github.com/chufengt/Visual-Recognition-by-Request/blob/3373ec09e9cf3ea5290c6b60818adfc4ebc76b88/whole-to-part-semantic-segmentation/tools/convert_datasets/drive.py#L100
+
+==========================================
+https://github.com/MinghanLi/MDQE_CVPR2023
+==========================================
+
+Found 1 times
+cv2.VideoCapture(-1)
+https://github.com/MinghanLi/MDQE_CVPR2023/blob/eca2de3558ea09e52365b54985aab0783834270d/demo/demo.py#L110
+
+============================
+https://github.com/lslrh/SIM
+============================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/lslrh/SIM/blob/b2510defc9effc78b12d64b62391383951a9055c/demo/demo.py#L108
+https://github.com/lslrh/SIM/blob/b2510defc9effc78b12d64b62391383951a9055c/demo/demo.py#L116
+
+====================================
+https://github.com/SysCV/MaskFreeVIS
+====================================
+
+Found 4 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/SysCV/MaskFreeVIS/blob/0e7018b7fe613b0469a095bda7725dbd906d3161/demo/demo.py#L130
+https://github.com/SysCV/MaskFreeVIS/blob/0e7018b7fe613b0469a095bda7725dbd906d3161/demo/demo.py#L139
+https://github.com/SysCV/MaskFreeVIS/blob/0e7018b7fe613b0469a095bda7725dbd906d3161/demo_video/demo.py#L152
+https://github.com/SysCV/MaskFreeVIS/blob/0e7018b7fe613b0469a095bda7725dbd906d3161/demo_video/demo.py#L174
+
+================================
+https://github.com/wjf5203/VNext
+================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/wjf5203/VNext/blob/f00187144ee7ccb65f45bbc018121ebd32dbeccc/demo/demo.py#L139
+https://github.com/wjf5203/VNext/blob/f00187144ee7ccb65f45bbc018121ebd32dbeccc/demo/demo.py#L148
+
+=====================================
+https://github.com/clovaai/PointWSSIS
+=====================================
+
+Found 4 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/AdelaiDet/demo/demo.py#L108
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/AdelaiDet/demo/demo.py#L116
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/demo/demo.py#L139
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/demo/demo.py#L148
+
+================================
+https://github.com/fudan-zvg/GSS
+================================
+
+Found 3 times
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/fudan-zvg/GSS/blob/b9909a471b09a244fa9da7d80a839df3c4e273c2/tools/convert_datasets/drive.py#L61
+https://github.com/fudan-zvg/GSS/blob/b9909a471b09a244fa9da7d80a839df3c4e273c2/tools/convert_datasets/drive.py#L85
+https://github.com/fudan-zvg/GSS/blob/b9909a471b09a244fa9da7d80a839df3c4e273c2/tools/convert_datasets/drive.py#L100
+
+=================================
+https://github.com/grantword8/BLV
+=================================
+
+Found 3 times
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/grantword8/BLV/blob/e08cc6cbfe158fedbfaecc82196a8c2ff5725b70/fully_sup/tools/convert_datasets/drive.py#L61
+https://github.com/grantword8/BLV/blob/e08cc6cbfe158fedbfaecc82196a8c2ff5725b70/fully_sup/tools/convert_datasets/drive.py#L85
+https://github.com/grantword8/BLV/blob/e08cc6cbfe158fedbfaecc82196a8c2ff5725b70/fully_sup/tools/convert_datasets/drive.py#L100
+
+======================================
+https://github.com/junjiehe96/FastInst
+======================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/junjiehe96/FastInst/blob/4996a613ef86305a58e990fa414f5957a5639cbe/demo/demo.py#L145
+https://github.com/junjiehe96/FastInst/blob/4996a613ef86305a58e990fa414f5957a5639cbe/demo/demo.py#L154
+
+==================================
+https://github.com/miranheo/GenVIS
+==================================
+
+Found 3 times
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/miranheo/GenVIS/blob/58db73c184b977a55cf19b19f50a1b496132bdc0/demo/demo.py#L146
+https://github.com/miranheo/GenVIS/blob/58db73c184b977a55cf19b19f50a1b496132bdc0/demo/demo.py#L156
+https://github.com/miranheo/GenVIS/blob/58db73c184b977a55cf19b19f50a1b496132bdc0/demo/demo.py#L183
+
+===================================
+https://github.com/nowsyn/sparsemat
+===================================
+
+Found 1 times
+cv2.VideoCapture(input_path)
+https://github.com/nowsyn/sparsemat/blob/2678757dfb7db185f91ee54e54d1e68944febded/demo.py#L65
+
+===================================
+https://github.com/TACJu/Compositor
+===================================
+
+Found 6 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(0)
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_Mask2Former/demo/demo.py#L145
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_Mask2Former/demo/demo.py#L154
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_Mask2Former/demo_video/demo.py#L150
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_Mask2Former/demo_video/demo.py#L160
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_Mask2Former/demo_video/demo.py#L187
+https://github.com/TACJu/Compositor/blob/ccda83fcf4093287958ce35236eac464d19f0b00/Compositor_kMaX-DeepLab/demo/demo.py#L153
+
+===============================
+https://github.com/ziplab/FASeg
+===============================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/ziplab/FASeg/blob/206b3a13012680f2bdf1dbf0970bbc07a0c78440/demo/demo.py#L145
+https://github.com/ziplab/FASeg/blob/206b3a13012680f2bdf1dbf0970bbc07a0c78440/demo/demo.py#L154
+
+===================================
+https://github.com/csvt32745/FTP-VM
+===================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/csvt32745/FTP-VM/blob/9fa2c7bd9dda173fb0660fc44d64f4b6620186a5/webcam.py#L165
+
+==============================
+https://github.com/naver/relis
+==============================
+
+Found 13 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo/demo.py#L145
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo/demo.py#L154
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo/.ipynb_checkpoints/demo-checkpoint.py#L145
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo/.ipynb_checkpoints/demo-checkpoint.py#L154
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo_video/demo.py#L150
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo_video/demo.py#L160
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/Mask2Former/demo_video/demo.py#L187
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/demo/demo.py#L139
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/demo/demo.py#L148
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/mmsegmentation/demo/video_demo.py#L58
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/mmsegmentation/tools/convert_datasets/drive.py#L61
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/mmsegmentation/tools/convert_datasets/drive.py#L85
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/mmsegmentation/tools/convert_datasets/drive.py#L100
+
+==========================================
+https://github.com/facebookresearch/CutLER
+==========================================
+
+Found 7 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/cutler/demo/demo.py#L148
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/cutler/demo/demo.py#L157
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/videocutler/demo/demo.py#L145
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/videocutler/demo/demo.py#L154
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/videocutler/demo_video/demo.py#L183
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/videocutler/demo_video/demo.py#L193
+https://github.com/facebookresearch/CutLER/blob/32ab22f66445fd3ed2afd28961b9d45e0fc72bff/videocutler/demo_video/demo.py#L220
+
+=================================
+https://github.com/baaivision/EVA
+=================================
+
+Found 4 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/det/demo/demo.py#L139
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/det/demo/demo.py#L148
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/demo/demo.py#L139
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/demo/demo.py#L148
+
+==============================
+https://github.com/GANPerf/LCR
+==============================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/GANPerf/LCR/blob/fe591d4ee9b6dccba8710f9f73ef41b9a129f013/hand_detector.py#L4
+
+===================================
+https://github.com/jimmy-dq/DropMAE
+===================================
+
+Found 2 times
+cv2.VideoCapture(v_path)
+cv2.VideoCapture(v_path)
+https://github.com/jimmy-dq/DropMAE/blob/5db038045c550b4f153ae6b458608d71a16dfba9/process_data/extract_ff.py#L40
+https://github.com/jimmy-dq/DropMAE/blob/5db038045c550b4f153ae6b458608d71a16dfba9/process_data/resize_video.py#L22
+
+=================================
+https://github.com/CVRL/SiNC-rPPG
+=================================
+
+Found 2 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(vid_path, cv2.CAP_FFMPEG)
+https://github.com/CVRL/SiNC-rPPG/blob/4c8ef7ccc14e4636f7e8f53230ef6b89cd51b4aa/src/preprocessing/utils.py#L50
+https://github.com/CVRL/SiNC-rPPG/blob/4c8ef7ccc14e4636f7e8f53230ef6b89cd51b4aa/src/preprocessing/utils.py#L115
+
+=============================
+https://github.com/relh/moves
+=============================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/relh/moves/blob/c7390565c3a2b9b14f56a81920a226c216041af0/pseudolabeller.py#L76
+
+=========================================
+https://github.com/neuroethology/BKinD-3D
+=========================================
+
+Found 2 times
+cv2.VideoCapture(fname_dict[cname])
+cv2.VideoCapture(fname_dict[cname])
+https://github.com/neuroethology/BKinD-3D/blob/cd8a4e6771c65915f084aef2d61a282c09886acb/dataloader/fly_dataset.py#L112
+https://github.com/neuroethology/BKinD-3D/blob/cd8a4e6771c65915f084aef2d61a282c09886acb/dataloader/rat_dataset.py#L157
+
+============================================
+https://github.com/ZhendongWang6/AltFreezing
+============================================
+
+Found 4 times
+cv2.VideoCapture(intput_video)
+cv2.VideoCapture(input_file)
+cv2.VideoCapture(path)
+cv2.VideoCapture(path)
+https://github.com/ZhendongWang6/AltFreezing/blob/ff90ceb606f84981ad8567ae381d2caf2c1982c9/test_tools/supply_writer.py#L5
+https://github.com/ZhendongWang6/AltFreezing/blob/ff90ceb606f84981ad8567ae381d2caf2c1982c9/test_tools/utils.py#L28
+https://github.com/ZhendongWang6/AltFreezing/blob/ff90ceb606f84981ad8567ae381d2caf2c1982c9/test_tools/ct/detection/utils.py#L18
+https://github.com/ZhendongWang6/AltFreezing/blob/ff90ceb606f84981ad8567ae381d2caf2c1982c9/test_tools/ct/detection/utils.py#L34
+
+=============================================
+https://github.com/fahadshamshad/Clip2Protect
+=============================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/fahadshamshad/Clip2Protect/blob/8596a82cd04a1c85ecc6a805daa2d2710d85de96/models/StyleCLIP/global_directions/utils/visualizer.py#L542
+
+==================================
+https://github.com/qiulingxu/MEDIC
+==================================
+
+Found 3 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(pipe)
+cv2.VideoCapture(0 if s == '0' else s)
+https://github.com/qiulingxu/MEDIC/blob/042e7699d713c5f42ea7461fc5a004bac0792701/composite/yolov3/utils/datasets.py#L113
+https://github.com/qiulingxu/MEDIC/blob/042e7699d713c5f42ea7461fc5a004bac0792701/composite/yolov3/utils/datasets.py#L139
+https://github.com/qiulingxu/MEDIC/blob/042e7699d713c5f42ea7461fc5a004bac0792701/composite/yolov3/utils/datasets.py#L202
+
+===================================================================
+https://github.com/alexandrosstergiou/progressive-action-prediction
+===================================================================
+
+Found 2 times
+cv2.VideoCapture(self.video_path)
+cv2.VideoCapture(video_path)
+https://github.com/alexandrosstergiou/progressive-action-prediction/blob/3f2ff82e8aaae713a10058877374a0c08e33c02c/data/video_iterator.py#L73
+https://github.com/alexandrosstergiou/progressive-action-prediction/blob/3f2ff82e8aaae713a10058877374a0c08e33c02c/data/video_iterator.py#L397
+
+========================================
+https://github.com/DAVEISHAN/TimeBalance
+========================================
+
+Found 5 times
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(vid_path)
+https://github.com/DAVEISHAN/TimeBalance/blob/2efb8cb7374e1a20766cdf19b6382d0a1f5963a3/dataloaders/dl_linear_frameids.py#L113
+https://github.com/DAVEISHAN/TimeBalance/blob/2efb8cb7374e1a20766cdf19b6382d0a1f5963a3/dataloaders/dl_linear_frameids.py#L384
+https://github.com/DAVEISHAN/TimeBalance/blob/2efb8cb7374e1a20766cdf19b6382d0a1f5963a3/dataloaders/dl_semisup_2clips.py#L133
+https://github.com/DAVEISHAN/TimeBalance/blob/2efb8cb7374e1a20766cdf19b6382d0a1f5963a3/dataloaders/dl_semisup_2clips.py#L387
+https://github.com/DAVEISHAN/TimeBalance/blob/2efb8cb7374e1a20766cdf19b6382d0a1f5963a3/dataloaders/dl_ssl.py#L88
+
+========================================
+https://github.com/Junhua-Liao/Light-ASD
+========================================
+
+Found 2 times
+cv2.VideoCapture(os.path.join(args.pycropPath, fileName + '.avi'))
+cv2.VideoCapture(videoFile)
+https://github.com/Junhua-Liao/Light-ASD/blob/00a4a4efcd0cef91deb3154edd5dd940b65a15bd/Columbia_test.py#L216
+https://github.com/Junhua-Liao/Light-ASD/blob/00a4a4efcd0cef91deb3154edd5dd940b65a15bd/utils/tools.py#L163
+
+=====================================
+https://github.com/farewellthree/STAN
+=====================================
+
+Found 2 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/mmaction/utils/misc.py#L54
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tools/misc/flow_extraction.py#L90
+
+===========================================
+https://github.com/ju-chen/Efficient-Prompt
+===========================================
+
+Found 1 times
+cv2.VideoCapture(videoins)
+https://github.com/ju-chen/Efficient-Prompt/blob/1f69a189d0a35fdb2192e21ff8a2dd2cfd0fb7cb/feat/visfeat.py#L39
+
+========================================
+https://github.com/wenzhengzeng/MPEblink
+========================================
+
+Found 2 times
+cv2.VideoCapture(source_video_path)
+cv2.VideoCapture(video_path)
+https://github.com/wenzhengzeng/MPEblink/blob/603dde5debc3524dc4065fe332bd001fce3bc17b/tools/code_for_demo/video2img_info.py#L20
+https://github.com/wenzhengzeng/MPEblink/blob/603dde5debc3524dc4065fe332bd001fce3bc17b/tools/dataset_converters/mpeblink_build_raw_frames_dataset.py#L54
+
+==============================
+https://github.com/hengRUC/VSP
+==============================
+
+Found 2 times
+cv2.VideoCapture(video_filename)
+cv2.VideoCapture(output_file)
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/dataset_preparation/dataset_utils.py#L138
+https://github.com/hengRUC/VSP/blob/e08491650f50cfa256d4e784c06327ea7cbbdec8/dataset_preparation/finegym_process.py#L74
+
+=========================================
+https://github.com/facebookresearch/EgoT2
+=========================================
+
+Found 1 times
+cv2.VideoCapture(os.path.join(self.video_path, f'{uid}.mp4'))
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HHI/dataset/ttm/data_loader.py#L201
+
+============================================
+https://github.com/BeSpontaneous/FFN-pytorch
+============================================
+
+Found 12 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/build/lib/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/build/lib/slowfast/visualization/demo_loader.py#L39
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/build/lib/slowfast/visualization/demo_loader.py#L170
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/slowfast/visualization/demo_loader.py#L39
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/slowfast/visualization/demo_loader.py#L170
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/visualization/demo_loader.py#L39
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/visualization/demo_loader.py#L170
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/visualization/demo_loader.py#L39
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/visualization/demo_loader.py#L170
+
+==================================
+https://github.com/TencentARC/TVTS
+==================================
+
+Found 12 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset.py#L207
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset.py#L247
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L292
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L334
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L395
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/utils/video.py#L12
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset.py#L289
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset.py#L332
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L292
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L334
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L395
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/utils/video.py#L12
+
+==========================================
+https://github.com/facebookresearch/HierVL
+==========================================
+
+Found 9 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(input_path)
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L232
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L260
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L266
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L267
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L312
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L365
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L436
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/utils/video.py#L16
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/utils/video_chunk.py#L41
+
+=======================================
+https://github.com/sayaknag/unbiasedSGG
+=======================================
+
+Found 1 times
+cv2.VideoCapture(webcam_num)
+https://github.com/sayaknag/unbiasedSGG/blob/d3a8fffb7d1ec7678a2c302ce413578eec7e3cbb/fasterRCNN/demo.py#L260
+
+================================
+https://github.com/basilevh/tcow
+================================
+
+Found 1 times
+cv2.VideoCapture(self.src_fp)
+https://github.com/basilevh/tcow/blob/28b80c192f7c7d714a3f632dbadb29aa01e549c4/data/data_plugin.py#L264
+
+=========================================
+https://github.com/lawrence-cj/ARKitTrack
+=========================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/lawrence-cj/ARKitTrack/blob/f5ae31ac584d970b80f4322c9dddcc06476116de/lib/test/evaluation/tracker.py#L188
+
+==================================
+https://github.com/Little-Podi/GRM
+==================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/Little-Podi/GRM/blob/466ceb73e7420fe5ff0b9266262e305365b23d28/lib/test/evaluation/tracker.py#L209
+
+=====================================
+https://github.com/lizhou-cs/JointNLT
+=====================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/lizhou-cs/JointNLT/blob/94b338e19f7bc4a4d9646b0f0ac82321e9bddb26/lib/test/evaluation/tracker.py#L184
+
+===================================
+https://github.com/microsoft/VideoX
+===================================
+
+Found 3 times
+cv.VideoCapture(videofilepath)
+cv.VideoCapture(0)
+cv.VideoCapture(videofilepath)
+https://github.com/microsoft/VideoX/blob/71ef17ad97a021e123ba41b78376e21ef4094f75/SeqTrack/external/AR/pytracking/evaluation/tracker.py#L261
+https://github.com/microsoft/VideoX/blob/71ef17ad97a021e123ba41b78376e21ef4094f75/SeqTrack/external/AR/pytracking/evaluation/tracker.py#L396
+https://github.com/microsoft/VideoX/blob/71ef17ad97a021e123ba41b78376e21ef4094f75/SeqTrack/lib/test/evaluation/tracker.py#L185
+
+==================================
+https://github.com/jiawen-zhu/ViPT
+==================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/jiawen-zhu/ViPT/blob/b316fb0cf29a0552f169360556bdc691e43f8452/lib/test/evaluation/tracker.py#L198
+
+================================
+https://github.com/SysCV/ovtrack
+================================
+
+Found 1 times
+cv2.VideoCapture()
+https://github.com/SysCV/ovtrack/blob/612945335adac0026f853a879067a169702ce312/tools/inference.py#L21
+
+===================================
+https://github.com/MIV-XJTU/ARTrack
+===================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/MIV-XJTU/ARTrack/blob/f6c549ee059a23248ed414e043664473b14d4b6c/lib/test/evaluation/tracker.py#L186
+
+===============================
+https://github.com/RyanHTR/TBSI
+===============================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/RyanHTR/TBSI/blob/6456fdd34b7bbd48f41c989f00d9172a81b395c9/lib/test/evaluation/tracker.py#L194
+
+===================================
+https://github.com/NVlabs/BundleSDF
+===================================
+
+Found 3 times
+cv2.VideoCapture(int(basedir))
+cv2.VideoCapture(basedir)
+cv2.VideoCapture(basedir)
+https://github.com/NVlabs/BundleSDF/blob/77b28c86b7b27a2abb4398b86dc5ef62b8e4034c/BundleTrack/LoFTR/demo/utils.py#L123
+https://github.com/NVlabs/BundleSDF/blob/77b28c86b7b27a2abb4398b86dc5ef62b8e4034c/BundleTrack/LoFTR/demo/utils.py#L127
+https://github.com/NVlabs/BundleSDF/blob/77b28c86b7b27a2abb4398b86dc5ef62b8e4034c/BundleTrack/LoFTR/demo/utils.py#L146
+
+====================================
+https://github.com/CASIA-IVA-Lab/ZBS
+====================================
+
+Found 3 times
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/CASIA-IVA-Lab/ZBS/blob/48935827c2cb0643ff978458c0056891574e3f5d/main.py#L282
+https://github.com/CASIA-IVA-Lab/ZBS/blob/48935827c2cb0643ff978458c0056891574e3f5d/third_party/CenterNet2/demo.py#L141
+https://github.com/CASIA-IVA-Lab/ZBS/blob/48935827c2cb0643ff978458c0056891574e3f5d/third_party/CenterNet2/demo.py#L149
+
+=================================
+https://github.com/Jee-King/AFNet
+=================================
+
+Found 2 times
+cv.VideoCapture(videofilepath)
+cv.VideoCapture(0)
+https://github.com/Jee-King/AFNet/blob/90a54452024fb4e03b2987a790e1ee6feb8f10af/pytracking/evaluation/tracker.py#L295
+https://github.com/Jee-King/AFNet/blob/90a54452024fb4e03b2987a790e1ee6feb8f10af/pytracking/evaluation/tracker.py#L444
+
+====================================
+https://github.com/robincourant/jaws
+====================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/robincourant/jaws/blob/8d83a6483a0c481e015d9f4587fef33f013edee9/utils/image_utils.py#L137
+
+===================================
+https://github.com/showlab/afformer
+===================================
+
+Found 2 times
+cv2.VideoCapture('input.mp4')
+cv2.VideoCapture(video)
+https://github.com/showlab/afformer/blob/c4dc71788af77afa15ea96a30391c4a7e726889f/affominer/hircnn.py#L73
+https://github.com/showlab/afformer/blob/c4dc71788af77afa15ea96a30391c4a7e726889f/affominer/miner.py#L85
+
+==================================
+https://github.com/FangyunWei/SLRT
+==================================
+
+Found 12 times
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(str(video_path))
+cv2.VideoCapture(str(dest_path))
+cv2.VideoCapture(videofile)
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/CLCL/dataloaders/rawvideo_util.py#L32
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_feature_extractor/epoch_pseudo.py#L193
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_feature_extractor/datasets/csl.py#L14
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_feature_extractor/datasets/phoenix2014.py#L14
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_feature_extractor/datasets/videodataset.py#L100
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_feature_extractor/datasets/videodataset.py#L105
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_trainer/generate_data_info.py#L6
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_trainer/datasets/videodataset.py#L98
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_trainer/datasets/videodataset.py#L103
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_trainer/misc/pickle_frames.py#L66
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/I3D_trainer/misc/preproc_videos.py#L61
+https://github.com/FangyunWei/SLRT/blob/c79439b9293daae7c633155f5c96470c89a54f20/CiCo/data_preparation/reaglined_and_crop.py#L15
+
+=========================================
+https://github.com/IDEA-Research/MaskDINO
+=========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/IDEA-Research/MaskDINO/blob/3831d8514a3728535ace8d4ecc7d28044c42dd14/demo/demo.py#L145
+https://github.com/IDEA-Research/MaskDINO/blob/3831d8514a3728535ace8d4ecc7d28044c42dd14/demo/demo.py#L154
+
+==================================
+https://github.com/noahcao/OC_SORT
+==================================
+
+Found 3 times
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(args.path if args.demo_type == "video" else args.camid)
+https://github.com/noahcao/OC_SORT/blob/7a390a5f35dbbb45df6cd584588c216aea527248/deploy/ONNXRuntime/onnx_inference.py#L111
+https://github.com/noahcao/OC_SORT/blob/7a390a5f35dbbb45df6cd584588c216aea527248/tools/convert_video.py#L4
+https://github.com/noahcao/OC_SORT/blob/7a390a5f35dbbb45df6cd584588c216aea527248/tools/demo_track.py#L149
+
+========================================
+https://github.com/bimsarapathiraja/MCCL
+========================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/bimsarapathiraja/MCCL/blob/68206745dc55b2ccf1c3992e21849ad8ab4e33f2/demo/webcam.py#L67
+
+===============================
+https://github.com/NVlabs/ODISE
+===============================
+
+Found 7 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/demo/demo.py#L434
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/demo/demo.py#L443
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/third_party/Mask2Former/demo/demo.py#L145
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/third_party/Mask2Former/demo/demo.py#L154
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/third_party/Mask2Former/demo_video/demo.py#L150
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/third_party/Mask2Former/demo_video/demo.py#L160
+https://github.com/NVlabs/ODISE/blob/2b187e4b2ff4c3d5da342aec2cc234b537720a65/third_party/Mask2Former/demo_video/demo.py#L187
+
+========================================
+https://github.com/wrk226/creative_birds
+========================================
+
+Found 2 times
+cv2.VideoCapture(args.content_video)
+cv2.VideoCapture(args.style_path)
+https://github.com/wrk226/creative_birds/blob/30c02dbee6d20558160f1a49d1a9bec5c60ae214/evo_trans/AdaIN/test_video.py#L116
+https://github.com/wrk226/creative_birds/blob/30c02dbee6d20558160f1a49d1a9bec5c60ae214/evo_trans/AdaIN/test_video.py#L127
+
+=================================
+https://github.com/zhangy76/KNOWN
+=================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(video_path)
+https://github.com/zhangy76/KNOWN/blob/0f7d227821aa17415987b6f989678cf8822a6bc5/demo_live_video.py#L40
+https://github.com/zhangy76/KNOWN/blob/0f7d227821aa17415987b6f989678cf8822a6bc5/demo_live_video.py#L42
+
+===========================================
+https://github.com/junzhezhang/DeformToon3D
+===========================================
+
+Found 8 times
+cv2.VideoCapture(videoname)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+cv2.VideoCapture(video)
+cv2.VideoCapture(video)
+cv2.VideoCapture(aligned_video)
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/DualStyleGAN/data_preparation/find_face_in_video.py#L110
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/smooth_parsing_map.py#L114
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/style_transfer.py#L103
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/style_transfer_batch.py#L119
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/style_transfer_batch_eg3d.py#L113
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/vtoonify_model.py#L160
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/vtoonify_model.py#L174
+https://github.com/junzhezhang/DeformToon3D/blob/b51b6b76af11c0579d5eb0b418b9522a55105b0d/external/VToonify/vtoonify_model.py#L231
+
+=========================================
+https://github.com/psyai-net/D-IF_release
+=========================================
+
+Found 1 times
+cv2.VideoCapture(id)
+https://github.com/psyai-net/D-IF_release/blob/f5b82ff5e18ca42115741c3f808520bf664329d0/lib/pymaf/utils/streamer.py#L78
+
+=========================================
+https://github.com/cvlab-columbia/zero123
+=========================================
+
+Found 1 times
+cv2.VideoCapture(str(filename))
+https://github.com/cvlab-columbia/zero123/blob/f426883b1a7353d91ddc34a551dd91b6223e4ce8/zero123/ldm/data/simple.py#L77
+
+=======================================
+https://github.com/aim-uofa/FrozenRecon
+=======================================
+
+Found 1 times
+cv2.VideoCapture(videoPath)
+https://github.com/aim-uofa/FrozenRecon/blob/d35ab94f84a7d8a00de3fc0020ae55ed01ed03e0/src/utils/utils.py#L155
+
+==============================
+https://github.com/edz-o/3DNBF
+==============================
+
+Found 4 times
+cv2.VideoCapture(vid_file)
+cv2.VideoCapture(vid_file)
+cv2.VideoCapture(vid_file)
+cv2.VideoCapture(vid_path)
+https://github.com/edz-o/3DNBF/blob/3f9e868c46c0f91b7a0f56ea9d19adda2a5b0bcf/mmhuman3d/data/data_converters/h36m.py#L297
+https://github.com/edz-o/3DNBF/blob/3f9e868c46c0f91b7a0f56ea9d19adda2a5b0bcf/mmhuman3d/data/data_converters/h36m_spin.py#L158
+https://github.com/edz-o/3DNBF/blob/3f9e868c46c0f91b7a0f56ea9d19adda2a5b0bcf/mmhuman3d/data/data_converters/mpi_inf_3dhp.py#L120
+https://github.com/edz-o/3DNBF/blob/3f9e868c46c0f91b7a0f56ea9d19adda2a5b0bcf/mmhuman3d/data/data_converters/surreal.py#L178
+
+===================================
+https://github.com/wqtwjt1996/SUM-L
+===================================
+
+Found 1 times
+cv2.VideoCapture(self.source)
+https://github.com/wqtwjt1996/SUM-L/blob/9d57c619545e0bc5d16f30fbf332839971b6752c/tools/demo_net.py#L34
+
+=============================================
+https://github.com/qianmingduowan/Sat2Density
+=============================================
+
+Found 1 times
+cv2.VideoCapture(temp.name)
+https://github.com/qianmingduowan/Sat2Density/blob/49faa2c95069e3f0ea05b4874ed77c1660ba4ebe/imaginaire/datasets/paired_few_shot_videos_native.py#L161
+
+==========================================
+https://github.com/andrewsonga/Total-Recon
+==========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/demo/demo.py#L139
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/demo/demo.py#L148
+
+====================================================
+https://github.com/82magnolia/panoramic-localization
+====================================================
+
+Found 3 times
+cv2.VideoCapture(int(basedir))
+cv2.VideoCapture(basedir)
+cv2.VideoCapture(basedir)
+https://github.com/82magnolia/panoramic-localization/blob/3a3ff1e717d5fb429699fa3b0c65c7736d1c3884/ldl/superglue_models/utils.py#L123
+https://github.com/82magnolia/panoramic-localization/blob/3a3ff1e717d5fb429699fa3b0c65c7736d1c3884/ldl/superglue_models/utils.py#L127
+https://github.com/82magnolia/panoramic-localization/blob/3a3ff1e717d5fb429699fa3b0c65c7736d1c3884/ldl/superglue_models/utils.py#L146
+
+=====================================
+https://github.com/nerminsamet/seedal
+=====================================
+
+Found 1 times
+cv2.VideoCapture(inp)
+https://github.com/nerminsamet/seedal/blob/52fdeeb42cf83b4b65814ae8b81efb2f7d61bb07/dino_model/video_generation.py#L103
+
+======================================
+https://github.com/daveredrum/Text2Tex
+======================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/daveredrum/Text2Tex/blob/8524249321e63a1338193a1a36976b8097bb6dbd/models/ControlNet/annotator/uniformer/mmcv/video/io.py#L68
+
+===========================================
+https://github.com/rawalkhirodkar/egohumans
+===========================================
+
+Found 28 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(0)
+cv2.VideoCapture(input_video_file)
+cv2.VideoCapture(filename)
+cv2.VideoCapture()
+cv2.VideoCapture()
+cv2.VideoCapture(args.camera_id)
+cv2.VideoCapture(vid_file)
+cv2.VideoCapture(vid_file)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(cam_id)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(camera_id)
+cv2.VideoCapture(self.light_video_path)
+cv2.VideoCapture(self.light_video_path)
+cv2.VideoCapture(self.src_img_path)
+cv2.VideoCapture(src_file)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(args.video)
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/cliff/lib/pytorch_yolo_v3_master/cam_demo.py#L106
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/cliff/lib/pytorch_yolo_v3_master/video_demo.py#L117
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/cliff/lib/pytorch_yolo_v3_master/video_demo_half.py#L118
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/midas/ros/midas_cpp/scripts/talker.py#L23
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/midas/ros/midas_cpp/scripts/talker.py#L25
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmcv/mmcv/video/io.py#L67
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmcv/tests/test_video/test_reader.py#L60
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmcv/tests/test_video/test_reader.py#L70
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmdetection/demo/webcam_demo.py#L31
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmhuman3d/mmhuman3d/data/data_converters/h36m.py#L297
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmhuman3d/mmhuman3d/data/data_converters/mpi_inf_3dhp.py#L121
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmhuman3d/mmhuman3d/data/data_converters/surreal.py#L187
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/bottom_up_pose_tracking_demo.py#L76
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/bottom_up_video_demo.py#L68
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/face_video_demo.py#L92
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/top_down_pose_tracking_demo_with_mmdet.py#L98
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/top_down_pose_tracking_demo_with_mmtracking.py#L105
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/top_down_video_demo_full_frame_without_det.py#L65
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/top_down_video_demo_with_mmdet.py#L89
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/demo/webcam_demo.py#L201
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/tools/dataset/preprocess_h36m.py#L350
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/tools/webcam/webcam_apis/webcam_runner.py#L135
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/tools/webcam/webcam_apis/nodes/frame_effect_node.py#L414
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/tools/webcam/webcam_apis/nodes/frame_effect_node.py#L516
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmpose/tools/webcam/webcam_apis/nodes/frame_effect_node.py#L808
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmtracking/tools/torchserve/mmtrack_handler.py#L51
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmtracking/tools/torchserve/test_torchserve.py#L50
+https://github.com/rawalkhirodkar/egohumans/blob/d7875dd4b3e3cc4e306af386d5c4febf1290a3e9/egohumans/external/mmtracking/tools/torchserve/test_torchserve.py#L64
+
+=====================================
+https://github.com/Omergral/Semantify
+=====================================
+
+Found 1 times
+cv2.VideoCapture(video_path.as_posix())
+https://github.com/Omergral/Semantify/blob/aaa4cd864113684fd06ad08082a6db7eed2df805/semantify/utils/general.py#L23
+
+==============================
+https://github.com/yhZhai/SOAR
+==============================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/yhZhai/SOAR/blob/2640a88ea0d57d70a8b86e1df62e2c53e3630719/tools/misc/flow_extraction.py#L90
+
+=================================
+https://github.com/giaczara/dallv
+=================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/giaczara/dallv/blob/8e81d76ebbcc1264a041f0553b4047b6d63fd179/src/datamodules/components/data_utils.py#L610
+
+===============================
+https://github.com/MCG-NJU/EVAD
+===============================
+
+Found 3 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/MCG-NJU/EVAD/blob/0efdb7e1156d4b0b419cd240555f8bbca45e4bf6/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/MCG-NJU/EVAD/blob/0efdb7e1156d4b0b419cd240555f8bbca45e4bf6/slowfast/visualization/demo_loader.py#L40
+https://github.com/MCG-NJU/EVAD/blob/0efdb7e1156d4b0b419cd240555f8bbca45e4bf6/slowfast/visualization/demo_loader.py#L173
+
+=======================================
+https://github.com/sqiangcao99/E2E-LOAD
+=======================================
+
+Found 2 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/sqiangcao99/E2E-LOAD/blob/beddae33d57b30393ccb2145be377ce3953183bf/src/visualization/demo_loader.py#L39
+https://github.com/sqiangcao99/E2E-LOAD/blob/beddae33d57b30393ccb2145be377ce3953183bf/src/visualization/demo_loader.py#L170
+
+====================================
+https://github.com/sczhou/ProPainter
+====================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/sczhou/ProPainter/blob/a39d634423fa0158a3119515a231a4df6390c972/web-demos/hugging_face/app.py#L68
+
+=====================================
+https://github.com/yh-pengtu/FemtoDet
+=====================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/yh-pengtu/FemtoDet/blob/cfb67d3da6493491afd581bbaa926daeda284d49/demo/webcam_demo.py#L31
+
+==========================================
+https://github.com/eslambakr/HRS_benchmark
+==========================================
+
+Found 6 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(args.camera_id)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(args.camera_id)
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/UniDet-master/demo.py#L183
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/UniDet-master/demo.py#L192
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/mmdetection-master/demo/webcam_demo.py#L31
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/writing/DPText-DETR-main/demo/demo.py#L108
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/writing/DPText-DETR-main/demo/demo.py#L116
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/writing/mmocr/demo/webcam_demo.py#L32
+
+====================================
+https://github.com/dahlian00/SegRCDB
+====================================
+
+Found 4 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/dahlian00/SegRCDB/blob/7c2cb68ed6ef0a2eaa78e7704b542058d483407d/mmsegmentation-0.28.0/demo/video_demo.py#L58
+https://github.com/dahlian00/SegRCDB/blob/7c2cb68ed6ef0a2eaa78e7704b542058d483407d/mmsegmentation-0.28.0/tools/convert_datasets/drive.py#L61
+https://github.com/dahlian00/SegRCDB/blob/7c2cb68ed6ef0a2eaa78e7704b542058d483407d/mmsegmentation-0.28.0/tools/convert_datasets/drive.py#L85
+https://github.com/dahlian00/SegRCDB/blob/7c2cb68ed6ef0a2eaa78e7704b542058d483407d/mmsegmentation-0.28.0/tools/convert_datasets/drive.py#L100
+
+==========================================
+https://github.com/wholebody3d/wholebody3d
+==========================================
+
+Found 1 times
+cv2.VideoCapture(inpath)
+https://github.com/wholebody3d/wholebody3d/blob/35bf012dae686230c4b3d09dee87a37cda570975/datasets/data_preparation.py#L6
+
+==================================================
+https://github.com/facebookresearch/replay_dataset
+==================================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/facebookresearch/replay_dataset/blob/b612cd8453cc667d292081cd9eb810ddbe24c6c9/replay_dataset/replay_dataset.py#L100
+
+=====================================
+https://github.com/adwardlee/RenderIH
+=====================================
+
+Found 1 times
+cv.VideoCapture(0)
+https://github.com/adwardlee/RenderIH/blob/d55a175f21bc8194730d187dfaafb000c7a17d46/apps/demo.py#L77
+
+===================================
+https://github.com/venom12138/VSCOS
+===================================
+
+Found 1 times
+cv2.VideoCapture(video)
+https://github.com/venom12138/VSCOS/blob/ca08a94246db39e4b87befe33849e8153dfc1dfb/XMem-SC/inference/interact/resource_manager.py#L104
+
+==================================
+https://github.com/AndongDeng/BEAR
+==================================
+
+Found 12 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/benchmark/BEAR-Standard/tools/misc/flow_extraction.py#L89
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/COIN/generate_annotation.py#L26
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/COIN/segment_coin_frames.py#L36
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/MECCANO/decode.py#L11
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/MISAW/decode.py#L32
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/PETRAW/decode.py#L32
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/ToyotaSmarthome/decode_mp4.py#L11
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/WLASL/extract_frames.py#L12
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/WLASL/preprocess.py#L23
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/XD-Violence/decode_test_non_violence.py#L12
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/XD-Violence/decode_train_data.py#L16
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/datasets/XD-Violence/seg_test_data.py#L35
+
+========================================
+https://github.com/mxin262/ESTextSpotter
+========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/mxin262/ESTextSpotter/blob/21717310bfb9b32108e5124206dcaf66d90a5e34/detectron2-0.2.1/demo/demo.py#L116
+https://github.com/mxin262/ESTextSpotter/blob/21717310bfb9b32108e5124206dcaf66d90a5e34/detectron2-0.2.1/demo/demo.py#L125
+
+================================================
+https://github.com/snap-research/EfficientFormer
+================================================
+
+Found 3 times
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/snap-research/EfficientFormer/blob/d01da426243a38303d0a35d01fc928b0e37d38d3/segmentation/tools/convert_datasets/drive.py#L61
+https://github.com/snap-research/EfficientFormer/blob/d01da426243a38303d0a35d01fc928b0e37d38d3/segmentation/tools/convert_datasets/drive.py#L85
+https://github.com/snap-research/EfficientFormer/blob/d01da426243a38303d0a35d01fc928b0e37d38d3/segmentation/tools/convert_datasets/drive.py#L100
+
+====================================
+https://github.com/TinyTigerPan/BCKD
+====================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/TinyTigerPan/BCKD/blob/121c9aa272c9195c0f05cd12727bfe57636a5005/demo/webcam_demo.py#L31
+
+=================================
+https://github.com/zkkli/RepQ-ViT
+=================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/zkkli/RepQ-ViT/blob/a160561b9233945e6680132f129d13041b787318/detection/demo/webcam_demo.py#L30
+
+==================================================
+https://github.com/google-research/google-research
+==================================================
+
+Found 4 times
+cv2.VideoCapture(video_filename)
+cv2.VideoCapture(video_file_path)
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/tcc/dataset_preparation/dataset_utils.py#L153
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/uflow/misc/convert_video_to_dataset.py#L65
+
+================================
+https://github.com/ajzhai/PEANUT
+================================
+
+Found 4 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/ajzhai/PEANUT/blob/5fe8358bece89645f7651e524234f967215fa4ac/prediction/demo/video_demo.py#L58
+https://github.com/ajzhai/PEANUT/blob/5fe8358bece89645f7651e524234f967215fa4ac/prediction/tools/convert_datasets/drive.py#L61
+https://github.com/ajzhai/PEANUT/blob/5fe8358bece89645f7651e524234f967215fa4ac/prediction/tools/convert_datasets/drive.py#L85
+https://github.com/ajzhai/PEANUT/blob/5fe8358bece89645f7651e524234f967215fa4ac/prediction/tools/convert_datasets/drive.py#L100
+
+==============================================
+https://github.com/kyotovision-public/deepoint
+==============================================
+
+Found 1 times
+cv2.VideoCapture(movie_path)
+https://github.com/kyotovision-public/deepoint/blob/f8afc7594e55d7e1a682b9d5f35f3c7ae6370383/src/dataset.py#L582
+
+=============================================
+https://github.com/williamyang1991/StyleGANEX
+=============================================
+
+Found 3 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(input_video)
+cv2.VideoCapture(input_video)
+https://github.com/williamyang1991/StyleGANEX/blob/e593d16006f64b1e105c04eeb4a7cc149c1aca98/video_editing.py#L75
+https://github.com/williamyang1991/StyleGANEX/blob/e593d16006f64b1e105c04eeb4a7cc149c1aca98/webUI/styleganex_model.py#L269
+https://github.com/williamyang1991/StyleGANEX/blob/e593d16006f64b1e105c04eeb4a7cc149c1aca98/webUI/styleganex_model.py#L371
+
+===============================================
+https://github.com/anonymous-author-sub/seeable
+===============================================
+
+Found 11 times
+cv2.VideoCapture(source)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(maskPath)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(maskPath)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(videoPath)
+cv2.VideoCapture(filepath)
+cv2.VideoCapture(video_mask_path)
+cv2.VideoCapture(filename)
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/video.py#L8
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face.py#L73
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_DFDGoogle.py#L33
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_DFDGoogle.py#L86
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_FF++.py#L32
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_FF++.py#L82
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_TIMIT.py#L20
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/crop_face_align.py#L90
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/frame_extractor_old.py#L81
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/preprocess/old/mask_extractor_sloww.py#L80
+https://github.com/anonymous-author-sub/seeable/blob/729fc22af7322a3adfe3d042ff8b31dca1996e71/src/runner/inference_preprocess.py#L109
+
+============================================
+https://github.com/facebookresearch/EgoVLPv2
+============================================
+
+Found 32 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(input_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(input_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(input_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(input_path)
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L227
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L255
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L261
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L262
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L324
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L395
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/utils/video.py#L15
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/utils/video_chunk.py#L42
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L229
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L257
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L263
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L264
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L326
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L397
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/utils/video.py#L15
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/utils/video_chunk.py#L41
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L227
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L255
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L261
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L262
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L324
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L395
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/utils/video.py#L15
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/utils/video_chunk.py#L41
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L227
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L255
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L261
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L262
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L324
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L395
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/utils/video.py#L15
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/utils/video_chunk.py#L42
+
+======================================================
+https://github.com/Picsart-AI-Research/Text2Video-Zero
+======================================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/fd76734e06aadb1dee83d2b7a368b14bdaa35565/annotator/uniformer/mmcv/video/io.py#L68
+
+========================================
+https://github.com/IDEA-Research/HumanSD
+========================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/IDEA-Research/HumanSD/blob/c5db29dd66a3e40afa8b4bed630f0aa7ea001880/comparison_models/ControlNet/annotator/uniformer/mmcv/video/io.py#L68
+
+========================================
+https://github.com/facebookresearch/silk
+========================================
+
+Found 1 times
+cv2.VideoCapture(video_file_path)
+https://github.com/facebookresearch/silk/blob/bd605bf4180c05a42dae0d807412b40ce0dbcc21/lib/cli/visualization.py#L38
+
+=========================================
+https://github.com/YouHuang67/InterFormer
+=========================================
+
+Found 4 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/YouHuang67/InterFormer/blob/959ce39007854c0ae6f46a5d3f364d30cf50614c/mmsegmentation/demo/video_demo.py#L58
+https://github.com/YouHuang67/InterFormer/blob/959ce39007854c0ae6f46a5d3f364d30cf50614c/mmsegmentation/tools/convert_datasets/drive.py#L61
+https://github.com/YouHuang67/InterFormer/blob/959ce39007854c0ae6f46a5d3f364d30cf50614c/mmsegmentation/tools/convert_datasets/drive.py#L85
+https://github.com/YouHuang67/InterFormer/blob/959ce39007854c0ae6f46a5d3f364d30cf50614c/mmsegmentation/tools/convert_datasets/drive.py#L100
+
+===================================
+https://github.com/paTRICK-swk/D3DP
+===================================
+
+Found 3 times
+cv2.VideoCapture(filename)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(args.viz_video)
+https://github.com/paTRICK-swk/D3DP/blob/b06e6878e4b622fa94dc50ed9ba6271b7875b399/in_the_wild/utils.py#L119
+https://github.com/paTRICK-swk/D3DP/blob/b06e6878e4b622fa94dc50ed9ba6271b7875b399/in_the_wild/utils.py#L140
+https://github.com/paTRICK-swk/D3DP/blob/b06e6878e4b622fa94dc50ed9ba6271b7875b399/in_the_wild/videopose_diffusion.py#L89
+
+========================================
+https://github.com/LemonATsu/NPC-pytorch
+========================================
+
+Found 1 times
+cv2.VideoCapture(vid_name)
+https://github.com/LemonATsu/NPC-pytorch/blob/0e88cd5d513049013c2a30022a8ac8c9cdcb8ea6/core/utils/evaluation_helpers.py#L206
+
+===========================================
+https://github.com/ireneesun/MixSynthFormer
+===========================================
+
+Found 1 times
+cv2.VideoCapture(video_base_path[1:]+".mp4")
+https://github.com/ireneesun/MixSynthFormer/blob/e81756f2000729cff6e8debd836a9861c09c074a/lib/visualize/visualize_smpl.py#L165
+
+=====================================================
+https://github.com/RuihanGao/visual-tactile-synthesis
+=====================================================
+
+Found 2 times
+cv2.VideoCapture(args.content_video)
+cv2.VideoCapture(args.style_path)
+https://github.com/RuihanGao/visual-tactile-synthesis/blob/dbe6c921d1b3d0733fc6b119d174671de70f4397/thirdparty/AdaIN/test_video.py#L116
+https://github.com/RuihanGao/visual-tactile-synthesis/blob/dbe6c921d1b3d0733fc6b119d174671de70f4397/thirdparty/AdaIN/test_video.py#L127
+
+========================================
+https://github.com/StelaBou/HyperReenact
+========================================
+
+Found 2 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(input_video)
+https://github.com/StelaBou/HyperReenact/blob/1b6648540af4d4f986395619228429f68d2b96ee/libs/DECA/decalib/datasets/datasets.py#L35
+https://github.com/StelaBou/HyperReenact/blob/1b6648540af4d4f986395619228429f68d2b96ee/libs/utilities/utils.py#L25
+
+=====================================
+https://github.com/Yuxinn-J/Scenimefy
+=====================================
+
+Found 1 times
+cv2.VideoCapture(movie_file)
+https://github.com/Yuxinn-J/Scenimefy/blob/821c9210f4a1facae8fa13fea4ca297c3bf8ba48/Anime_dataset/frame_extract.py#L52
+
+==================================================
+https://github.com/cotton6/COTTON-size-does-matter
+==================================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/cotton6/COTTON-size-does-matter/blob/9aedf55830298918f724af6391ccc5c30e06df02/code/preprocessing/Self-Correction-Human-Parsing/mhp_extension/detectron2/demo/demo.py#L116
+https://github.com/cotton6/COTTON-size-does-matter/blob/9aedf55830298918f724af6391ccc5c30e06df02/code/preprocessing/Self-Correction-Human-Parsing/mhp_extension/detectron2/demo/demo.py#L125
+
+==================================
+https://github.com/owenzlz/PAL4VST
+==================================
+
+Found 6 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video_path)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmdeploy/demo/python/pose_tracker.py#L141
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmdeploy/demo/python/video_recognition.py#L65
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmsegmentation/demo/video_demo.py#L63
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmsegmentation/tools/dataset_converters/drive.py#L62
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmsegmentation/tools/dataset_converters/drive.py#L86
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmsegmentation/tools/dataset_converters/drive.py#L101
+
+==============================================
+https://github.com/Lipurple/Grounded-Diffusion
+==============================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/Lipurple/Grounded-Diffusion/blob/5680115dcf5196d3736e2b1d157e9f5c7c6869ce/mmdetection/demo/webcam_demo.py#L31
+
+======================================
+https://github.com/vvictoryuki/FreeDoM
+======================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/vvictoryuki/FreeDoM/blob/1394b1dc5807fb01db6a26d2dc42ca05e3d2eaf5/CN/annotator/uniformer/mmcv/video/io.py#L68
+
+===================================
+https://github.com/yuangan/EAT_code
+===================================
+
+Found 4 times
+cv2.VideoCapture(vpth)
+cv2.VideoCapture(path)
+cv2.VideoCapture(A_path)
+cv2.VideoCapture(path)
+https://github.com/yuangan/EAT_code/blob/c99811f0740809588e3ddbab5b555453a26b7750/preprocess/extract_lmks_eat.py#L31
+https://github.com/yuangan/EAT_code/blob/c99811f0740809588e3ddbab5b555453a26b7750/preprocess/videos2img.py#L9
+https://github.com/yuangan/EAT_code/blob/c99811f0740809588e3ddbab5b555453a26b7750/preprocess/vid2vid/data/face_preprocess_eat.py#L41
+https://github.com/yuangan/EAT_code/blob/c99811f0740809588e3ddbab5b555453a26b7750/preprocess/vid2vid/data/face_preprocess_new_neutral.py#L77
+
+==========================================================
+https://github.com/diffusion-face-relighting/difareli_code
+==========================================================
+
+Found 3 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/diffusion-face-relighting/difareli_code/blob/2dd24a024f26d659767df6ecc8da4ba47c55e7a8/preprocess_scripts/Relighting_preprocessing_tools/DECA/decalib/datasets/datasets.py#L34
+https://github.com/diffusion-face-relighting/difareli_code/blob/2dd24a024f26d659767df6ecc8da4ba47c55e7a8/preprocess_scripts/Relighting_preprocessing_tools/DECA/decalib/datasets/train_datasets.py#L398
+https://github.com/diffusion-face-relighting/difareli_code/blob/2dd24a024f26d659767df6ecc8da4ba47c55e7a8/sample_scripts/sample_utils/img_utils.py#L108
+
+==================================
+https://github.com/liuzhen03/NNDVS
+==================================
+
+Found 4 times
+cv2.VideoCapture()
+cv2.VideoCapture()
+cv2.VideoCapture()
+cv2.VideoCapture()
+https://github.com/liuzhen03/NNDVS/blob/3e6ed7c8d1c1edb6e1c0e8ba9d376b6951def994/eval_nus.py#L44
+https://github.com/liuzhen03/NNDVS/blob/3e6ed7c8d1c1edb6e1c0e8ba9d376b6951def994/eval_nus.py#L59
+https://github.com/liuzhen03/NNDVS/blob/3e6ed7c8d1c1edb6e1c0e8ba9d376b6951def994/eval_nus.py#L95
+https://github.com/liuzhen03/NNDVS/blob/3e6ed7c8d1c1edb6e1c0e8ba9d376b6951def994/metrices.py#L50
+
+============================================
+https://github.com/harlanhong/ICCV2023-MCNET
+============================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/harlanhong/ICCV2023-MCNET/blob/9a08e22b4232ca6a92134045e7268e83e6b43cf6/extract_frames.py#L7
+
+===================================
+https://github.com/IntelLabs/CLNeRF
+===================================
+
+Found 8 times
+cv2.VideoCapture(videoA_path)
+cv2.VideoCapture(videoB_path)
+cv2.VideoCapture(reference_video_path)
+cv2.VideoCapture(videoA_path)
+cv2.VideoCapture(videoB_path)
+cv2.VideoCapture(reference_video_path)
+cv2.VideoCapture(input_file_path)
+cv2.VideoCapture(v_name)
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L24
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L25
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L26
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L233
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L234
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/merge_video.py#L235
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/scripts/data_prepare/resize_videos.py#L7
+https://github.com/IntelLabs/CLNeRF/blob/fd07dbb44d724ebdfc95bb31152ea47bceeb4cc2/utils/data_prepare_utils/poses/pose_utils.py#L269
+
+==================================
+https://github.com/16lemoing/waldo
+==================================
+
+Found 1 times
+cv2.VideoCapture(file)
+https://github.com/16lemoing/waldo/blob/fc0a67df3561521e56d86e6d23128583778000d9/tools/eval/metrics.py#L26
+
+==================================
+https://github.com/VITA-Group/PiRN
+==================================
+
+Found 2 times
+cv2.VideoCapture(os.path.join(data_root+line))
+cv2.VideoCapture(vpath)
+https://github.com/VITA-Group/PiRN/blob/12b9ef6a32c75143c23402a7ab8f843624ca99e8/assets/bts_processing.py#L91
+https://github.com/VITA-Group/PiRN/blob/12b9ef6a32c75143c23402a7ab8f843624ca99e8/assets/iarpa_process.py#L183
+
+=====================================================
+https://github.com/uzh-rpg/event_representation_study
+=====================================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/uzh-rpg/event_representation_study/blob/c0422e335a7a5b5a64ac47233547d940f0e16e47/ev-YOLOv6/yolov6/data/datasets.py#L678
+
+=====================================
+https://github.com/shangwei5/SelfDRSC
+=====================================
+
+Found 3 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/shangwei5/SelfDRSC/blob/3116fbb85f896f5879782f39464743e3a903b928/data/create_rs_dataset.py#L53
+https://github.com/shangwei5/SelfDRSC/blob/3116fbb85f896f5879782f39464743e3a903b928/data/create_rs_diff_readout.py#L53
+https://github.com/shangwei5/SelfDRSC/blob/3116fbb85f896f5879782f39464743e3a903b928/data/utils.py#L90
+
+==============================
+https://github.com/OwXiaoM/PCS
+==============================
+
+Found 2 times
+cv2.VideoCapture(self.args.dir_demo)
+cv2.VideoCapture(args.dir_demo)
+https://github.com/OwXiaoM/PCS/blob/247fa7d5b2ec6b734e9e93fc13850d0f532111cf/src/videotester.py#L30
+https://github.com/OwXiaoM/PCS/blob/247fa7d5b2ec6b734e9e93fc13850d0f532111cf/src/data/video.py#L23
+
+===============================================
+https://github.com/Red-Fairy/ZeroShotDayNightDA
+===============================================
+
+Found 4 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(vid_path)
+cv2.VideoCapture(clip_path)
+https://github.com/Red-Fairy/ZeroShotDayNightDA/blob/d6bdc769b861cb5979a619a8db13894f519f34ea/action-recognition/darken_video.py#L38
+https://github.com/Red-Fairy/ZeroShotDayNightDA/blob/d6bdc769b861cb5979a619a8db13894f519f34ea/action-recognition/data/flow_iterator.py#L41
+https://github.com/Red-Fairy/ZeroShotDayNightDA/blob/d6bdc769b861cb5979a619a8db13894f519f34ea/action-recognition/data/video_iterator.py#L42
+https://github.com/Red-Fairy/ZeroShotDayNightDA/blob/d6bdc769b861cb5979a619a8db13894f519f34ea/action-recognition/dataset/extract_frames.py#L29
+
+==========================================
+https://github.com/ShoufaChen/DiffusionDet
+==========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/ShoufaChen/DiffusionDet/blob/1efb36d4b0b721f2d509bc72656235a94d73ab02/demo.py#L144
+https://github.com/ShoufaChen/DiffusionDet/blob/1efb36d4b0b721f2d509bc72656235a94d73ab02/demo.py#L153
+
+================================
+https://github.com/aharley/pips2
+================================
+
+Found 2 times
+cv2.VideoCapture(fn)
+cv2.VideoCapture(fn)
+https://github.com/aharley/pips2/blob/56de5931296d55d0d02d73674c11b575a61ccf15/demo.py#L16
+https://github.com/aharley/pips2/blob/56de5931296d55d0d02d73674c11b575a61ccf15/datasets/exportdataset.py#L37
+
+======================================
+https://github.com/lihaoxin05/StillMix
+======================================
+
+Found 5 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(path)
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/Video-Swin-Transformer/tools/misc/flow_extraction.py#L89
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/.mim/tools/data/skeleton/ntu_pose_extraction.py#L44
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/.mim/tools/misc/flow_extraction.py#L90
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/tools/data/skeleton/ntu_pose_extraction.py#L44
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/tools/misc/flow_extraction.py#L90
+
+=================================
+https://github.com/LL3RD/ACFormer
+=================================
+
+Found 2 times
+cv2.VideoCapture(args.camera_id)
+cv2.VideoCapture(source)
+https://github.com/LL3RD/ACFormer/blob/57aeb5e3aa7922843d823c74df351984b081b133/thirdparty/mmdetection/demo/webcam_demo.py#L31
+https://github.com/LL3RD/ACFormer/blob/57aeb5e3aa7922843d823c74df351984b081b133/tools/sahi/sahi/utils/cv.py#L241
+
+==================================
+https://github.com/dawnyc/ROMTrack
+==================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/dawnyc/ROMTrack/blob/1d3b8a88be1f5aa40802c837528feaadd3d25619/lib/test/evaluation/tracker.py#L186
+
+==========================================
+https://github.com/DavidYan2001/Deep_RS-HM
+==========================================
+
+Found 1 times
+cv2.VideoCapture(video_path+video_name)
+https://github.com/DavidYan2001/Deep_RS-HM/blob/7b47025bdc3a20b1eec63845e85ef63b251a6492/RS_Homo/CA/video2img.py#L12
+
+=========================================
+https://github.com/NorahGreen/CiteTracker
+=========================================
+
+Found 1 times
+cv.VideoCapture(videofilepath)
+https://github.com/NorahGreen/CiteTracker/blob/8372f8574f5449a1d0796b2d36111a02128a2df3/lib/test/evaluation/tracker.py#L188
+
+=====================================
+https://github.com/Jaraxxus-Me/PVT_pp
+=====================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_name)
+https://github.com/Jaraxxus-Me/PVT_pp/blob/d71cad0ed0bfede979469088704f6ba1d5a6f38c/tools/demo.py#L30
+https://github.com/Jaraxxus-Me/PVT_pp/blob/d71cad0ed0bfede979469088704f6ba1d5a6f38c/tools/demo.py#L42
+
+====================================
+https://github.com/chengche6230/ReST
+====================================
+
+Found 1 times
+cv2.VideoCapture(os.path.join(self.dataset_path, vn))
+https://github.com/chengche6230/ReST/blob/b166d4d3f2e73390b7c8df634ccca39a6de62417/src/datasets/preprocess.py#L82
+
+=========================================
+https://github.com/google-deepmind/tapnet
+=========================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/google-deepmind/tapnet/blob/bde163144ca7d548089b1c18f5712dd86e5c89d3/live_demo.py#L111
+
+=========================================
+https://github.com/sanjayss34/lm-listener
+=========================================
+
+Found 1 times
+cv2.VideoCapture(os.path.join(args.video_root, video_fname_map[fname.split('.')[0]], video_fname))
+https://github.com/sanjayss34/lm-listener/blob/53ce4ecc6e1173974c3d9e49f9dabc6c100979e8/visualize_listener.py#L131
+
+==================================
+https://github.com/microsoft/Cream
+==================================
+
+Found 2 times
+cv2.VideoCapture(filename)
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/CDARTS/CDARTS_detection/mmcv/video/io.py#L76
+
+========================================================
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker
+========================================================
+
+Found 8 times
+cv.VideoCapture(videofilepath)
+cv2.VideoCapture(rgb_file_path)
+cv.VideoCapture(videofilepath)
+cv2.VideoCapture(rgb_file_path)
+cv.VideoCapture(videofilepath)
+cv.VideoCapture(0)
+cv.VideoCapture(videofilepath)
+cv.VideoCapture(0)
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRCEUTrack/Base/lib/test/evaluation/tracker.py#L231
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRCEUTrack/Base/scripts/read_aedat4.py#L126
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRCEUTrack/Large/lib/test/evaluation/tracker.py#L231
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRCEUTrack/Large/scripts/read_aedat4.py#L126
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRMonTrack/Base/pytracking/evaluation/tracker.py#L273
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRMonTrack/Base/pytracking/evaluation/tracker.py#L422
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRMonTrack/Tiny/pytracking/evaluation/tracker.py#L273
+https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker/blob/98aef78ab45f5b0b3166b6fbb7107538ca391ae8/HRMonTrack/Tiny/pytracking/evaluation/tracker.py#L422
+
+====================================
+https://github.com/gengyuanmax/MeVTR
+====================================
+
+Found 1 times
+cv2.VideoCapture(video_file)
+https://github.com/gengyuanmax/MeVTR/blob/f9a23428e54009767ac2651cd3b9adda8c67d036/dataloaders/rawvideo_util.py#L27
+
+========================================
+https://github.com/zaplm/DriverAttention
+========================================
+
+Found 2 times
+cv2.VideoCapture(path)
+cv2.VideoCapture("2.mp4")
+https://github.com/zaplm/DriverAttention/blob/d6474e3454a7fb58916569c6400d3610a3cd9b7d/prepare_data.py#L37
+https://github.com/zaplm/DriverAttention/blob/d6474e3454a7fb58916569c6400d3610a3cd9b7d/watch.py#L7
+
+================================================
+https://github.com/VinAIResearch/Anti-DreamBooth
+================================================
+
+Found 1 times
+cv2.VideoCapture(source)
+https://github.com/VinAIResearch/Anti-DreamBooth/blob/30b3537a86e5799cfa9d4922aee1a273667e9562/evaluations/deepface/deepface/commons/realtime.py#L65
+
+===============================
+https://github.com/zhangzjn/EMO
+===============================
+
+Found 5 times
+cv2.VideoCapture(args.camera_id)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmdetection/demo/webcam_demo.py#L31
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmsegmentation/demo/video_demo.py#L58
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmsegmentation/tools/convert_datasets/drive.py#L61
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmsegmentation/tools/convert_datasets/drive.py#L85
+https://github.com/zhangzjn/EMO/blob/27d9b40fea9c2a12a2fe7acc51032184852a99d8/down-stream-tasks/mmsegmentation/tools/convert_datasets/drive.py#L100
+
+========================================
+https://github.com/OpenGVLab/UniFormerV2
+========================================
+
+Found 3 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/visualization/demo_loader.py#L39
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/visualization/demo_loader.py#L170
+
+===========================================
+https://github.com/bravezzzzzz/RecursiveDet
+===========================================
+
+Found 4 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/demo/demo.py#L116
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/demo/demo.py#L125
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/demo_d2/demo.py#L116
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/demo_d2/demo.py#L125
+
+=====================================
+https://github.com/shaunyuan22/CFINet
+=====================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/shaunyuan22/CFINet/blob/2167eebdc420046165e78a7555e40b044355cb58/demo/webcam_demo.py#L31
+
+==================================
+https://github.com/BICLab/EMS-YOLO
+==================================
+
+Found 9 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+cv2.VideoCapture(path)
+cv2.VideoCapture(self.pipe)
+cv2.VideoCapture(s)
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/datasets_g1T.py#L249
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/datasets_g1T.py#L262
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/datasets_g1T.py#L323
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/give_g1_data.py#L247
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/give_g1_data.py#L260
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/g1-resnet/utils/give_g1_data.py#L321
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/utils/datasets.py#L234
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/utils/datasets.py#L247
+https://github.com/BICLab/EMS-YOLO/blob/914bd50e2e0adab0ff43995204d919d2b2b7dc04/utils/datasets.py#L308
+
+=================================
+https://github.com/LeapLabTHU/ARC
+=================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/LeapLabTHU/ARC/blob/4825acd8d5777d668ea4fb3b4d24aa53399d79ff/demo/webcam_demo.py#L30
+
+==================================
+https://github.com/Sense-X/Co-DETR
+==================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/Sense-X/Co-DETR/blob/bf3d49d7c02929788dfe2f251b6b01cbe196b736/demo/webcam_demo.py#L31
+
+=================================
+https://github.com/LiewFeng/imTED
+=================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/LiewFeng/imTED/blob/09cc53772b13779d8563807020077293079b7a9d/demo/webcam_demo.py#L30
+
+=============================================
+https://github.com/ucas-vg/PointTinyBenchmark
+=============================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/ucas-vg/PointTinyBenchmark/blob/c1a27b3f1681f62084f2a506b23ce3c633356810/TOV_mmdetection/demo/webcam_demo.py#L30
+
+==========================================
+https://github.com/BIVLab-USTC/DETRDistill
+==========================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/BIVLab-USTC/DETRDistill/blob/b5ee33d79f8ebc87d8f4dee335a163fae0642536/deformdetr_project/demo/webcam_demo.py#L31
+
+=================================================
+https://github.com/kevinliang888/IVR-QA-baselines
+=================================================
+
+Found 1 times
+cv2.VideoCapture(video_file)
+https://github.com/kevinliang888/IVR-QA-baselines/blob/8f9b0ade0293fc24c0ef46e3415b5e68cc00f703/data/rawvideo_util.py#L32
+
+=======================================================================================
+https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation
+=======================================================================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation/blob/df356d2e21e782d4b6ae2916cc5d684d58842b56/demo/demo.py#L145
+https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation/blob/df356d2e21e782d4b6ae2916cc5d684d58842b56/demo/demo.py#L154
+
+==============================
+https://github.com/qqlu/Entity
+==============================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/qqlu/Entity/blob/6e7e13ac91ef508088e1b848167c01f19b00b512/Entityv2/CropFormer/demo_mask2former/demo.py#L144
+https://github.com/qqlu/Entity/blob/6e7e13ac91ef508088e1b848167c01f19b00b512/Entityv2/CropFormer/demo_mask2former/demo.py#L153
+
+======================================
+https://github.com/IMCCretrieval/ProST
+======================================
+
+Found 1 times
+cv2.VideoCapture(video_file)
+https://github.com/IMCCretrieval/ProST/blob/889c34c0164a8e1554037b29f11aa869a14ca96f/dataloaders/rawvideo_util.py#L32
+
+=================================
+https://github.com/Separius/SCALE
+=================================
+
+Found 3 times
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+cv2.VideoCapture(self.source)
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/visualization/ava_demo_precomputed_boxes.py#L49
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/visualization/demo_loader.py#L39
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/visualization/demo_loader.py#L170
+
+======================================
+https://github.com/HKUST-LongGroup/CFA
+======================================
+
+Found 1 times
+cv2.VideoCapture(0)
+https://github.com/HKUST-LongGroup/CFA/blob/5459048cd81c16ee42c495e5aa3ec8e006c5bc08/demo/webcam.py#L67
+
+=================================
+https://github.com/JiYuanFeng/DDP
+=================================
+
+Found 7 times
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(filename)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/controlnet/annotator/ddp/tools/convert_datasets/drive.py#L61
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/controlnet/annotator/ddp/tools/convert_datasets/drive.py#L85
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/controlnet/annotator/ddp/tools/convert_datasets/drive.py#L100
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/controlnet/annotator/uniformer/mmcv/video/io.py#L68
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/segmentation/tools/convert_datasets/drive.py#L61
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/segmentation/tools/convert_datasets/drive.py#L85
+https://github.com/JiYuanFeng/DDP/blob/5b7dd0267fc0f9da3990deaad15ca2ad9428980b/segmentation/tools/convert_datasets/drive.py#L100
+
+===============================
+https://github.com/max810/XMem2
+===============================
+
+Found 2 times
+cv2.VideoCapture(self.video_path)
+cv2.VideoCapture(video)
+https://github.com/max810/XMem2/blob/adc7d4cd26b7b7592d37f0bea97dbfb8b3990281/inference/data/video_reader.py#L128
+https://github.com/max810/XMem2/blob/adc7d4cd26b7b7592d37f0bea97dbfb8b3990281/inference/interact/resource_manager.py#L134
+
+====================================
+https://github.com/Yangr116/BoxSnake
+====================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/Yangr116/BoxSnake/blob/327c18079cd37c1b47e1bd20ba67b9905240181e/demo/demo.py#L153
+https://github.com/Yangr116/BoxSnake/blob/327c18079cd37c1b47e1bd20ba67b9905240181e/demo/demo.py#L162
+
+=========================================
+https://github.com/lyclyc52/Instance_NeRF
+=========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/lyclyc52/Instance_NeRF/blob/6e912bfd00b4b6d994c675343b4a90cad51f3e58/Mask2Former_sample/run_mask2former.py#L250
+https://github.com/lyclyc52/Instance_NeRF/blob/6e912bfd00b4b6d994c675343b4a90cad51f3e58/Mask2Former_sample/run_mask2former.py#L259
+
+====================================
+https://github.com/KainingYing/CTVIS
+====================================
+
+Found 3 times
+cv2.VideoCapture(-1)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(-1)
+https://github.com/KainingYing/CTVIS/blob/c1ed15cb11257f7f54646c23706404f95d165a5c/demo/demo.py#L147
+https://github.com/KainingYing/CTVIS/blob/c1ed15cb11257f7f54646c23706404f95d165a5c/demo/demo.py#L157
+https://github.com/KainingYing/CTVIS/blob/c1ed15cb11257f7f54646c23706404f95d165a5c/demo/visualize_all_videos.py#L172
+
+=====================================
+https://github.com/baaivision/Painter
+=====================================
+
+Found 2 times
+cv2.VideoCapture(vid_path)
+https://github.com/baaivision/Painter/blob/7ac5aefe28e711f7daef495bb07aa1605ad4addc/SegGPT/SegGPT_inference/seggpt_engine.py#L109
+
+=========================================================
+https://github.com/hkchengrex/Tracking-Anything-with-DEVA
+=========================================================
+
+Found 2 times
+cv2.VideoCapture(video)
+cv2.VideoCapture(video)
+https://github.com/hkchengrex/Tracking-Anything-with-DEVA/blob/9606b3bad8645439b39ec89c5c3be4138243ba27/demo/demo_gradio.py#L56
+https://github.com/hkchengrex/Tracking-Anything-with-DEVA/blob/9606b3bad8645439b39ec89c5c3be4138243ba27/demo/demo_gradio.py#L130
+
+============================================
+https://github.com/jspenmar/slowtv_monodepth
+============================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video)
+https://github.com/jspenmar/slowtv_monodepth/blob/70fb69dfeaed1d9d3c346abd8a76e9fb9030cd55/src/external_libs/newcrfs/newcrfs/demo.py#L198
+https://github.com/jspenmar/slowtv_monodepth/blob/70fb69dfeaed1d9d3c346abd8a76e9fb9030cd55/src/external_libs/newcrfs/newcrfs/demo.py#L204
+
+=========================================
+https://github.com/jellyheadandrew/CHORUS
+=========================================
+
+Found 8 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(self.file_name)
+cv2.VideoCapture(self.file_name)
+cv2.VideoCapture(args.input_path)
+cv2.VideoCapture(0)
+cv2.VideoCapture(camera_id)
+cv2.VideoCapture(video_path)
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/demo/demo.py#L139
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/demo/demo.py#L148
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/frankmocap/detectors/body_pose_estimator/demo.py#L42
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/frankmocap/detectors/body_pose_estimator/lightweight-human-pose-estimation.pytorch/demo.py#L42
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/frankmocap/mocap_utils/demo_utils.py#L104
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/frankmocap/mocap_utils/demo_utils.py#L110
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/mmpose/mmpose/apis/webcam/webcam_executor.py#L162
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/mmpose/tools/dataset/preprocess_h36m.py#L350
+
+=================================================
+https://github.com/eyalgomel/box-based-refinement
+=================================================
+
+Found 1 times
+cv2.VideoCapture(inp)
+https://github.com/eyalgomel/box-based-refinement/blob/09c7790f1bc0cba2101a79614a5486344b4c2e7e/dino/video_generation.py#L103
+
+====================================
+https://github.com/SMSD75/Timetuning
+====================================
+
+Found 1 times
+cv2.VideoCapture(initial_directory + path)
+https://github.com/SMSD75/Timetuning/blob/0c9cc845efe5f883b07f86226c8f1d923ec1f50f/data_loader.py#L523
+
+=====================================
+https://github.com/xmed-lab/GraphEcho
+=====================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/xmed-lab/GraphEcho/blob/07f4aecc7bdfa87aa2da442d44667222518612f1/datasets/echo.py#L308
+
+=====================================
+https://github.com/Sarinda251/CDFSL-V
+=====================================
+
+Found 1 times
+cv2.VideoCapture(path)
+https://github.com/Sarinda251/CDFSL-V/blob/f2103b68d177427e83ed33e741275b879d22b618/VideoTransforms.py#L45
+
+====================================
+https://github.com/Adamdad/Repfusion
+====================================
+
+Found 5 times
+cv2.VideoCapture(camera_id)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+cv2.VideoCapture(osp.join(now_dir, img_name))
+https://github.com/Adamdad/Repfusion/blob/2fe77c4c3c75592b4ea308488a926cc408e1a116/landmark/mmpose/apis/webcam/webcam_executor.py#L162
+https://github.com/Adamdad/Repfusion/blob/2fe77c4c3c75592b4ea308488a926cc408e1a116/landmark/tools/dataset/preprocess_h36m.py#L369
+https://github.com/Adamdad/Repfusion/blob/2fe77c4c3c75592b4ea308488a926cc408e1a116/segmentation/tools/convert_datasets/drive.py#L61
+https://github.com/Adamdad/Repfusion/blob/2fe77c4c3c75592b4ea308488a926cc408e1a116/segmentation/tools/convert_datasets/drive.py#L85
+https://github.com/Adamdad/Repfusion/blob/2fe77c4c3c75592b4ea308488a926cc408e1a116/segmentation/tools/convert_datasets/drive.py#L100
+
+==============================
+https://github.com/EricZsy/ROG
+==============================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/EricZsy/ROG/blob/1dad3cf68376bd41f0e08292108a5e4a47c15903/demo/webcam_demo.py#L31
+
+====================================
+https://github.com/guanxiongsun/STPN
+====================================
+
+Found 1 times
+cv2.VideoCapture(args.camera_id)
+https://github.com/guanxiongsun/STPN/blob/a80f448f92cf24feb5ca927eef603481eb216439/demo/webcam_demo.py#L31
+
+====================================
+https://github.com/UCF-CRCV/TeD-SPAD
+====================================
+
+Found 1 times
+cv2.VideoCapture(vid_path)
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/feature_extraction/shanghai_dl.py#L45
+
+========================================
+https://github.com/oppo-us-research/USST
+========================================
+
+Found 11 times
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/get_3dhand_trajectory.py#L244
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/split_videos.py#L52
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/step1_split_videos_with_landmarks.py#L69
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/step2_flow_warped_2dhand_trajectory.py#L60
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/step5_compare_depth.py#L35
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/step6_compute_odometry.py#L41
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/EgoPAT3D/visualize_gt.py#L33
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/preprocess/H2O/visualize.py#L44
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/src/EgoPAT3DLoader.py#L202
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/src/H2OLoader.py#L212
+https://github.com/oppo-us-research/USST/blob/bc09a79db8bf947c700ac3edaa38928e1525fc27/src/utils.py#L281
+
+=================================
+https://github.com/bofang98/UATVR
+=================================
+
+Found 1 times
+cv2.VideoCapture(video_file)
+https://github.com/bofang98/UATVR/blob/db0062a77d9e7ab6eed801fa5e27c3085939d182/dataloaders/rawvideo_util.py#L35
+
+============================================
+https://github.com/fmthoker/tubelet-contrast
+============================================
+
+Found 6 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_diving.py#L39
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_gym.py#L37
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_hmdb51.py#L24
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_kinetics.py#L38
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_something.py#L41
+https://github.com/fmthoker/tubelet-contrast/blob/5f9a715797ae2b1e8f4c274732307aa135807795/scripts_preprocess/process_ucf101.py#L37
+
+======================================
+https://github.com/Sharpiless/MPI-Flow
+======================================
+
+Found 8 times
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture('/share/zhouzhengguang/VFI/raftflow_bmk/skiing_1_360p.mov')
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video)
+cv2.VideoCapture(args.video)
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L97
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L151
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L212
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L255
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L256
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L299
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L345
+https://github.com/Sharpiless/MPI-Flow/blob/f1ea950205b19a4bb47f617903489dff9162b9d6/utils/arrow.py#L394
+
+==============================================================
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos
+==============================================================
+
+Found 6 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_1)
+cv2.VideoCapture(video_path_2)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L248
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L332
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L338
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L339
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L409
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L498
+
+===================================
+https://github.com/TAU-VAILab/Vox-E
+===================================
+
+Found 2 times
+cv2.VideoCapture(video1_path)
+cv2.VideoCapture(video2_path)
+https://github.com/TAU-VAILab/Vox-E/blob/cf7524134cb5ce9a8155c4de85785812209303c8/supp/results/merge_videos.py#L13
+https://github.com/TAU-VAILab/Vox-E/blob/cf7524134cb5ce9a8155c4de85785812209303c8/supp/results/merge_videos.py#L15
+
+===================================
+https://github.com/XGGNet/StegaNeRF
+===================================
+
+Found 1 times
+cv2.VideoCapture(str(video_file))
+https://github.com/XGGNet/StegaNeRF/blob/9bc41d62c697e6140b1f40d3c70eaf6cfd4e4803/opt/scripts/proc_record3d.py#L45
+
+===================================
+https://github.com/ZcyMonkey/AttT2M
+===================================
+
+Found 1 times
+cv2.VideoCapture('/data/zhongchongyang/motiondiffuse/clockwise.mp4')
+https://github.com/ZcyMonkey/AttT2M/blob/447d5a8550ac09126caf2ce365595fb3cedb5b9a/loadnp.py#L3
+
+=======================================
+https://github.com/jpthu17/DiffusionRet
+=======================================
+
+Found 1 times
+cv2.VideoCapture(video_file)
+https://github.com/jpthu17/DiffusionRet/blob/445ac7b0e1fd2a48bab0ae20ec714e40ba01cc8c/DiffusionRet/dataloaders/rawvideo_util.py#L56
+
+================================
+https://github.com/HAWLYQ/ET-Cap
+================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/HAWLYQ/ET-Cap/blob/ce7e55ff944c86caa66761eb6c4a4fe271da6534/CaBOT/mmcv/mmcv/video/io.py#L67
+
+=================================
+https://github.com/showlab/UniVTG
+=================================
+
+Found 5 times
+cv2.VideoCapture(os.path.join(video_path, pred_json['vid'] + '.mp4'))
+cv2.VideoCapture(os.path.join(video_path, pred_json['vid'] + '.mp4'))
+cv2.VideoCapture(os.path.join(video_path, pred_json['vid'] + '.avi'))
+cv2.VideoCapture(os.path.join(video_path, pred_json['vid'] + '.mp4'))
+cv2.VideoCapture(os.path.join(video_path, pred_json['vid'], pred_json['vid'] + '.mp4'))
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/plot/ego4d.py#L51
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/plot/qvhl.py#L47
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/plot/tacos.py#L47
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/plot/tvsum.py#L48
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/plot/youtube.py#L48
+
+===================================
+https://github.com/Ziyang412/UCoFiA
+===================================
+
+Found 3 times
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+cv2.VideoCapture(video_file)
+https://github.com/Ziyang412/UCoFiA/blob/a65f5e8c40c0e4e2811a9af8e31007f5602f323c/eval_t2v/dataloaders/rawvideo_util.py#L41
+https://github.com/Ziyang412/UCoFiA/blob/a65f5e8c40c0e4e2811a9af8e31007f5602f323c/eval_v2t/dataloaders/rawvideo_util.py#L41
+https://github.com/Ziyang412/UCoFiA/blob/a65f5e8c40c0e4e2811a9af8e31007f5602f323c/train/dataloaders/rawvideo_util.py#L41
+
+=========================================
+https://github.com/facebookresearch/EgoTV
+=========================================
+
+Found 2 times
+cv2.VideoCapture(os.path.join(filename, 'video.mp4'))
+cv2.VideoCapture(os.path.join(filename, 'video.mp4'))
+https://github.com/facebookresearch/EgoTV/blob/027bb6162a3b3ebf959e54f5cac844f0b0d28679/baselines/dataset_utils.py#L99
+https://github.com/facebookresearch/EgoTV/blob/027bb6162a3b3ebf959e54f5cac844f0b0d28679/baselines/dataset_utils.py#L124
+
+==========================================
+https://github.com/facebookresearch/VLPart
+==========================================
+
+Found 2 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/facebookresearch/VLPart/blob/e48903ab0cb38e4dd5be7ce7da2e36c855eff53f/demo/demo.py#L157
+https://github.com/facebookresearch/VLPart/blob/e48903ab0cb38e4dd5be7ce7da2e36c855eff53f/demo/demo.py#L166
+
+==============================
+https://github.com/saic-fi/LFA
+==============================
+
+Found 1 times
+cv2.VideoCapture(str(video_file))
+https://github.com/saic-fi/LFA/blob/9eecfd195137ab9c4e1f89e67eb4a5e1ab2b8d07/dataset/video_utils.py#L17
+
+==================================
+https://github.com/acherstyx/CoCap
+==================================
+
+Found 5 times
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_path)
+cv2.VideoCapture(video_file)
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L56
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L117
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L343
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/utils/video.py#L24
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/tools/check_video_integrity.py#L17
+
+===========================================
+https://github.com/bladewaltz1/PromptSwitch
+===========================================
+
+Found 1 times
+cv2.VideoCapture(video_path)
+https://github.com/bladewaltz1/PromptSwitch/blob/6420d3f3099569fd7aaf5455cdb5fe2e9eb55a4b/datasets/video_capture.py#L19
+
+=============================
+https://github.com/doihye/EAR
+=============================
+
+Found 2 times
+cv2.VideoCapture(video)
+cv2.VideoCapture(video)
+https://github.com/doihye/EAR/blob/a5167efe8487906e5ec65cf7363dc3c72d5c8795/agent/agent.py#L512
+https://github.com/doihye/EAR/blob/a5167efe8487906e5ec65cf7363dc3c72d5c8795/env/wrappers.py#L238
+
+============================================
+https://github.com/facebookresearch/NeRF-Det
+============================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/facebookresearch/NeRF-Det/blob/445999690d0924a750e9f8782b0fa1124295e9b0/mmdet3d/mmcv/video/io.py#L67
+
+=========================================
+https://github.com/nku-zhichengzhang/MPOT
+=========================================
+
+Found 1 times
+cv2.VideoCapture(os.path.join(rawroot,scene,scene,vid))
+https://github.com/nku-zhichengzhang/MPOT/blob/f9c2d3487b812fd44e30e94735fb9d1d5740c19e/script/reg_pot_form.py#L24
+
+====================================
+https://github.com/zwyking/Fast-Stab
+====================================
+
+Found 1 times
+cv2.VideoCapture(all_videos[video_id])
+https://github.com/zwyking/Fast-Stab/blob/7b8363703a59afdd87fbd80e4a00a8212789d4ce/pre_video_flow_process.py#L250
+
+========================================
+https://github.com/lllyasviel/ControlNet
+========================================
+
+Found 1 times
+cv2.VideoCapture(filename)
+https://github.com/lllyasviel/ControlNet/blob/ed85cd1e25a5ed592f7d8178495b4483de0331bf/annotator/uniformer/mmcv/video/io.py#L68
+
+======================================
+https://github.com/nmank/FlagAveraging
+======================================
+
+Found 2 times
+cv2.VideoCapture(f_name)
+cv2.VideoCapture(f_name)
+https://github.com/nmank/FlagAveraging/blob/b6f5f683ad7a5de987acfce3ee11a514a6e8b993/PythonCode/action_experiments/youtube_dataset_coarsen.py#L27
+https://github.com/nmank/FlagAveraging/blob/b6f5f683ad7a5de987acfce3ee11a514a6e8b993/PythonCode/action_experiments/youtube_dataset_coarsen_ratio.py#L29
+
+=======================================
+https://github.com/mondalanindya/MSQNet
+=======================================
+
+Found 1 times
+cv2.VideoCapture(input_loc)
+https://github.com/mondalanindya/MSQNet/blob/a340f6e8868b088a5d6a46d863bc9f228f861fa7/multi-label-action-main/utility/extract_frames.py#L22
+
+==========================================================
+https://github.com/Picsart-AI-Research/SeMask-Segmentation
+==========================================================
+
+Found 6 times
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+cv2.VideoCapture(0)
+cv2.VideoCapture(args.video_input)
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-FAPN/SeMask-Mask2Former/demo/demo.py#L145
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-FAPN/SeMask-Mask2Former/demo/demo.py#L154
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-Mask2Former/demo/demo.py#L145
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-Mask2Former/demo/demo.py#L154
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-MaskFormer/demo/demo.py#L145
+https://github.com/Picsart-AI-Research/SeMask-Segmentation/blob/16539be7df1e33a469da508091156e791e90ca2d/SeMask-MaskFormer/demo/demo.py#L154
+
+=======================================================
+https://github.com/Hmic1102/Auto-generated-pseudo-label
+=======================================================
+
+Found 2 times
+cv2.VideoCapture(filename)
+cv2.VideoCapture(filename)
+https://github.com/Hmic1102/Auto-generated-pseudo-label/blob/9442e916822bdce3b1e5bd1db00cdc36f947f9c1/finetune/ucf101.py#L77
+https://github.com/Hmic1102/Auto-generated-pseudo-label/blob/9442e916822bdce3b1e5bd1db00cdc36f947f9c1/finetune/ucf101_test.py#L74
+
+====================================
+https://github.com/bobo199830/VAPNet
+====================================
+
+Found 1 times
+cv2.VideoCapture(fname)
+https://github.com/bobo199830/VAPNet/blob/bbc50dc2e3bb90c68ee6aedd58c9c5bb4eb9f2fd/video_dataset.py#L17
+
+===================================
+https://github.com/webber2933/iCLIP
+===================================
+
+Found 4 times
+cv2.VideoCapture(path)
+cv2.VideoCapture(0)
+cv2.VideoCapture(videofile)
+cv2.VideoCapture(videofile)
+https://github.com/webber2933/iCLIP/blob/d89204fd85d2089c7428ee291f1d26ce9bc3ea5e/detector/tracker/utils/datasets.py#L80
+https://github.com/webber2933/iCLIP/blob/d89204fd85d2089c7428ee291f1d26ce9bc3ea5e/detector/yolo/cam_demo.py#L106
+https://github.com/webber2933/iCLIP/blob/d89204fd85d2089c7428ee291f1d26ce9bc3ea5e/detector/yolo/video_demo.py#L117
+https://github.com/webber2933/iCLIP/blob/d89204fd85d2089c7428ee291f1d26ce9bc3ea5e/detector/yolo/video_demo_half.py#L118

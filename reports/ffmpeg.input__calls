@@ -1,0 +1,135 @@
+Found 26 times in 11 repos.
+
+====================================
+https://github.com/Rajhans0/Poly_INR
+====================================
+
+Found 1 times
+ffmpeg.input(original_video)
+https://github.com/Rajhans0/Poly_INR/blob/0c3806d3afc8eb59514dc18ce3aa716e620ee7e6/torch_utils/gen_utils.py#L151
+
+====================================
+https://github.com/XYPB/CondFoleyGen
+====================================
+
+Found 1 times
+ffmpeg
+                .input(str(mp4_path))
+https://github.com/XYPB/CondFoleyGen/blob/c565db7a7c84c32e8bf53d3a33c095803f6165b9/SparseSync/scripts/make_lrs3_again.py#L38
+
+===============================
+https://github.com/mlvlab/MELTR
+===============================
+
+Found 4 times
+ffmpeg
+            .input(video_path, ss=start_seek, t=self.num_sec + 0.01)
+ffmpeg
+            .input(video_path, ss=start_seek, t=self.num_sec + 0.01)
+ffmpeg
+            .input(video_path, ss=start_seek, t=num_sec + 0.1)
+ffmpeg
+            .input(video_path, ss=start_seek, t=end-start + 0.01)
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/ego4d_v2.py#L110
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/howto100m.py#L57
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L501
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/yttemporal.py#L57
+
+==================================================
+https://github.com/theodumont/modular-memorability
+==================================================
+
+Found 2 times
+ffmpeg.input(filepath)
+ffmpeg.input(filepath)
+https://github.com/theodumont/modular-memorability/blob/3c9182c1263b7cadffc9f023bbda5fcbe12b1d43/gen_features.py#L207
+https://github.com/theodumont/modular-memorability/blob/3c9182c1263b7cadffc9f023bbda5fcbe12b1d43/gen_features.py#L241
+
+================================================
+https://github.com/facebookresearch/ProcedureVRL
+================================================
+
+Found 1 times
+ffmpeg
+        .input(video_path, ss=start, t=end-start)
+https://github.com/facebookresearch/ProcedureVRL/blob/fcbf833bf469d42f0d657be5ff7ec092d68e65aa/lib/datasets/howto100m.py#L499
+
+==================================
+https://github.com/TencentARC/TVTS
+==================================
+
+Found 2 times
+ffmpeg
+        .input(video_path, ss=start_seek, t=num_sec + 0.1)
+ffmpeg
+        .input(video_path, ss=start_seek, t=num_sec + 0.1)
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L405
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L405
+
+=======================================
+https://github.com/park-jungin/DualPath
+=======================================
+
+Found 1 times
+ffmpeg.input('pipe:')
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/data_clean.py#L87
+
+=========================================================
+https://github.com/gorjanradevski/multimodal-distillation
+=========================================================
+
+Found 1 times
+ffmpeg.input(in_filepath)
+https://github.com/gorjanradevski/multimodal-distillation/blob/5444c66505ba98e6e2ffb5c2b2de073e56a92c72/src/utils/data_utils.py#L35
+
+====================================
+https://github.com/researchmm/VQD-SR
+====================================
+
+Found 10 times
+ffmpeg.input(video_path)
+ffmpeg
+                .input(video_path)
+ffmpeg
+                .input('pipe:', format='rawvideo', pix_fmt='rgb24', s=f'{out_width}x{out_height}', framerate=fps)
+ffmpeg
+                .input('pipe:', format='rawvideo', pix_fmt='rgb24', s=f'{out_width}x{out_height}', framerate=fps)
+ffmpeg.input('pipe:', format='rawvideo', pix_fmt='rgb24', s=f'{width}x{height}',
+                             r=fps)
+ffmpeg.input('pipe:', format=format)
+ffmpeg.input('pipe:', format='rawvideo', pix_fmt='rgb24', s=f'{width}x{height}',
+                             r=fps)
+ffmpeg.input('pipe:', format=format)
+ffmpeg.input('pipe:', format='rawvideo', pix_fmt='rgb24', s=f'{width}x{height}',
+                             r=fps)
+ffmpeg.input('pipe:', format=format)
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/scripts/inference_vqdsr_video.py#L64
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/scripts/inference_vqdsr_video.py#L111
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/scripts/inference_vqdsr_video.py#L211
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/scripts/inference_vqdsr_video.py#L219
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/ffmpeg_anime_dataset.py#L130
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/ffmpeg_anime_dataset.py#L136
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/topk_vqgan_dataset.py#L170
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/topk_vqgan_dataset.py#L176
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/topk_vqgan_dataset_contrast_adjust_dataset.py#L179
+https://github.com/researchmm/VQD-SR/blob/f02a6ce9c510600aa90fc8ee6569fae9fd45f347/vqdsr/data/topk_vqgan_dataset_contrast_adjust_dataset.py#L185
+
+=========================================
+https://github.com/google-deepmind/tapnet
+=========================================
+
+Found 1 times
+ffmpeg.input(video_path)
+https://github.com/google-deepmind/tapnet/blob/bde163144ca7d548089b1c18f5712dd86e5c89d3/data/generate_tapvid.py#L148
+
+=================================
+https://github.com/showlab/UniVTG
+=================================
+
+Found 2 times
+ffmpeg
+            .input(video_path)
+ffmpeg
+                    .input(video_path)
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/run_on_video/data_utils.py#L151
+https://github.com/showlab/UniVTG/blob/5406514e2c855dfade76f49356c129262cd74f46/run_on_video/video_loader.py#L101

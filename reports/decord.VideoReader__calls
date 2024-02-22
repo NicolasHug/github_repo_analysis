@@ -1,0 +1,724 @@
+Found 176 times in 53 repos.
+
+====================================
+https://github.com/haochen-rye/HNeRV
+====================================
+
+Found 1 times
+decord.VideoReader(args.data_path)
+https://github.com/haochen-rye/HNeRV/blob/4872129c8d004a25477e0c1ffbbff4ba71943ad5/model_all.py#L26
+
+===================================
+https://github.com/microsoft/i-Code
+===================================
+
+Found 1 times
+VideoReader(video_path, ctx=cpu(0))
+https://github.com/microsoft/i-Code/blob/d2c8d9ab4a199680a6392e4c028e27b291796c88/i-Code-V3/core/common/utils.py#L171
+
+===============================
+https://github.com/mlvlab/MELTR
+===============================
+
+Found 3 times
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, width=512, height=512, num_threads=4, ctx=cpu(0))
+decord.VideoReader(video_path, width=512, height=512, num_threads=1, ctx=cpu(0))
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/base_dataset.py#L353
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L356
+https://github.com/mlvlab/MELTR/blob/5d653e56d64fc3e89dd508ed789619a02d46cb4d/allinone/AllInOne/datasets/video_base_dataset.py#L400
+
+==============================
+https://github.com/iigroup/scl
+==============================
+
+Found 2 times
+decord.VideoReader(video_name, num_threads=1)
+decord.VideoReader(video_name, num_threads=1)
+https://github.com/iigroup/scl/blob/cd0d81985536c5ed1f493a02ec2ba73e8a5c3e4e/scl/datasets/base_video_dataset.py#L98
+https://github.com/iigroup/scl/blob/cd0d81985536c5ed1f493a02ec2ba73e8a5c3e4e/scl/datasets/base_video_dataset.py#L133
+
+=================================================================
+https://github.com/facebookresearch/novel-view-acoustic-synthesis
+=================================================================
+
+Found 1 times
+VideoReader(video_file, ctx=cpu(0))
+https://github.com/facebookresearch/novel-view-acoustic-synthesis/blob/62d1c04e825aa86ba918918bd0ad84632a7f5f86/nvas/datasets/replay_nvas_dataset.py#L97
+
+==========================================================
+https://github.com/yu-takagi/StableDiffusionReconstruction
+==========================================================
+
+Found 2 times
+VideoReader(video_path)
+VideoReader(video_path, width=width, height=height)
+https://github.com/yu-takagi/StableDiffusionReconstruction/blob/e187d4b3db1d647ee3e1b4256a2068ffd15df683/codes/caption/BLIP/data/video_dataset.py#L79
+https://github.com/yu-takagi/StableDiffusionReconstruction/blob/e187d4b3db1d647ee3e1b4256a2068ffd15df683/codes/caption/BLIP/data/video_dataset.py#L81
+
+================================
+https://github.com/wgcban/adamae
+================================
+
+Found 6 times
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_name, num_threads=1)
+VideoReader(f, ctx=cpu(0))
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/kinetics.py#L238
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/kinetics.py#L240
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/kinetics.py#L486
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/run_videomae_vis.py#L109
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/ssv2.py#L230
+https://github.com/wgcban/adamae/blob/aa198502f3da26a5ecb1999aeaf19a7a04bab272/ssv2.py#L232
+
+===============================
+https://github.com/XinyuSun/MME
+===============================
+
+Found 9 times
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_name, num_threads=1)
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(
+            str(self.video_path),
+            width=-1,
+            height=-1,
+            num_threads=1,
+        )
+decord.VideoReader(
+                str(self.flow_path / 'x.mp4'),
+                width=-1,
+                height=-1,
+                num_threads=1,
+            )
+decord.VideoReader(
+                str(self.flow_path / 'y.mp4'),
+                width=-1,
+                height=-1,
+                num_threads=1,
+            )
+decord.VideoReader(
+            str(self.video_path),
+            width=-1,
+            height=-1,
+            num_threads=1,
+        )
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/dataset/kinetics.py#L238
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/dataset/kinetics.py#L240
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/dataset/kinetics.py#L498
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/dataset/ssv2.py#L235
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/dataset/ssv2.py#L237
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/m3video/feat.py#L235
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/m3video/feat.py#L243
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/m3video/feat.py#L252
+https://github.com/XinyuSun/MME/blob/17689a923297ab53e28991e2c7e5a089c746d0b6/m3video/feat.py#L309
+
+=================================
+https://github.com/baaivision/EVA
+=================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/video/datasets/pipeline.py#L1893
+
+===================================
+https://github.com/jimmy-dq/DropMAE
+===================================
+
+Found 2 times
+VideoReader(video_path, num_threads=1, ctx=cpu(0))
+VideoReader(video_name)
+https://github.com/jimmy-dq/DropMAE/blob/5db038045c550b4f153ae6b458608d71a16dfba9/dataset_video/KineticsDataset.py#L56
+https://github.com/jimmy-dq/DropMAE/blob/5db038045c550b4f153ae6b458608d71a16dfba9/process_data/check_k400_images.py#L38
+
+=============================================
+https://github.com/alibaba-mmai-research/MoLo
+=============================================
+
+Found 1 times
+VideoReader(tmp_file)
+https://github.com/alibaba-mmai-research/MoLo/blob/f7f73b6dd8cba446b414b1c47652ab26033bc88e/datasets/base/base_dataset.py#L225
+
+================================
+https://github.com/wlin-at/ViTTA
+================================
+
+Found 5 times
+decord.VideoReader(vid_path)
+decord.VideoReader(vid_path)
+decord.VideoReader(vid_path)
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/wlin-at/ViTTA/blob/b4f560e2a4829cacd183590663be192a3af53784/datasets_/video_dataset.py#L132
+https://github.com/wlin-at/ViTTA/blob/b4f560e2a4829cacd183590663be192a3af53784/datasets_/video_dataset.py#L293
+https://github.com/wlin-at/ViTTA/blob/b4f560e2a4829cacd183590663be192a3af53784/models/tanet_models/video_dataset.py#L322
+https://github.com/wlin-at/ViTTA/blob/b4f560e2a4829cacd183590663be192a3af53784/models/videoswintransformer_models/transforms.py#L655
+https://github.com/wlin-at/ViTTA/blob/b4f560e2a4829cacd183590663be192a3af53784/models/videoswintransformer_models/transforms_backup.py#L405
+
+==============================
+https://github.com/Jun-CEN/PSL
+==============================
+
+Found 2 times
+VideoReader(tmp_file)
+VideoReader('/home/admin/workspace/shared/public/gongbao.yq/ucf101/videos/ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c01.avi', ctx=cpu(0))
+https://github.com/Jun-CEN/PSL/blob/6460af2abc1fb18e2cdb844507f80ea5330c8c0e/datasets/base/base_dataset.py#L262
+https://github.com/Jun-CEN/PSL/blob/6460af2abc1fb18e2cdb844507f80ea5330c8c0e/datasets/utils/transformations.py#L730
+
+==========================================
+https://github.com/facebookresearch/LaViLa
+==========================================
+
+Found 9 times
+decord.VideoReader(args.video_path)
+decord.VideoReader(args.video_path)
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid)))
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid), '{}.mp4'.format(chunk_start)))
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid), '{}.mp4'.format(chunk_start + chunk_len)))
+decord.VideoReader(osp.join(root, vid))
+decord.VideoReader(video)
+decord.VideoReader(video)
+decord.VideoReader(video)
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/demo_narrator.py#L27
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/demo_narrator_3rd_person.py#L27
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L27
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L36
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L63
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L94
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L119
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L147
+https://github.com/facebookresearch/LaViLa/blob/8002b5ab0db31789b9897a0a9c36729099e21ad4/lavila/data/datasets.py#L169
+
+==========================================
+https://github.com/muzairkhattak/ViFi-CLIP
+==========================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/muzairkhattak/ViFi-CLIP/blob/e2d1948307f582052078eb8a4afbeb50247166f1/datasets/pipeline.py#L1806
+
+=====================================
+https://github.com/farewellthree/STAN
+=====================================
+
+Found 8 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+decord.VideoReader(video)
+decord.VideoReader(video_path)
+decord.VideoReader('./demo/demo.mp4')
+decord.VideoReader('./demo/demo.mp4')
+decord.VideoReader('./demo/demo.mp4')
+decord.VideoReader(video_path)
+decord.VideoReader('/tmp/tmp.mp4')
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/mmaction/datasets/transforms/loading.py#L1118
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/mmaction/visualization/action_visualizer.py#L120
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tests/apis/test_inferencer.py#L61
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tests/visualization/test_action_visualizer.py#L15
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tests/visualization/test_video_backend.py#L23
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tests/visualization/test_video_backend.py#L45
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tools/data/ava_kinetics/cut_kinetics.py#L127
+https://github.com/farewellthree/STAN/blob/c9dc7b6a3ebd0159b2898979b44fb6c92946abcd/tools/deployment/mmaction_handler.py#L57
+
+=========================================
+https://github.com/facebookresearch/EgoT2
+=========================================
+
+Found 1 times
+VideoReader(video_filename, height=320, width=568)
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/short_term_anticipation.py#L592
+
+============================================
+https://github.com/BeSpontaneous/FFN-pytorch
+============================================
+
+Found 2 times
+VideoReader(path_to_vid, ctx=cpu(0))
+VideoReader(path_to_vid, ctx=cpu(0))
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/datasets/video_container.py#L34
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/datasets/video_container.py#L34
+
+==================================
+https://github.com/TencentARC/TVTS
+==================================
+
+Found 11 times
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(
+        video_path, width=512, height=512, num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_path, num_threads=1)
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(
+        video_path, width=512, height=512, num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_path, num_threads=1)
+VideoReader(video_path, ctx=cpu(0), num_threads=1)
+VideoReader(video_path, ctx=cpu(0), num_threads=1)
+VideoReader(video_path, ctx=cpu(0), num_threads=1)
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset.py#L233
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L322
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/base/base_dataset_yt.py#L369
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/downstream/ssv2.py#L242
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v1/downstream/ssv2.py#L244
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset.py#L317
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L322
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/base/base_dataset_yt.py#L369
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/downstream/feature_extraction_TVTSv2_B_16.py#L63
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/downstream/feature_extraction_TVTSv2_B_32.py#L63
+https://github.com/TencentARC/TVTS/blob/290a63efd63f40012e0b6dafd9954dbac40db41d/v2/downstream/feature_extraction_TVTSv2_H_14.py#L63
+
+==================================
+https://github.com/ruiwang2021/mvd
+==================================
+
+Found 5 times
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_name, num_threads=1)
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+https://github.com/ruiwang2021/mvd/blob/45b877a6d18202a81528eeb31ff2da2c0e9ef2ea/kinetics.py#L239
+https://github.com/ruiwang2021/mvd/blob/45b877a6d18202a81528eeb31ff2da2c0e9ef2ea/kinetics.py#L241
+https://github.com/ruiwang2021/mvd/blob/45b877a6d18202a81528eeb31ff2da2c0e9ef2ea/kinetics.py#L489
+https://github.com/ruiwang2021/mvd/blob/45b877a6d18202a81528eeb31ff2da2c0e9ef2ea/ssv2.py#L233
+https://github.com/ruiwang2021/mvd/blob/45b877a6d18202a81528eeb31ff2da2c0e9ef2ea/ssv2.py#L235
+
+==============================
+https://github.com/whwu95/BIKE
+==============================
+
+Found 3 times
+decord.VideoReader(video_path)
+decord.VideoReader(video_path)
+decord.VideoReader(video_path)
+https://github.com/whwu95/BIKE/blob/6f048f3b5813fd9353f8ff2cb64924d05ad1fa9e/datasets/charades.py#L171
+https://github.com/whwu95/BIKE/blob/6f048f3b5813fd9353f8ff2cb64924d05ad1fa9e/datasets/video.py#L146
+https://github.com/whwu95/BIKE/blob/6f048f3b5813fd9353f8ff2cb64924d05ad1fa9e/datasets/video_attr.py#L175
+
+==========================================
+https://github.com/facebookresearch/HierVL
+==========================================
+
+Found 2 times
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L414
+https://github.com/facebookresearch/HierVL/blob/998a8527ed6a3306e031ee73ed81978db6e99861/base/base_dataset.py#L425
+
+=================================
+https://github.com/ktr-hubrt/UMIL
+=================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/ktr-hubrt/UMIL/blob/0eaffdded3c8e9a0069a306ce93395b12eda5259/datasets/pipeline.py#L1807
+
+=======================================
+https://github.com/OpenGVLab/VideoMAEv2
+=======================================
+
+Found 1 times
+VideoReader(video_path, num_threads=1, ctx=cpu(0))
+https://github.com/OpenGVLab/VideoMAEv2/blob/9492db0047a9e30446a4093543a1a39dfe62b459/dataset/loader.py#L26
+
+=======================================
+https://github.com/park-jungin/DualPath
+=======================================
+
+Found 5 times
+decord.VideoReader(video_bytes, ctx=decord.cpu(0))
+decord.VideoReader(video_name, num_threads=1)
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                 num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_name, num_threads=1)
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/data_clean.py#L55
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/data_clean.py#L57
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/kinetics.py#L270
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/kinetics.py#L272
+https://github.com/park-jungin/DualPath/blob/cc90924580cc1b0db3d971e7fd2e512dc593b584/datasets/kinetics.py#L525
+
+=================================
+https://github.com/Ali2500/TarViS
+=================================
+
+Found 1 times
+VideoReader(bytes_video)
+https://github.com/Ali2500/TarViS/blob/8d5022abb0eb88dc94ae513ca63ee563c694461b/tarvis/demo/utils.py#L42
+
+===================================
+https://github.com/microsoft/VideoX
+===================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/microsoft/VideoX/blob/71ef17ad97a021e123ba41b78376e21ef4094f75/X-CLIP/datasets/pipeline.py#L1806
+
+==============================
+https://github.com/yhZhai/SOAR
+==============================
+
+Found 2 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+decord.VideoReader('/tmp/tmp.mp4')
+https://github.com/yhZhai/SOAR/blob/2640a88ea0d57d70a8b86e1df62e2c53e3630719/mmaction/datasets/pipelines/loading.py#L1066
+https://github.com/yhZhai/SOAR/blob/2640a88ea0d57d70a8b86e1df62e2c53e3630719/tools/deployment/mmaction_handler.py#L57
+
+=====================================
+https://github.com/VQAssessment/DOVER
+=====================================
+
+Found 4 times
+VideoReader(filename)
+VideoReader(filename)
+VideoReader(filename)
+VideoReader(video_path)
+https://github.com/VQAssessment/DOVER/blob/411c62b0fb9dba1cd72bec7c62324f45031bad89/dover/datasets/basic_datasets.py#L307
+https://github.com/VQAssessment/DOVER/blob/411c62b0fb9dba1cd72bec7c62324f45031bad89/dover/datasets/basic_datasets.py#L447
+https://github.com/VQAssessment/DOVER/blob/411c62b0fb9dba1cd72bec7c62324f45031bad89/dover/datasets/basic_datasets.py#L552
+https://github.com/VQAssessment/DOVER/blob/411c62b0fb9dba1cd72bec7c62324f45031bad89/dover/datasets/dover_datasets.py#L246
+
+==================================
+https://github.com/AndongDeng/BEAR
+==================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/AndongDeng/BEAR/blob/121048d8fa3fcaa863148fd038514e81f3d110fa/benchmark/BEAR-Standard/mmaction/datasets/pipelines/loading.py#L965
+
+============================================
+https://github.com/facebookresearch/EgoVLPv2
+============================================
+
+Found 11 times
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=8)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(vid)
+decord.VideoReader(video_fp)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L373
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/base/base_dataset.py#L384
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoNLQ/utils/data_gen.py#L159
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L375
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoTaskQA/base/base_dataset.py#L386
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L373
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/base/base_dataset.py#L384
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/data_loader/EpicKitchens_MIR_dataset.py#L90
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/EgoVLPv2/data_loader/EpicKitchens_MIR_dataset.py#L114
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L373
+https://github.com/facebookresearch/EgoVLPv2/blob/a87569e1fe7065ad77245314cecf4b8ad13ebd86/QFVS/base/base_dataset.py#L384
+
+======================================================
+https://github.com/Picsart-AI-Research/Text2Video-Zero
+======================================================
+
+Found 1 times
+decord.VideoReader(video_path)
+https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/fd76734e06aadb1dee83d2b7a368b14bdaa35565/utils.py#L137
+
+==================================
+https://github.com/owenzlz/PAL4VST
+==================================
+
+Found 1 times
+decord.VideoReader(image)
+https://github.com/owenzlz/PAL4VST/blob/5c26feab93fa439a07c68efa0b20297ac3dd1b79/mmdeploy/mmdeploy/codebase/mmaction/deploy/video_recognition.py#L191
+
+=======================================
+https://github.com/showlab/Tune-A-Video
+=======================================
+
+Found 1 times
+decord.VideoReader(self.video_path, width=self.width, height=self.height)
+https://github.com/showlab/Tune-A-Video/blob/7d4a89a2b90067e8d805ef1287beb4e4adf37e18/tuneavideo/data/dataset.py#L34
+
+======================================
+https://github.com/lihaoxin05/StillMix
+======================================
+
+Found 13 times
+decord.VideoReader(full_path)
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+decord.VideoReader('/tmp/tmp.mp4')
+decord.VideoReader(full_path)
+decord.VideoReader(full_path)
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+decord.VideoReader('/tmp/tmp.mp4')
+decord.VideoReader(video_full_path)
+decord.VideoReader(video_full_path)
+decord.VideoReader(video_full_path)
+decord.VideoReader(video_full_path)
+decord.VideoReader(video_full_path)
+decord.VideoReader(video_full_path)
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/Video-Swin-Transformer/mmaction/datasets/blending_utils.py#L750
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/Video-Swin-Transformer/mmaction/datasets/pipelines/loading.py#L965
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/.mim/tools/deployment/mmaction_handler.py#L57
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/datasets/blending_utils.py#L740
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/datasets/blending_utils.py#L898
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/mmaction/datasets/pipelines/loading.py#L1067
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/main_network/mmaction2/tools/deployment/mmaction_handler.py#L57
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/resnet50/main_video.py#L33
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/resnet50/main_video.py#L58
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/slowfast-2d/main_video.py#L53
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/slowfast-2d/main_video.py#L78
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/swin-t/main_video.py#L32
+https://github.com/lihaoxin05/StillMix/blob/335c8706e291f4b567066cf7f561636c85bf7a73/reference_network/swin-t/main_video.py#L57
+
+====================================
+https://github.com/Francis-Rings/ILA
+====================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/Francis-Rings/ILA/blob/1a912d933f96ca70ed39e34253df0054991e4134/datasets/pipeline.py#L1811
+
+=============================================
+https://github.com/OpenGVLab/unmasked_teacher
+=============================================
+
+Found 16 times
+VideoReader(io.BytesIO(video_bytes), num_threads=1)
+VideoReader(video_path, num_threads=1)
+VideoReader(io.BytesIO(video_bytes),
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                     width=self.new_width,
+                                     height=self.new_height,
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                    num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                     width=self.new_width,
+                                     height=self.new_height,
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                    num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                                    num_threads=1,
+                                                    ctx=cpu(0))
+decord.VideoReader(video_name, num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, num_threads=1, ctx=cpu(0))
+VideoReader(io.BytesIO(video_bytes),
+                                     width=self.new_width,
+                                     height=self.new_height,
+                                     num_threads=1,
+                                     ctx=cpu(0))
+VideoReader(fname, width=self.new_width, height=self.new_height,
+                                    num_threads=1, ctx=cpu(0))
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/multi_modality/dataset/video_utils.py#L133
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/multi_modality/dataset/video_utils.py#L135
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics.py#L248
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics.py#L252
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics.py#L256
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics.py#L262
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics_sparse.py#L269
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics_sparse.py#L273
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics_sparse.py#L277
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/kinetics_sparse.py#L283
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/mae.py#L152
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/mae.py#L156
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/ssv2.py#L541
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/ssv2.py#L545
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/ssv2.py#L549
+https://github.com/OpenGVLab/unmasked_teacher/blob/61274be443b7f1d74b3a7508aab2238015445cb6/single_modality/datasets/ssv2.py#L555
+
+=================================
+https://github.com/mshukor/eP-ALM
+=================================
+
+Found 1 times
+decord.VideoReader(video_path, num_threads=1)
+https://github.com/mshukor/eP-ALM/blob/9ecfeb9acf9a128ab9b6b72e0a68bf8918d47833/dataset/video_utils.py#L100
+
+========================================
+https://github.com/OpenGVLab/UniFormerV2
+========================================
+
+Found 1 times
+VideoReader(path_to_vid, ctx=cpu(0))
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/datasets/video_container.py#L31
+
+=================================================
+https://github.com/kevinliang888/IVR-QA-baselines
+=================================================
+
+Found 2 times
+VideoReader(video_path)
+VideoReader(video_path, width=width, height=height)
+https://github.com/kevinliang888/IVR-QA-baselines/blob/8f9b0ade0293fc24c0ef46e3415b5e68cc00f703/data/video_dataset.py#L88
+https://github.com/kevinliang888/IVR-QA-baselines/blob/8f9b0ade0293fc24c0ef46e3415b5e68cc00f703/data/video_dataset.py#L90
+
+=================================
+https://github.com/Separius/SCALE
+=================================
+
+Found 1 times
+VideoReader(fp, ctx=ctx, width=width, height=height)
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/datasets/video_container.py#L42
+
+=================================================
+https://github.com/eyalgomel/box-based-refinement
+=================================================
+
+Found 2 times
+VideoReader(video_path)
+VideoReader(video_path, width=width, height=height)
+https://github.com/eyalgomel/box-based-refinement/blob/09c7790f1bc0cba2101a79614a5486344b4c2e7e/BLIP/data/video_dataset.py#L79
+https://github.com/eyalgomel/box-based-refinement/blob/09c7790f1bc0cba2101a79614a5486344b4c2e7e/BLIP/data/video_dataset.py#L81
+
+=======================================
+https://github.com/cvlab-columbia/viper
+=======================================
+
+Found 2 times
+decord.VideoReader(str(video_path), num_threads=1, ctx=cpu(0))
+decord.VideoReader(video_path, num_threads=1, ctx=cpu(0))
+https://github.com/cvlab-columbia/viper/blob/09fe3465224766860d8dd4ec48db942f22b05092/datasets/my_dataset.py#L62
+https://github.com/cvlab-columbia/viper/blob/09fe3465224766860d8dd4ec48db942f22b05092/datasets/nextqa.py#L87
+
+================================
+https://github.com/MCG-NJU/MGMAE
+================================
+
+Found 1 times
+VideoReader(video_path, num_threads=1, ctx=cpu(0))
+https://github.com/MCG-NJU/MGMAE/blob/af7beb988fa9b06fba44c87db037529166020a1f/dataset/loader.py#L26
+
+====================================
+https://github.com/UCF-CRCV/TeD-SPAD
+====================================
+
+Found 5 times
+decord.VideoReader(vid_path, ctx=decord.cpu())
+decord.VideoReader(vid_path, ctx=decord.cpu())
+decord.VideoReader(vid_path, ctx=decord.cpu())
+decord.VideoReader(vid_path, ctx=decord.cpu())
+decord.VideoReader(vid_path, ctx=decord.cpu())
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/aux_code/ucf101_dl.py#L68
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/aux_code/ucf101_dl.py#L256
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/aux_code/ucf101_dl.py#L389
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/aux_code/ucf101_dl.py#L718
+https://github.com/UCF-CRCV/TeD-SPAD/blob/41f8e3c613ccef7a4e7f3dd9b86fc81aed6fee84/visualization/visualize_anonymization.py#L29
+
+=============================
+https://github.com/whwu95/ATM
+=============================
+
+Found 4 times
+decord.VideoReader(video_path)
+decord.VideoReader(video_path)
+decord.VideoReader(video_path)
+decord.VideoReader(video_path)
+https://github.com/whwu95/ATM/blob/98ba3aa2ac258cc1b91beefe9317136657ae3d8d/dataset/charades.py#L177
+https://github.com/whwu95/ATM/blob/98ba3aa2ac258cc1b91beefe9317136657ae3d8d/dataset/kinetics.py#L147
+https://github.com/whwu95/ATM/blob/98ba3aa2ac258cc1b91beefe9317136657ae3d8d/dataset/sth.py#L165
+https://github.com/whwu95/ATM/blob/98ba3aa2ac258cc1b91beefe9317136657ae3d8d/dataset/sthvideo.py#L178
+
+=============================================
+https://github.com/TalalWasim/Video-FocalNets
+=============================================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/TalalWasim/Video-FocalNets/blob/0909341725fec9103156085dd11e1c8d45d2d05b/datasets/pipeline.py#L1806
+
+==============================================================
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos
+==============================================================
+
+Found 11 times
+decord.VideoReader(vpath)
+decord.VideoReader(vpath)
+decord.VideoReader(vpath)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid)))
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid), '{}.mp4'.format(chunk_start)))
+decord.VideoReader(osp.join(root, '{}.mp4'.format(vid), '{}.mp4'.format(chunk_start + chunk_len)))
+decord.VideoReader(osp.join(root, vid))
+decord.VideoReader(os.path.join(root, vid))
+decord.VideoReader(vpath)
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L276
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L285
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L312
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L475
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/base/base_dataset.py#L486
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/data_loader/Egtea.py#L16
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/data_loader/Egtea.py#L25
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/data_loader/Egtea.py#L52
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/data_loader/Egtea.py#L83
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/data_loader/EpicKitchens_MIR_dataset.py#L23
+https://github.com/Chuhanxx/helping_hand_for_egocentric_videos/blob/46a3852842782335740933821dfe61657e995339/demo/visualize_box.py#L59
+
+=============================================
+https://github.com/alibaba-mmai-research/DiST
+=============================================
+
+Found 1 times
+VideoReader(tmp_file)
+https://github.com/alibaba-mmai-research/DiST/blob/4b3a09bc3c6d7933c98173c70ca0ed76f975e13d/dataset/base/base_dataset.py#L246
+
+=======================================
+https://github.com/jpthu17/DiffusionRet
+=======================================
+
+Found 1 times
+VideoReader(video_path, ctx=cpu(0))
+https://github.com/jpthu17/DiffusionRet/blob/445ac7b0e1fd2a48bab0ae20ec714e40ba01cc8c/DiffusionRet/dataloaders/dataloader_retrieval.py#L208
+
+===============================
+https://github.com/wlin-at/MAXI
+===============================
+
+Found 1 times
+decord.VideoReader(file_obj, num_threads=self.num_threads)
+https://github.com/wlin-at/MAXI/blob/056b8c5fdae01ff29a53c04dcf62c17ef27a8c16/datasets/pipeline.py#L1806
+
+==================================
+https://github.com/acherstyx/CoCap
+==================================
+
+Found 2 times
+decord.VideoReader(video_path, num_threads=1)
+decord.VideoReader(video_path, num_threads=1)
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L105
+https://github.com/acherstyx/CoCap/blob/c42d593de3f29f7b2579e0daf1b70e490ecb9bcf/mm_video/data/datasets/compressed_video/video_readers.py#L163
+
+=======================================
+https://github.com/ombretta/videobagnet
+=======================================
+
+Found 2 times
+VideoReader(f, ctx=cpu(0))
+VideoReader(f, ctx=cpu(0))
+https://github.com/ombretta/videobagnet/blob/30519f691cb0e9ad312845692e3eedd6b54ec275/datasets/loader.py#L60
+https://github.com/ombretta/videobagnet/blob/30519f691cb0e9ad312845692e3eedd6b54ec275/datasets/loader.py#L87

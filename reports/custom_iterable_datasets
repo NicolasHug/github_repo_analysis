@@ -1,0 +1,1049 @@
+Found 191 times in 109 repos.
+
+=============================
+https://github.com/zju3dv/pvo
+=============================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/detectron2/data/common.py#L26
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/detectron2/data/common.py#L164
+https://github.com/zju3dv/pvo/blob/c67a15f4e0956cf237bfe620029206af63ebde51/VPS_Module/detectron2/data/common.py#L207
+
+================================
+https://github.com/pals-ttic/sjc
+================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/pals-ttic/sjc/blob/509138aba24a1ae1e9683ca1dc6fb119d9848c97/sd1/ldm/data/base.py#L5
+
+==================================================
+https://github.com/google-research/google-research
+==================================================
+
+Found 2 times
+class CookedInfRfill(IterableDataset):
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/aloe/aloe/rfill/utils/dataset.py#L94
+
+=====================================================
+https://github.com/OVAD-Benchmark/ovad-benchmark-code
+=====================================================
+
+Found 2 times
+class MDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+class DIFFMDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+https://github.com/OVAD-Benchmark/ovad-benchmark-code/blob/3e14bb779ae9e55063362cec642d8a96fe2eeb29/ovadb/data/custom_dataset_dataloader.py#L290
+https://github.com/OVAD-Benchmark/ovad-benchmark-code/blob/3e14bb779ae9e55063362cec642d8a96fe2eeb29/ovadb/data/custom_dataset_dataloader.py#L309
+
+========================================
+https://github.com/Vision-CAIR/MammalNet
+========================================
+
+Found 4 times
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/build/lib/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/detection/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/build/lib/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/Vision-CAIR/MammalNet/blob/b44f76f89b77c09b2dc550af340cc4b854ecc9b8/recognition/slowfast/datasets/ptv_datasets.py#L42
+
+================================
+https://github.com/ziplab/SN-Net
+================================
+
+Found 2 times
+class IterableImageDataset(data.IterableDataset):
+class ResampledShards2(IterableDataset):
+https://github.com/ziplab/SN-Net/blob/c2dcf306089dfe982080a4f43a7ecebffd66abc6/stitching_resnet_swin/timm/data/dataset.py#L84
+https://github.com/ziplab/SN-Net/blob/c2dcf306089dfe982080a4f43a7ecebffd66abc6/stitching_resnet_swin/timm/data/readers/reader_wds.py#L239
+
+==================================
+https://github.com/microsoft/Cream
+==================================
+
+Found 4 times
+class ResampledShards2(IterableDataset):
+class IterableImageDataset(data.IterableDataset):
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/TinyCLIP/src/training/data.py#L292
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/TinyViT/data/augmentation/dataset.py#L69
+
+====================================
+https://github.com/pengzhiliang/G2SD
+====================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/detectron2/data/common.py#L26
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/detectron2/data/common.py#L164
+https://github.com/pengzhiliang/G2SD/blob/6146adf567dde60e18074928af1af504dd097eeb/G2SD_det_dis/detectron2/data/common.py#L207
+
+==================================
+https://github.com/ncsu-dk-lab/MuE
+==================================
+
+Found 1 times
+class FairseqIterableDataset(torch.utils.data.IterableDataset, EpochListening):
+https://github.com/ncsu-dk-lab/MuE/blob/0a6078e7da6d04a388a7db40659c1b7e3f596477/fairseq/fairseq/data/fairseq_dataset.py#L198
+
+==========================================
+https://github.com/memmelma/VO-Transformer
+==========================================
+
+Found 1 times
+class BaseRegressionDataset(IterableDataset):
+https://github.com/memmelma/VO-Transformer/blob/48fb458dec1528360ab18b4712ad73ce3e03ee72/pointnav_vo/vo/dataset/regression_iter_dataset.py#L18
+
+===========================================
+https://github.com/mwalmer-umd/vit_analysis
+===========================================
+
+Found 1 times
+class IterableImageDataset(data.IterableDataset):
+https://github.com/mwalmer-umd/vit_analysis/blob/c8810df6d599fb5c81c55eec37ca026ec243193d/timm_vit_modified/pytorch-image-models/timm/data/dataset.py#L69
+
+================================
+https://github.com/valeoai/OCTET
+================================
+
+Found 1 times
+class NullIterableDataset(IterableDataset):
+https://github.com/valeoai/OCTET/blob/90477605407ab438d395b30e6bbd43ec4cadbff9/src/data/nodata.py#L12
+
+======================================================
+https://github.com/adobe-research/affordance-insertion
+======================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/adobe-research/affordance-insertion/blob/ec7e931201281d02bb2d95812eb4c1523366b574/ldm/data/base.py#L5
+
+=====================================================
+https://github.com/ziqihuangg/Collaborative-Diffusion
+=====================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/ziqihuangg/Collaborative-Diffusion/blob/b1ea7f83089a770dbe6c6cf695fc6b0e361957fb/ldm/data/base.py#L5
+
+==========================================
+https://github.com/mf-zhang/Structural-MPI
+==========================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/detectron2/data/common.py#L31
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/detectron2/data/common.py#L221
+https://github.com/mf-zhang/Structural-MPI/blob/cfa26640ae5fc47b360ca2d49f10f5daa953ee45/detectron2/detectron2/data/common.py#L264
+
+==================================================
+https://github.com/Fantasy-Studio/Paint-by-Example
+==================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/Fantasy-Studio/Paint-by-Example/blob/52a7e3736d579889e13c988403b7fd721bb22293/ldm/data/base.py#L5
+
+================================
+https://github.com/gligen/GLIGEN
+================================
+
+Found 2 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/gligen/GLIGEN/blob/f9dccb9c6cf48bad03c3666290a7dec8c5e58f3c/demo/gligen/ldm/data/base.py#L5
+https://github.com/gligen/GLIGEN/blob/f9dccb9c6cf48bad03c3666290a7dec8c5e58f3c/ldm/data/base.py#L5
+
+==================================
+https://github.com/sstzal/DiffTalk
+==================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/sstzal/DiffTalk/blob/b49a607aa39bb41da215870c2b3dd48e9af9f30d/ldm/data/base.py#L5
+
+===============================
+https://github.com/zyxElsa/InST
+===============================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/zyxElsa/InST/blob/1d56c9187baae273effa9b1de43d9f9795c7ca27/ldm/data/base.py#L5
+
+========================================
+https://github.com/rotem-shalev/Ham2Pose
+========================================
+
+Found 1 times
+class TFDSTorchDataset(torch.utils.data.IterableDataset):
+https://github.com/rotem-shalev/Ham2Pose/blob/25a5cd7221dfb81a24088e4f38bca868d8e896fc/data/utils/torch_dataset.py#L9
+
+==================================================
+https://github.com/nianticlabs/nerf-object-removal
+==================================================
+
+Found 4 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+class InpaintingTrainWebDataset(IterableDataset):
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/detectron2/data/common.py#L26
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/detectron2/data/common.py#L164
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/detectron2/detectron2/data/common.py#L207
+https://github.com/nianticlabs/nerf-object-removal/blob/805e23444e2613889fc14925d1a292d1905bcb9d/external/lama/saicinpainting/training/data/datasets.py#L89
+
+=================================================
+https://github.com/timothybrooks/instruct-pix2pix
+=================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/timothybrooks/instruct-pix2pix/blob/0dffd1eeb02611c35088462d1df88714ce2b52f4/stable_diffusion/ldm/data/base.py#L5
+
+==========================================
+https://github.com/essunny310/FreestyleNet
+==========================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/essunny310/FreestyleNet/blob/5dcb8b84e150509456eaa5aeec09b505c7a6766f/ldm/data/base.py#L5
+
+==========================================
+https://github.com/ubc-vision/Make-A-Story
+==========================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/ubc-vision/Make-A-Story/blob/593ee0406b34516cc4cb15b1407449c73bfe4c50/ldm/data/base.py#L5
+
+==========================================================
+https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement
+==========================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement/blob/8e7d6de811fddf473fad697a8ce5e781c30e8ef5/ldm/data/base.py#L5
+
+==================================
+https://github.com/DeepDoNet/DoNet
+==================================
+
+Found 1 times
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/DeepDoNet/DoNet/blob/6ffb860a4686348ee0221a07c9d84e7884d20744/detectron2/data/common.py#L84
+
+==================================
+https://github.com/dair-iitd/DeGPR
+==================================
+
+Found 1 times
+class RandomDataset(torch.utils.data.IterableDataset):
+https://github.com/dair-iitd/DeGPR/blob/cd2b65cdbfc9d54c7a8af1f8291be83e93261f84/Detection/faster_rcnn/vision/gallery/plot_video_api.py#L247
+
+===================================
+https://github.com/SivanDoveh/TSVLC
+===================================
+
+Found 1 times
+class ResampledShards2(IterableDataset):
+https://github.com/SivanDoveh/TSVLC/blob/90b18e7f7abc6ee867cc94893c6eb221ff6a16c5/src/training/data.py#L327
+
+==========================================================
+https://github.com/yu-takagi/StableDiffusionReconstruction
+==========================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/yu-takagi/StableDiffusionReconstruction/blob/e187d4b3db1d647ee3e1b4256a2068ffd15df683/codes/diffusion_sd1/stable-diffusion/ldm/data/base.py#L5
+
+================================
+https://github.com/hujiecpp/YOSO
+================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/hujiecpp/YOSO/blob/04b898d395ffd8318aa3761b0b2b6d20b3514f26/detectron2/data/common.py#L26
+https://github.com/hujiecpp/YOSO/blob/04b898d395ffd8318aa3761b0b2b6d20b3514f26/detectron2/data/common.py#L164
+https://github.com/hujiecpp/YOSO/blob/04b898d395ffd8318aa3761b0b2b6d20b3514f26/detectron2/data/common.py#L207
+
+===============================
+https://github.com/yhw-yhw/MIME
+===============================
+
+Found 1 times
+class InfiniteDataset(IterableDataset):
+https://github.com/yhw-yhw/MIME/blob/ad7711f21a64eb541ffc6fa951dee25950148a66/scene_synthesis/datasets/common.py#L8
+
+===================================
+https://github.com/ywyue/RoomFormer
+===================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/ywyue/RoomFormer/blob/33ad087f50f15fce04719828db8d2a56fd4b630f/detectron2/data/common.py#L26
+https://github.com/ywyue/RoomFormer/blob/33ad087f50f15fce04719828db8d2a56fd4b630f/detectron2/data/common.py#L164
+https://github.com/ywyue/RoomFormer/blob/33ad087f50f15fce04719828db8d2a56fd4b630f/detectron2/data/common.py#L207
+
+============================
+https://github.com/lslrh/SIM
+============================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/lslrh/SIM/blob/b2510defc9effc78b12d64b62391383951a9055c/adet/data/common.py#L26
+https://github.com/lslrh/SIM/blob/b2510defc9effc78b12d64b62391383951a9055c/adet/data/common.py#L164
+https://github.com/lslrh/SIM/blob/b2510defc9effc78b12d64b62391383951a9055c/adet/data/common.py#L207
+
+================================
+https://github.com/wjf5203/VNext
+================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/wjf5203/VNext/blob/f00187144ee7ccb65f45bbc018121ebd32dbeccc/detectron2/data/common.py#L26
+https://github.com/wjf5203/VNext/blob/f00187144ee7ccb65f45bbc018121ebd32dbeccc/detectron2/data/common.py#L164
+https://github.com/wjf5203/VNext/blob/f00187144ee7ccb65f45bbc018121ebd32dbeccc/detectron2/data/common.py#L207
+
+=====================================
+https://github.com/clovaai/PointWSSIS
+=====================================
+
+Found 4 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+class _MyData(torch.utils.data.IterableDataset):
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/detectron2/data/common.py#L31
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/detectron2/data/common.py#L221
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/detectron2/data/common.py#L264
+https://github.com/clovaai/PointWSSIS/blob/bd3156e3866ac9131187f50cd0ee0cd0c2513589/detectron2/tests/data/test_dataset.py#L111
+
+======================================
+https://github.com/jialeli1/lidarseg3d
+======================================
+
+Found 2 times
+class Dataset(IterableDataset):
+class Dataset(IterableDataset):
+https://github.com/jialeli1/lidarseg3d/blob/6af716503600646c9366fe53f35d1189d9b78b50/nuscenes-devkit/python-sdk/nuscenes/prediction/tests/run_covernet.py#L27
+https://github.com/jialeli1/lidarseg3d/blob/6af716503600646c9366fe53f35d1189d9b78b50/nuscenes-devkit/python-sdk/nuscenes/prediction/tests/run_mtp.py#L19
+
+==============================
+https://github.com/naver/relis
+==============================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/detectron2/data/common.py#L31
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/detectron2/data/common.py#L221
+https://github.com/naver/relis/blob/088b4a6aa53205cb1e49141b127946df92a2bcea/detectron2/detectron2/data/common.py#L264
+
+================================
+https://github.com/alinlab/ifseg
+================================
+
+Found 1 times
+class FairseqIterableDataset(torch.utils.data.IterableDataset, EpochListening):
+https://github.com/alinlab/ifseg/blob/77c075ca89dd22654bc18d7bb9a2685e24c38311/custom_fairseq/fairseq/data/fairseq_dataset.py#L198
+
+=================================
+https://github.com/baaivision/EVA
+=================================
+
+Found 8 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+class ResampledShards2(IterableDataset):
+class ResampledShards2(IterableDataset):
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/det/detectron2/data/common.py#L26
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/det/detectron2/data/common.py#L164
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-01/det/detectron2/data/common.py#L207
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/detectron2/data/common.py#L26
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/detectron2/data/common.py#L164
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-02/det/detectron2/data/common.py#L207
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-CLIP-18B/shinji/training/data.py#L270
+https://github.com/baaivision/EVA/blob/01cb5c10e4c976bf8bc8680543e941aa8d8ba1c2/EVA-CLIP/rei/training/data.py#L270
+
+==========================================
+https://github.com/md-mohaiminul/TranS4mer
+==========================================
+
+Found 2 times
+class IterableImageDataset(data.IterableDataset):
+class IterableImageDataset(data.IterableDataset):
+https://github.com/md-mohaiminul/TranS4mer/blob/98de379770e0d4034280abb9923928c103377286/trans4mer/model/pytorch-image-models/timm/data/dataset.py#L69
+https://github.com/md-mohaiminul/TranS4mer/blob/98de379770e0d4034280abb9923928c103377286/trans4mer/model/timm/data/dataset.py#L69
+
+============================================================
+https://github.com/DavidZhang73/AssemblyVideoManualAlignment
+============================================================
+
+Found 1 times
+class IKEAAssemblyInTheWildFrameDataset(torch.utils.data.IterableDataset, ABC):
+https://github.com/DavidZhang73/AssemblyVideoManualAlignment/blob/68fc325c04e162d83c4811cc3159cb0bf6337803/src/data_modules/iaw.py#L47
+
+=========================================
+https://github.com/facebookresearch/EgoT2
+=========================================
+
+Found 1 times
+class LabeledVideoDataset(torch.utils.data.IterableDataset):
+https://github.com/facebookresearch/EgoT2/blob/1e261806cacfbbc350215adfdf034af13288719e/HOI/dataset/lta/ptv_dataset_helper.py#L30
+
+============================================
+https://github.com/BeSpontaneous/FFN-pytorch
+============================================
+
+Found 4 times
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/build/lib/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/3D_Network/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/build/lib/slowfast/datasets/ptv_datasets.py#L42
+https://github.com/BeSpontaneous/FFN-pytorch/blob/7c219229bb37a4c65039f163cd0f9da5613ef239/Transformer_Network/slowfast/datasets/ptv_datasets.py#L42
+
+====================================
+https://github.com/L1bra1/WeakMotion
+====================================
+
+Found 2 times
+class Dataset(IterableDataset):
+class Dataset(IterableDataset):
+https://github.com/L1bra1/WeakMotion/blob/2b65e28ce270c9f8a4ace32a3a1579b14557ffc3/gen_data/nuscenes/prediction/tests/run_covernet.py#L27
+https://github.com/L1bra1/WeakMotion/blob/2b65e28ce270c9f8a4ace32a3a1579b14557ffc3/gen_data/nuscenes/prediction/tests/run_mtp.py#L19
+
+====================================
+https://github.com/CASIA-IVA-Lab/ZBS
+====================================
+
+Found 2 times
+class MDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+class DIFFMDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+https://github.com/CASIA-IVA-Lab/ZBS/blob/48935827c2cb0643ff978458c0056891574e3f5d/detic/data/custom_dataset_dataloader.py#L268
+https://github.com/CASIA-IVA-Lab/ZBS/blob/48935827c2cb0643ff978458c0056891574e3f5d/detic/data/custom_dataset_dataloader.py#L288
+
+=====================================================
+https://github.com/amazon-science/polygon-transformer
+=====================================================
+
+Found 1 times
+class FairseqIterableDataset(torch.utils.data.IterableDataset, EpochListening):
+https://github.com/amazon-science/polygon-transformer/blob/69fc728b2ec6a2b3595ec34db64074badcb19151/fairseq/fairseq/data/fairseq_dataset.py#L198
+
+======================================
+https://github.com/microsoft/X-Decoder
+======================================
+
+Found 1 times
+class JointLoader(torchdata.IterableDataset):
+https://github.com/microsoft/X-Decoder/blob/165f8a6314ac84f5c36aaab7216f90dd97e38a43/datasets/build.py#L52
+
+=========================================
+https://github.com/cvlab-columbia/zero123
+=========================================
+
+Found 2 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class DataWithWings(torch.utils.data.IterableDataset):
+https://github.com/cvlab-columbia/zero123/blob/f426883b1a7353d91ddc34a551dd91b6223e4ce8/zero123/ldm/data/base.py#L7
+https://github.com/cvlab-columbia/zero123/blob/f426883b1a7353d91ddc34a551dd91b6223e4ce8/zero123/ldm/data/laion.py#L24
+
+==========================================
+https://github.com/andrewsonga/Total-Recon
+==========================================
+
+Found 2 times
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/detectron2/data/common.py#L117
+https://github.com/andrewsonga/Total-Recon/blob/7b49ce1a9da0f1a10a79e787b14b7e5c747e5c44/third_party/detectron2_old/detectron2/data/common.py#L152
+
+=================================
+https://github.com/sanmin0312/P2D
+=================================
+
+Found 2 times
+class Dataset(IterableDataset):
+class Dataset(IterableDataset):
+https://github.com/sanmin0312/P2D/blob/31e9e82b07fc50dca9ded22a12ae20b0f4a9d942/p2d/evaluators/evalonly/nuscenes/prediction/tests/run_covernet.py#L27
+https://github.com/sanmin0312/P2D/blob/31e9e82b07fc50dca9ded22a12ae20b0f4a9d942/p2d/evaluators/evalonly/nuscenes/prediction/tests/run_mtp.py#L19
+
+=========================================
+https://github.com/ethanweber/nerfbusters
+=========================================
+
+Found 2 times
+class NerfstudioDataset(IterableDataset):
+class SyntheticMeshDataset(IterableDataset):
+https://github.com/ethanweber/nerfbusters/blob/7ff88817a47922979806def2329b69009eeee3e3/nerfbusters/cubes/datasets3D.py#L67
+https://github.com/ethanweber/nerfbusters/blob/7ff88817a47922979806def2329b69009eeee3e3/nerfbusters/cubes/datasets3D.py#L154
+
+=========================================
+https://github.com/wengflow/robust-e-nerf
+=========================================
+
+Found 5 times
+class UniformSampler(torch.utils.data.IterableDataset):
+class TruncatedNormalSampler(torch.utils.data.IterableDataset):
+class DiracDeltaSampler(torch.utils.data.IterableDataset):
+class JoinDataset(torch.utils.data.IterableDataset):
+class IterableMapDataset(torch.utils.data.IterableDataset):
+https://github.com/wengflow/robust-e-nerf/blob/5bb9b46140c0063a25f00ebdc23d5b9a8a6edeac/robust_e_nerf/data/samplers.py#L6
+https://github.com/wengflow/robust-e-nerf/blob/5bb9b46140c0063a25f00ebdc23d5b9a8a6edeac/robust_e_nerf/data/samplers.py#L88
+https://github.com/wengflow/robust-e-nerf/blob/5bb9b46140c0063a25f00ebdc23d5b9a8a6edeac/robust_e_nerf/data/samplers.py#L107
+https://github.com/wengflow/robust-e-nerf/blob/5bb9b46140c0063a25f00ebdc23d5b9a8a6edeac/robust_e_nerf/utils/datasets.py#L5
+https://github.com/wengflow/robust-e-nerf/blob/5bb9b46140c0063a25f00ebdc23d5b9a8a6edeac/robust_e_nerf/utils/datasets.py#L20
+
+=========================================
+https://github.com/Rgtemze/HyperDiffusion
+=========================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/Rgtemze/HyperDiffusion/blob/fd2c5812aa62bc278061ccbcdd0185ca9ce46ed0/ldm/ldm/data/base.py#L7
+
+=======================================
+https://github.com/sqiangcao99/E2E-LOAD
+=======================================
+
+Found 1 times
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+https://github.com/sqiangcao99/E2E-LOAD/blob/beddae33d57b30393ccb2145be377ce3953183bf/src/datasets/ptv_datasets.py#L42
+
+===============================================
+https://github.com/kcshum/neural_360_decoration
+===============================================
+
+Found 1 times
+class NullIterableDataset(IterableDataset):
+https://github.com/kcshum/neural_360_decoration/blob/a34701de35ed55b2531eb28aeb4efb036917a8df/src/data/nodata.py#L12
+
+==========================================
+https://github.com/eslambakr/HRS_benchmark
+==========================================
+
+Found 4 times
+class MDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+class MixImageVideoDataset(IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/eval_metrics/detection/UniDet-master/unidet/data/multi_dataset_dataloader.py#L203
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/t2i_models/Paella/ongoing_research/text-to-video/utils.py#L212
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/t2i_models/Structured-Diffusion-Guidance-master/structured_stable_diffusion/data/base.py#L5
+https://github.com/eslambakr/HRS_benchmark/blob/4df908c87f6139dfe4164901b7227b4f69ff3d7f/codes/t2i_models/sd_v1/ldm/data/base.py#L5
+
+=========================================
+https://github.com/runjiali-rl/Oxford_HIC
+=========================================
+
+Found 2 times
+class IterableDatasetShard(IterableDataset):
+class PipelineIterator(IterableDataset):
+https://github.com/runjiali-rl/Oxford_HIC/blob/9253ecc0947e772b886e5816b896aebe2f6b30dc/clipcap/transformers/trainer_pt_utils.py#L727
+https://github.com/runjiali-rl/Oxford_HIC/blob/9253ecc0947e772b886e5816b896aebe2f6b30dc/clipcap/transformers/pipelines/pt_utils.py#L23
+
+====================================
+https://github.com/microsoft/Moonlit
+====================================
+
+Found 1 times
+class CustomJsonDataset(torch.utils.data.IterableDataset):
+https://github.com/microsoft/Moonlit/blob/bc398779883316b12f1c7edeb4890e36bc2578c2/Compresso/tasks/llm_qat_data.py#L64
+
+========================================
+https://github.com/mxin262/ESTextSpotter
+========================================
+
+Found 1 times
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/mxin262/ESTextSpotter/blob/21717310bfb9b32108e5124206dcaf66d90a5e34/detectron2-0.2.1/detectron2/data/common.py#L115
+
+============================================
+https://github.com/huawei-noah/noah-research
+============================================
+
+Found 1 times
+class FairseqIterableDataset(torch.utils.data.IterableDataset, EpochListening):
+https://github.com/huawei-noah/noah-research/blob/0cc7512669408c21d2b6f85ddcf40e2a34bc5abd/noahnmt/multiuat/fairseq/fairseq/data/fairseq_dataset.py#L198
+
+======================================================
+https://github.com/magic-research/Dataset_Quantization
+======================================================
+
+Found 1 times
+class IterableImageDataset(data.IterableDataset):
+https://github.com/magic-research/Dataset_Quantization/blob/24a2a77dd80c2cc86b53e2b2e204f1e02804d70e/pytorch_image_models/timm/data/dataset.py#L69
+
+================================
+https://github.com/ChenMnZ/SMMix
+================================
+
+Found 1 times
+class IterableImageDataset(data.IterableDataset):
+https://github.com/ChenMnZ/SMMix/blob/14b1edcd5d2257d17e010f48d9c61ee30ecd8632/timm/data/dataset.py#L65
+
+==================================================
+https://github.com/google-research/google-research
+==================================================
+
+Found 2 times
+class CookedInfRfill(IterableDataset):
+https://github.com/google-research/google-research/blob/077b0ff78887ff08e84a25ea385fb66633e4ba21/aloe/aloe/rfill/utils/dataset.py#L94
+
+===========================================
+https://github.com/ruoxi-jia-group/CLIP-MIA
+===========================================
+
+Found 1 times
+class ResampledShards2(IterableDataset):
+https://github.com/ruoxi-jia-group/CLIP-MIA/blob/1d8317ad627d0cacc8544fd27b51474f271d616d/data.py#L253
+
+==========================================
+https://github.com/yael-vinker/SceneSketch
+==========================================
+
+Found 1 times
+class InpaintingTrainWebDataset(IterableDataset):
+https://github.com/yael-vinker/SceneSketch/blob/2377feb466cd14fa56695b25628222e446a37b36/lama/saicinpainting/training/data/datasets.py#L48
+
+=================================
+https://github.com/snuvclab/chupa
+=================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/snuvclab/chupa/blob/c59fe407d46eb3f4befec37f126ca66be57234e7/src/ldm/data/base.py#L5
+
+========================================
+https://github.com/IDEA-Research/HumanSD
+========================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/IDEA-Research/HumanSD/blob/c5db29dd66a3e40afa8b4bed630f0aa7ea001880/ldm/data/base.py#L5
+
+========================================
+https://github.com/facebookresearch/silk
+========================================
+
+Found 2 times
+class _MockIterableDataset(IterableDataset):
+class RandomizedIterable(IterableDataset):
+https://github.com/facebookresearch/silk/blob/bd605bf4180c05a42dae0d807412b40ce0dbcc21/lib/data/loader_test.py#L27
+https://github.com/facebookresearch/silk/blob/bd605bf4180c05a42dae0d807412b40ce0dbcc21/lib/datasets/abstract.py#L43
+
+====================================================
+https://github.com/facebookresearch/stable_signature
+====================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/facebookresearch/stable_signature/blob/20383c5f3707c697e2d5a583326104d4c8f4b164/src/ldm/data/base.py#L5
+
+=============================================
+https://github.com/microsoft/LayoutGeneration
+=============================================
+
+Found 4 times
+class ConstantLengthDataset(IterableDataset):
+class ConstantLengthDataset(IterableDataset):
+class IterableDatasetShard(IterableDataset):
+class PipelineIterator(IterableDataset):
+https://github.com/microsoft/LayoutGeneration/blob/1498ff300710b4fc204aece537582d37ca447fc7/LayoutDiffusion/transformers/examples/research_projects/codeparrot/scripts/codeparrot_training.py#L20
+https://github.com/microsoft/LayoutGeneration/blob/1498ff300710b4fc204aece537582d37ca447fc7/LayoutDiffusion/transformers/examples/research_projects/codeparrot/scripts/validation_loss.py#L13
+https://github.com/microsoft/LayoutGeneration/blob/1498ff300710b4fc204aece537582d37ca447fc7/LayoutDiffusion/transformers/src/transformers/trainer_pt_utils.py#L688
+https://github.com/microsoft/LayoutGeneration/blob/1498ff300710b4fc204aece537582d37ca447fc7/LayoutDiffusion/transformers/src/transformers/pipelines/pt_utils.py#L21
+
+==================================================
+https://github.com/humansensinglab/cycle-diffusion
+==================================================
+
+Found 2 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/humansensinglab/cycle-diffusion/blob/cc9dd0a9cc97d3871ccd339718a24684c0339235/model/lib/latentdiff/ldm/data/base.py#L5
+https://github.com/humansensinglab/cycle-diffusion/blob/cc9dd0a9cc97d3871ccd339718a24684c0339235/model/lib/stable_diffusion/ldm/data/base.py#L5
+
+================================
+https://github.com/desaixie/gait
+================================
+
+Found 1 times
+class ReplayBuffer(torch.utils.data.IterableDataset):
+https://github.com/desaixie/gait/blob/2fee70405374229c7d77fdba5d0bf3ce8d0cfd6b/drqv2/replay_buffer.py#L119
+
+==================================================
+https://github.com/cotton6/COTTON-size-does-matter
+==================================================
+
+Found 1 times
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/cotton6/COTTON-size-does-matter/blob/9aedf55830298918f724af6391ccc5c30e06df02/code/preprocessing/Self-Correction-Human-Parsing/mhp_extension/detectron2/detectron2/data/common.py#L115
+
+==============================================
+https://github.com/Lipurple/Grounded-Diffusion
+==============================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/Lipurple/Grounded-Diffusion/blob/5680115dcf5196d3736e2b1d157e9f5c7c6869ce/ldm/data/base.py#L5
+
+==========================================================
+https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn
+==========================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn/blob/764199807b3930947af4ab4b2f72890a0e667452/attention_optimization/stable-diffusion/ldm/data/base.py#L5
+
+======================================
+https://github.com/vvictoryuki/FreeDoM
+======================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/vvictoryuki/FreeDoM/blob/1394b1dc5807fb01db6a26d2dc42ca05e3d2eaf5/SD_style/ldm/data/base.py#L5
+
+====================================================
+https://github.com/MagicFusion/MagicFusion.github.io
+====================================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/MagicFusion/MagicFusion.github.io/blob/eb5460c4bd14a1790aceb713f0a1eb18bf534ddf/ldm/data/base.py#L5
+
+=============================================
+https://github.com/nupurkmr9/concept-ablation
+=============================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/nupurkmr9/concept-ablation/blob/d78077c37e24e11f6b64567121dd21b9d25d3c8f/compvis/ldm/data/base.py#L5
+
+=====================================
+https://github.com/salesforce/GlueGen
+=====================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/salesforce/GlueGen/blob/4159352d888d3cafb8f6ac666f0275dce0d885ce/stable-diffusion/ldm/data/base.py#L15
+
+===================================
+https://github.com/Zj-BinXia/DiffIR
+===================================
+
+Found 1 times
+class InpaintingTrainWebDataset(IterableDataset):
+https://github.com/Zj-BinXia/DiffIR/blob/6af96e0b8cd3907feb0dd812de24847ef1728149/DiffIR-inpainting/saicinpainting/training/data/datasets.py#L48
+
+=================================
+https://github.com/camwew/TADA-MI
+=================================
+
+Found 1 times
+class SerializeFileList(data.IterableDataset):
+https://github.com/camwew/TADA-MI/blob/2174957ccab10772ec5203273326acd207b739a0/dataloader/infer_loader.py#L14
+
+====================================
+https://github.com/funkelab/cellulus
+====================================
+
+Found 1 times
+class ZarrDataset(IterableDataset):  # type: ignore
+https://github.com/funkelab/cellulus/blob/7752a94560f1f4d5d830dd4ba9ae1f74744e7041/cellulus/datasets/zarr_dataset.py#L12
+
+==================================
+https://github.com/microsoft/Cream
+==================================
+
+Found 4 times
+class ResampledShards2(IterableDataset):
+class IterableImageDataset(data.IterableDataset):
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/TinyCLIP/src/training/data.py#L292
+https://github.com/microsoft/Cream/blob/4a13c4091e78f9abd2160e7e01c02e48c1cf8fb9/TinyViT/data/augmentation/dataset.py#L69
+
+===================================
+https://github.com/tgxs002/align_sd
+===================================
+
+Found 1 times
+class dataset_wrapper(torch.utils.data.IterableDataset):
+https://github.com/tgxs002/align_sd/blob/78a49a3b5e30cc738b844bb3cefd6bd5ccbb3e8b/download_regularization_images.py#L20
+
+=========================================
+https://github.com/rohitgandikota/erasing
+=========================================
+
+Found 2 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class DataWithWings(torch.utils.data.IterableDataset):
+https://github.com/rohitgandikota/erasing/blob/a2189e9ae677aca22a00c361bde25d3d320d8a61/ldm/data/base.py#L7
+https://github.com/rohitgandikota/erasing/blob/a2189e9ae677aca22a00c361bde25d3d320d8a61/ldm/data/laion.py#L24
+
+=====================================
+https://github.com/cure-lab/DiffGuard
+=====================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/cure-lab/DiffGuard/blob/6125295e336148baab78f435ef2f988ad1e2a534/ldm/data/base.py#L5
+
+========================================
+https://github.com/OpenGVLab/UniFormerV2
+========================================
+
+Found 1 times
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+https://github.com/OpenGVLab/UniFormerV2/blob/722a43440fc5b9662cc2a8f23b86caa205e45ebc/slowfast/datasets/ptv_datasets.py#L42
+
+=================================
+https://github.com/xmed-lab/CLIPN
+=================================
+
+Found 2 times
+class ResampledShards2(IterableDataset):
+class ResampledShards2(IterableDataset):
+https://github.com/xmed-lab/CLIPN/blob/e465074b5f2281b5488b66de4b51e3e8bc89d911/hand-crafted/src/training/data.py#L255
+https://github.com/xmed-lab/CLIPN/blob/e465074b5f2281b5488b66de4b51e3e8bc89d911/src/training/data.py#L255
+
+===========================================
+https://github.com/bravezzzzzz/RecursiveDet
+===========================================
+
+Found 2 times
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/detectron2/data/common.py#L117
+https://github.com/bravezzzzzz/RecursiveDet/blob/1785b453da558fa48742e21ad3d4cfefec896d47/detectron2/data/common.py#L152
+
+===================================
+https://github.com/Loco-Roco/DiffAD
+===================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/Loco-Roco/DiffAD/blob/0edeac9cfb09801f78faa46bc30c4bbe1498d50f/rec_network/data/base.py#L5
+
+=====================================
+https://github.com/billpsomas/simpool
+=====================================
+
+Found 2 times
+class IterableImageDataset(data.IterableDataset):
+class ResampledShards2(IterableDataset):
+https://github.com/billpsomas/simpool/blob/fac2263537c376384f3d52bca795bcca08302686/supervised/timm/data/dataset.py#L84
+https://github.com/billpsomas/simpool/blob/fac2263537c376384f3d52bca795bcca08302686/supervised/timm/data/readers/reader_wds.py#L239
+
+=================================
+https://github.com/wangck20/OPERA
+=================================
+
+Found 1 times
+class IterableImageDataset(data.IterableDataset):
+https://github.com/wangck20/OPERA/blob/0658396ff0f7f6afce9ea35f7c4cfccd8fbf87de/timm/data/dataset.py#L69
+
+===================================
+https://github.com/kahnchana/clippy
+===================================
+
+Found 1 times
+class ResampledShards2(IterableDataset):
+https://github.com/kahnchana/clippy/blob/04bf78bcc5ab00a1f246e138267dcd2bc3c89259/src/training/data.py#L253
+
+=================================
+https://github.com/Separius/SCALE
+=================================
+
+Found 1 times
+class PTVDatasetWrapper(torch.utils.data.IterableDataset):
+https://github.com/Separius/SCALE/blob/6fd17b9112e014805c34c38212fe4eb622db4f96/SlowFast/slowfast/datasets/ptv_datasets.py#L42
+
+========================================
+https://github.com/MischaD/fobadiffusion
+========================================
+
+Found 3 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+class DataWithWings(torch.utils.data.IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/MischaD/fobadiffusion/blob/cf2f777a4ff23b96d035ee0aa2808a7b0850a36d/finetune-stable-diffusion/ldm/data/base.py#L7
+https://github.com/MischaD/fobadiffusion/blob/cf2f777a4ff23b96d035ee0aa2808a7b0850a36d/finetune-stable-diffusion/ldm/data/laion.py#L24
+https://github.com/MischaD/fobadiffusion/blob/cf2f777a4ff23b96d035ee0aa2808a7b0850a36d/stable-diffusion/ldm/data/base.py#L5
+
+=========================================
+https://github.com/IDEA-Research/OpenSeeD
+=========================================
+
+Found 1 times
+class JointLoader(torchdata.IterableDataset):
+https://github.com/IDEA-Research/OpenSeeD/blob/5dc694ed55e4b71ff57ee3d98ef6ac0dfcaad847/datasets/build.py#L57
+
+=========================================
+https://github.com/jellyheadandrew/CHORUS
+=========================================
+
+Found 5 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+class _MyData(torch.utils.data.IterableDataset):
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/detectron2/data/common.py#L61
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/detectron2/data/common.py#L251
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/detectron2/data/common.py#L302
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/detectron2_repo/tests/data/test_dataset.py#L111
+https://github.com/jellyheadandrew/CHORUS/blob/24630f86756251bbdd0a63992943cd7e209813ed/imports/ldm/ldm/data/base.py#L5
+
+==============================
+https://github.com/OoDBag/RISE
+==============================
+
+Found 2 times
+class IterableImageDataset(data.IterableDataset):
+class ResampledShards2(IterableDataset):
+https://github.com/OoDBag/RISE/blob/ebf71b4c50fefc0ad5e8129f8fff5adcaacbf451/timm/data/dataset.py#L84
+https://github.com/OoDBag/RISE/blob/ebf71b4c50fefc0ad5e8129f8fff5adcaacbf451/timm/data/readers/reader_wds.py#L240
+
+========================================
+https://github.com/showlab/Efficient-CLS
+========================================
+
+Found 3 times
+class _MapIterableDataset(data.IterableDataset):
+class ToIterableDataset(data.IterableDataset):
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/showlab/Efficient-CLS/blob/969af047700bc2ff1ba2fb41b26ac4e386d3f2f7/detectron2/data/common.py#L26
+https://github.com/showlab/Efficient-CLS/blob/969af047700bc2ff1ba2fb41b26ac4e386d3f2f7/detectron2/data/common.py#L164
+https://github.com/showlab/Efficient-CLS/blob/969af047700bc2ff1ba2fb41b26ac4e386d3f2f7/detectron2/data/common.py#L207
+
+==============================
+https://github.com/ku-vai/TPoS
+==============================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/ku-vai/TPoS/blob/8be5e126a397372b872d4b071fdc45f23e444837/ldm/data/base.py#L5
+
+==================================
+https://github.com/3dlg-hcvc/paris
+==================================
+
+Found 1 times
+class BlenderIterableDataset(IterableDataset, BlenderDatasetBase):
+https://github.com/3dlg-hcvc/paris/blob/3db469a80634441f2bc93685c8cbdb635c534e46/datasets/blender_paris.py#L168
+
+===================================
+https://github.com/tmaham/DS-Fusion
+===================================
+
+Found 1 times
+class Txt2ImgIterableBaseDataset(IterableDataset):
+https://github.com/tmaham/DS-Fusion/blob/c63e5de51244914033ea444751cbfd6e757b6d9c/ldm/data/base.py#L5
+
+===================================================
+https://github.com/TAU-VAILab/learning-interactions
+===================================================
+
+Found 1 times
+class ImageDataset(IterableDataset):
+https://github.com/TAU-VAILab/learning-interactions/blob/0cbc9a03a6d09f538dd0c079e7f78d4124166849/modeling/src/data.py#L70
+
+===================================
+https://github.com/SHTUPLUS/GITM-MR
+===================================
+
+Found 1 times
+class AspectRatioGroupedDataset(data.IterableDataset):
+https://github.com/SHTUPLUS/GITM-MR/blob/0606b133043efe3fbe392edee0ce278c6c0eff89/detectron2/data/common.py#L115
+
+==================================
+https://github.com/yonseivnl/cmota
+==================================
+
+Found 1 times
+class Processor(IterableDataset, Composable, Shorthands):
+https://github.com/yonseivnl/cmota/blob/517e6c6167b62acaa3b13ae1c08d5dc6589e1836/cmota/utils/wds_workaround.py#L20
+
+================================
+https://github.com/AirVLN/AirVLN
+================================
+
+Found 4 times
+class DDPIWTrajectoryDataset(torch.utils.data.IterableDataset):
+class IWTrajectoryDataset(torch.utils.data.IterableDataset):
+class DDPIWTrajectoryDataset(torch.utils.data.IterableDataset):
+class IWTrajectoryDataset(torch.utils.data.IterableDataset):
+https://github.com/AirVLN/AirVLN/blob/99374907ac0296bb086b65a0e45719ac64cad4a1/src/vlnce_src/dagger_train.py#L60
+https://github.com/AirVLN/AirVLN/blob/99374907ac0296bb086b65a0e45719ac64cad4a1/src/vlnce_src/dagger_train.py#L194
+https://github.com/AirVLN/AirVLN/blob/99374907ac0296bb086b65a0e45719ac64cad4a1/src/vlnce_src/train.py#L48
+https://github.com/AirVLN/AirVLN/blob/99374907ac0296bb086b65a0e45719ac64cad4a1/src/vlnce_src/train.py#L175
+
+==========================================
+https://github.com/facebookresearch/VLPart
+==========================================
+
+Found 2 times
+class MDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+class DIFFMDAspectRatioGroupedDataset(torch.utils.data.IterableDataset):
+https://github.com/facebookresearch/VLPart/blob/e48903ab0cb38e4dd5be7ce7da2e36c855eff53f/vlpart/data/custom_dataset_dataloader.py#L331
+https://github.com/facebookresearch/VLPart/blob/e48903ab0cb38e4dd5be7ce7da2e36c855eff53f/vlpart/data/custom_dataset_dataloader.py#L351
+
+=================================
+https://github.com/MrZihan/GridMM
+=================================
+
+Found 1 times
+class TeacherRecollectionDataset(torch.utils.data.IterableDataset):
+https://github.com/MrZihan/GridMM/blob/b7e0fb32e3d90796001f9f3386b5165b7c71f4a8/VLN_CE/vlnce_baselines/common/recollection_dataset.py#L22
+
+======================================
+https://github.com/MarSaKi/VLN-BEVBert
+======================================
+
+Found 2 times
+class VLNBERTTrajectoryDataset(torch.utils.data.IterableDataset):
+class TeacherRecollectionDataset(torch.utils.data.IterableDataset):
+https://github.com/MarSaKi/VLN-BEVBert/blob/161ffdbee6743c8c13365b4b8549aae8aabcb013/bevbert_ce/vlnce_baselines/dagger_trainer.py#L98
+https://github.com/MarSaKi/VLN-BEVBert/blob/161ffdbee6743c8c13365b4b8549aae8aabcb013/bevbert_ce/vlnce_baselines/common/recollection_dataset.py#L22
+
+=======================================
+https://github.com/zhjohnchan/ptunifier
+=======================================
+
+Found 1 times
+class AllennlpLazyDataset(IterableDataset):
+https://github.com/zhjohnchan/ptunifier/blob/eee60eb1c3eb1c2bfba6debb15b6a82b9554c62c/ptunifier/metrics/jb_scorers/RadGraph/allennlp/data/dataset_readers/dataset_reader.py#L53
+
+===================================
+https://github.com/rvandeghen/ASTOD
+===================================
+
+Found 2 times
+class ToIterableDataset(data.IterableDataset):
+class SplitBatch(data.IterableDataset):
+https://github.com/rvandeghen/ASTOD/blob/67069fd15d2ebc11b5771e1d6baf3f8da6cffaaf/src/group_by_aspect_ratio.py#L242
+https://github.com/rvandeghen/ASTOD/blob/67069fd15d2ebc11b5771e1d6baf3f8da6cffaaf/src/group_by_aspect_ratio.py#L272
