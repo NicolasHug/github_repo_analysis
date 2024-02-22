@@ -23,12 +23,12 @@ Getting Started
 
 (Roughly)
 
-- 1. `download_repos.py`: Clone specified GitHub repositories in batches.
-- 2. `parse_repos.py`: Parse Python files in the repos and record all
-     calls/imports/attribute accesses of any api. Results are available as pandas
-     DataFrames and saved in csv files.
-- 3. `report.py`: Query the saved csv files and get reports for the APIs
-     you're interested in. Open this as a bento notebook.
+1. `download_repos.py`: Clone specified GitHub repositories in batches.
+2. `parse_repos.py`: Parse Python files in the repos and record all
+   calls/imports/attribute accesses of any api. Results are available as pandas
+   DataFrames and saved in csv files.
+3. `report.py`: Query the saved csv files and get reports for the APIs
+   you're interested in. Open this as a bento notebook.
 
 These files are meant to be copy/pasted and modified on your own devvm or laptop.
 This isn't meant to be a buck project (although it could).
